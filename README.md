@@ -26,7 +26,6 @@ quarto preview
 - Files to edit
   - `update_schedule.py`
   - `styles.css`
-  - `about.qmd`
 - Run `python3 update_schedule.py` to generate `index.qmd` and `schedule.md`
   about.qmd
 

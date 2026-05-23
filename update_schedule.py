@@ -340,7 +340,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
                 away = short_name(g["away"])
                 stream = format_stream_html(g["networks"])
                 lines.append(f'<tr class="game-row" data-home="{home}" data-away="{away}">')
-                lines.append(f"  <td>{home}</td><td>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td>{stream}</td>")
+                lines.append(f"  <td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td>{stream}</td>")
                 lines.append("</tr>")
             lines += ["</tbody></table>", "</div>"]
         lines += ["```", ""]
