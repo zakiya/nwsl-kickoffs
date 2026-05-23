@@ -1,4 +1,7 @@
 /* css styles */
+:root {
+  --bs-heading-color: blue;
+}
 
 /* Thin white navbar with subtle separator */
 .navbar {
