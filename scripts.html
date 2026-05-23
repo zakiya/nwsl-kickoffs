@@ -1,4 +1,12 @@
 <script>
+const TZ_MAP = {
+  ET: 'America/New_York',
+  CT: 'America/Chicago',
+  MT: 'America/Denver',
+  PT: 'America/Los_Angeles',
+  GMT: 'GMT'
+};
+
 function setTZ(tz, label, btn) {
   document.querySelectorAll('.tz-btn').forEach(b => {
     b.classList.remove('btn-primary');
@@ -20,5 +28,18 @@ function setTZ(tz, label, btn) {
       cell.innerHTML = `<strong>${fmt(cell.dataset.announced)} ${label}</strong>`;
     }
   });
+
+  const url = new URL(window.location);
+  url.searchParams.set('timezone', label);
+  history.replaceState(null, '', url);
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  const params = new URLSearchParams(window.location.search);
+  const tzParam = params.get('timezone');
+  if (tzParam && TZ_MAP[tzParam]) {
+    const btn = document.querySelector(`.tz-btn[data-tz="${tzParam}"]`);
+    if (btn) setTZ(TZ_MAP[tzParam], tzParam, btn);
+  }
+});
 </script>
