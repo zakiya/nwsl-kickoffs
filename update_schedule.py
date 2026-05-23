@@ -94,8 +94,7 @@ TZ_TOGGLE_HTML = """\
 
 APPROX_NOTE = (
     "*Kickoff times are approximate based on historical trends. "
-    "On the national channels (i.e., ABC, CBS, etc.), there is always the risk "
-    "of kickoff time shifting to accomodate previous programs running late."
+    "On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late."
 )
 
 # ── FETCH ─────────────────────────────────────────────────────────────────────
