@@ -6,28 +6,16 @@
 - Python 3.10+ — to run `update_schedule.py`
 - Python dependency: `pip install requests`
 
-## Usage
-
-Update schedule data:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate 
-python3 update_schedule.py
-```
-
-Preview the site:
-```bash
-quarto preview
-```
-
 ## Basic development flow
 
-- Files to edit
-  - `update_schedule.py`
+- Edit source files
+  - `update_schedule.py` 
   - `styles.css`
-- Run `python3 update_schedule.py` to generate `index.qmd` and `schedule.md`
-  about.qmd
+  - `index.html`
+
+- Run `source .venv/bin/activate && python3 update_schedule.py && quarto render` to generate `index.qmd`, `schedule.qmd`, and _`site`
+
+- Preview the site with `quarto preview`
 
 ## Troubleshooting
 
