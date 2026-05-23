@@ -224,7 +224,7 @@ def build_index_content(games: list[dict]) -> str:
             home = short_name(g["home"])
             away = short_name(g["away"])
             lines.append(f"<tr>")
-            lines.append(f"  <td>{home}</td><td>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td>{format_stream_html(g['networks'])}</td>")
+            lines.append(f"  <td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td class=stream>{format_stream_html(g['networks'])}</td>")
             lines.append("</tr>")
         lines += ["</tbody></table>", "```", ""]
     return "\n".join(lines)
