@@ -7,7 +7,8 @@ const TZ_MAP = {
   GMT: 'GMT'
 };
 
-function setTZ(tz, label, btn) {
+function setTZ(label, btn) {
+  const tz = TZ_MAP[label];
   document.querySelectorAll('.tz-btn').forEach(b => {
     b.classList.remove('btn-primary');
     b.classList.add('btn-outline-secondary');
@@ -34,12 +35,34 @@ function setTZ(tz, label, btn) {
   history.replaceState(null, '', url);
 }
 
+function filterTeam(team) {
+  document.querySelectorAll('.game-row').forEach(row => {
+    row.style.display =
+      (team === 'all' || row.dataset.home === team || row.dataset.away === team)
+      ? '' : 'none';
+  });
+
+  document.querySelectorAll('.day-section').forEach(section => {
+    const visible = [...section.querySelectorAll('.game-row')].some(r => r.style.display !== 'none');
+    section.style.display = visible ? '' : 'none';
+  });
+
+  // Quarto wraps markdown ## headings in <section class="level2">
+  document.querySelectorAll('section.level2').forEach(section => {
+    const visible = [...section.querySelectorAll('.day-section')].some(d => d.style.display !== 'none');
+    section.style.display = visible ? '' : 'none';
+  });
+
+  const anyVisible = [...document.querySelectorAll('.game-row')].some(r => r.style.display !== 'none');
+  document.getElementById('no-results').style.display = anyVisible ? 'none' : 'block';
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   const params = new URLSearchParams(window.location.search);
   const tzParam = params.get('timezone');
   if (tzParam && TZ_MAP[tzParam]) {
     const btn = document.querySelector(`.tz-btn[data-tz="${tzParam}"]`);
-    if (btn) setTZ(TZ_MAP[tzParam], tzParam, btn);
+    if (btn) setTZ(tzParam, btn);
   }
 });
 </script>

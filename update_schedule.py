@@ -85,11 +85,11 @@ MD_LINK = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 TZ_TOGGLE_HTML = """\
 <div class="mb-3 d-flex align-items-center gap-2">
   <span class="text-muted small fw-semibold me-1">Time zone:</span>
-  <button class="btn btn-sm btn-primary tz-btn" data-tz="ET" onclick="setTZ('America/New_York', 'ET', this)">ET</button>
-  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="CT" onclick="setTZ('America/Chicago', 'CT', this)">CT</button>
-  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="MT" onclick="setTZ('America/Denver', 'MT', this)">MT</button>
-  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="PT" onclick="setTZ('America/Los_Angeles', 'PT', this)">PT</button>
-  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="GMT" onclick="setTZ('GMT', 'GMT', this)">GMT</button>
+  <button class="btn btn-sm btn-primary tz-btn" data-tz="ET" onclick="setTZ('ET', this)">ET</button>
+  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="CT" onclick="setTZ('CT', this)">CT</button>
+  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="MT" onclick="setTZ('MT', this)">MT</button>
+  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="PT" onclick="setTZ('PT', this)">PT</button>
+  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="GMT" onclick="setTZ('GMT', this)">GMT</button>
 </div>"""
 
 APPROX_NOTE = (
@@ -243,31 +243,6 @@ def update_index_qmd(path: str, content_block: str) -> None:
 
 # ── SCHEDULE.QMD — HTML tables with team filter, full season ──────────────────
 
-FILTER_JS = """\
-<script>
-function filterTeam(team) {
-  document.querySelectorAll('.game-row').forEach(row => {
-    row.style.display =
-      (team === 'all' || row.dataset.home === team || row.dataset.away === team)
-      ? '' : 'none';
-  });
-
-  document.querySelectorAll('.day-section').forEach(section => {
-    const visible = [...section.querySelectorAll('.game-row')].some(r => r.style.display !== 'none');
-    section.style.display = visible ? '' : 'none';
-  });
-
-  // Quarto wraps markdown ## headings in <section class="level2">
-  document.querySelectorAll('section.level2').forEach(section => {
-    const visible = [...section.querySelectorAll('.day-section')].some(d => d.style.display !== 'none');
-    section.style.display = visible ? '' : 'none';
-  });
-
-  const anyVisible = [...document.querySelectorAll('.game-row')].some(r => r.style.display !== 'none');
-  document.getElementById('no-results').style.display = anyVisible ? 'none' : 'block';
-}
-</script>"""
-
 
 def write_schedule_qmd(path: str, games: list[dict]) -> None:
     """Write schedule.qmd with markdown month headings (picked up by Quarto TOC)
@@ -318,7 +293,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
         f'title: "{SEASON_START.year} NWSL Full Schedule"',
         "---",
         "",
-        "*Kickoff times are approximate based on historical trends.",
+        APPROX_NOTE,
         "",
         "```{=html}",
         *dropdown,
@@ -344,8 +319,6 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
                 lines.append("</tr>")
             lines += ["</tbody></table>", "</div>"]
         lines += ["```", ""]
-
-    lines += ["```{=html}", FILTER_JS, "```", ""]
 
     with open(path, "w") as f:
         f.write("\n".join(lines))

@@ -2,7 +2,7 @@
 title: "2026 NWSL Full Schedule"
 ---
 
-*Kickoff times are approximate based on historical trends.
+*Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
 
 ```{=html}
 <div class="d-flex flex-wrap gap-1 align-items-center mb-3 d-md-none">
@@ -18,11 +18,11 @@ title: "2026 NWSL Full Schedule"
 </div>
 <div class="mb-3 d-flex align-items-center gap-2">
   <span class="text-muted small fw-semibold me-1">Time zone:</span>
-  <button class="btn btn-sm btn-primary tz-btn" data-tz="ET" onclick="setTZ('America/New_York', 'ET', this)">ET</button>
-  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="CT" onclick="setTZ('America/Chicago', 'CT', this)">CT</button>
-  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="MT" onclick="setTZ('America/Denver', 'MT', this)">MT</button>
-  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="PT" onclick="setTZ('America/Los_Angeles', 'PT', this)">PT</button>
-  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="GMT" onclick="setTZ('GMT', 'GMT', this)">GMT</button>
+  <button class="btn btn-sm btn-primary tz-btn" data-tz="ET" onclick="setTZ('ET', this)">ET</button>
+  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="CT" onclick="setTZ('CT', this)">CT</button>
+  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="MT" onclick="setTZ('MT', this)">MT</button>
+  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="PT" onclick="setTZ('PT', this)">PT</button>
+  <button class="btn btn-sm btn-outline-secondary tz-btn" data-tz="GMT" onclick="setTZ('GMT', this)">GMT</button>
 </div>
 <div class="mb-4 d-flex align-items-center gap-2">
   <label for="team-select" class="fw-semibold text-nowrap mb-0">Filter by team:</label>
@@ -1353,30 +1353,4 @@ title: "2026 NWSL Full Schedule"
 </tr>
 </tbody></table>
 </div>
-```
-
-```{=html}
-<script>
-function filterTeam(team) {
-  document.querySelectorAll('.game-row').forEach(row => {
-    row.style.display =
-      (team === 'all' || row.dataset.home === team || row.dataset.away === team)
-      ? '' : 'none';
-  });
-
-  document.querySelectorAll('.day-section').forEach(section => {
-    const visible = [...section.querySelectorAll('.game-row')].some(r => r.style.display !== 'none');
-    section.style.display = visible ? '' : 'none';
-  });
-
-  // Quarto wraps markdown ## headings in <section class="level2">
-  document.querySelectorAll('section.level2').forEach(section => {
-    const visible = [...section.querySelectorAll('.day-section')].some(d => d.style.display !== 'none');
-    section.style.display = visible ? '' : 'none';
-  });
-
-  const anyVisible = [...document.querySelectorAll('.game-row')].some(r => r.style.display !== 'none');
-  document.getElementById('no-results').style.display = anyVisible ? 'none' : 'block';
-}
-</script>
 ```
