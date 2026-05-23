@@ -103,4 +103,4 @@ title: "NWSL Kickoff Times and Streaming Info"
 -   More information can also be found on the [National Women's Soccer League's Victory+ FAQ site](https://www.nwslsoccer.com/news/victory-faq-everything-nwsl-fans-need-to-know-about-the-free-streaming-platform).
 
 
-This site is a fork. It was originally created by Arianna D. Cascone (ariannacascone4@gmail.com). Visit the original at [nationalwomenssoccerleague.com](https://nationalwomenssoccerleague.com) to show your support.
+This site is a fork. It was originally created by Arianna D. Cascone (ariannacascone4@gmail.com). Visit the original at [nationalwomenssoccerleague.com](http://nationalwomenssoccerleague.com) to show your support.
