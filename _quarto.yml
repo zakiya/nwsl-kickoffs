@@ -1,11 +1,11 @@
 project:
   type: website
   resources:
-    - CNAME
+    - icons
 
 website:
   title: ""
-  site-url: https://nationalwomenssoccerleague.com
+  site-url: https://zakiya.github.io/nwsl-schedule/_site
   search: false
   navbar:
     background: light
@@ -22,5 +22,6 @@ format:
     theme: lux
     css: styles.css
     include-after-body: scripts.html
+    include-in-header: head.html
     toc: true
     page-layout: article
