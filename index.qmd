@@ -86,21 +86,27 @@ title: "NWSL Kickoff Times and Streaming Info"
 
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
 
-## FAQs
+## How to watch
 
-**What is NWSL+?**
+**[NWSL](https://www.nwslsoccer.com/plus)+**
 
--   NWSL+ is a digital streaming service that gives fans access to live NWSL games, match recaps, and highlights. It's a free service available online, and on the NWSL+ app on Apple TV, Fire TV, and Roku. Learn more [here](https://www.nwslsoccer.com/plus).
+NWSL+ streams live NWSL games, match recaps, and highlights. It's free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku.
 
-**Can I stream CBS games on Paramount+?**
+**CBS**
 
--   CBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on [Paramount+](https://www.paramountplus.com/) is only available on the **Paramount+ with SHOWTIME (Premium)** plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams, and unlike past seasons, no matches are streaming-only on Paramount+.
+CBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on [Paramount+](https://www.paramountplus.com/) is only available on the **Paramount+ with SHOWTIME (Premium)** plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams.No matches are streaming-only on Paramount+. This is a change from prior seasons.
 
-**What is Victory+?**
+** CBS Sports Network (CBSSN)**
 
--   Victory+ is the newest streaming partner of the NWSL. It's a free streaming service that allows for live game streaming and on-demand sports entertainment for free across major platforms. Access it [here](https://victoryplus.com/).
--   After you've created a [Victory+ account](https://victoryplus.com/), you can download the Victory+ app on your smart TV and pair your account via this [link](victoryplus.com/settings/pair).
--   More information can also be found on the [National Women's Soccer League's Victory+ FAQ site](https://www.nwslsoccer.com/news/victory-faq-everything-nwsl-fans-need-to-know-about-the-free-streaming-platform).
+**[Victory+](https://victoryplus.com/)**
 
+Victory+ is the newest streaming partner of the NWSL. It's a free for live streaming and on-demand sports entertainment across major platforms.
 
-This site is a fork. It was originally created by Arianna D. Cascone (ariannacascone4@gmail.com). Visit the original at [nationalwomenssoccerleague.com](http://nationalwomenssoccerleague.com) to show your support.
+After you've created a [Victory+ account](https://victoryplus.com/), you can download the Victory+ app on your smart TV and [pair your account](victoryplus.com/settings/pair).
+
+ [National Women's Soccer League's Victory+ FAQ site](https://www.nwslsoccer.com/news/victory-faq-everything-nwsl-fans-need-to-know-about-the-free-streaming-platform).
+
+## Credits
+This site is a fork. Arianna D. Cascone (ariannacascone4@gmail.com) created the original. Visit [nationalwomenssoccerleague.com](http://nationalwomenssoccerleague.com) to show your support.
+
+<img src="/icons/favicon-32x32.png" alt="A blue illustration of a soccer ball inside a television. The style is minimalist with thick lines"> [Favicon](https://thenounproject.com/icon/soccer-8407426/) purchased with a Noun project subscription.
