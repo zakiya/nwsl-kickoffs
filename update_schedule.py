@@ -228,13 +228,13 @@ def build_index_content(games: list[dict]) -> str:
         lines += ["</tbody></table>", "```", ""]
     return "\n".join(lines)
 
-
+## @todo change `faq_` to a different prefix. We changed the name of this section
 def update_index_qmd(path: str, content_block: str) -> None:
     with open(path) as f:
         content = f.read()
-    faq_idx = content.find("## FAQs")
+    faq_idx = content.find("## How to watch")
     if faq_idx == -1:
-        sys.exit("ERROR: Could not find '## FAQs' in index.qmd — aborting.")
+        sys.exit("ERROR: Could not find '## How to watch' in index.qmd — aborting.")
     fm_end = content.find("---", 3) + 3
     prefix = content[:fm_end].rstrip()
     suffix = content[faq_idx:]
