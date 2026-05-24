@@ -54,6 +54,17 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<!-- Favicon -->
+<link rel="icon" type="image/x-icon" href="./icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32x32.png">
+
+<!-- Apple -->
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+
+<!-- Social Media Previews -->
+<meta property="og:image" content="https://zakiya.github.io/nwsl-kickoffs/_site/icons/og-image-1200x630.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://zakiya.github.io/nwsl-kickoffs/_site/social/og-image-1200x630.png">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -3235,7 +3246,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/nationalwomenssoccerleague\.com");
+        var filterRegex = new RegExp("https:\/\/zakiya\.github\.io\/nwsl-schedule\/_site");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

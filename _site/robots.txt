@@ -1,1 +1,1 @@
-Sitemap: https://nationalwomenssoccerleague.com/sitemap.xml
+Sitemap: https://zakiya.github.io/nwsl-schedule/_site/sitemap.xml
