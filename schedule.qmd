@@ -502,7 +502,7 @@ title: "2026 NWSL Full Schedule"
   <td class=home>Kansas City</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-05-24T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 <tr class="game-row" data-home="Bay" data-away="Chicago">
-  <td class=home>Bay</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-05-24T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
+  <td class=home>Bay</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-05-24T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
 </tr>
 <tr class="game-row" data-home="San Diego" data-away="Orlando">
   <td class=home>San Diego</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-05-24T23:00:00Z" data-approx="2026-05-24T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
@@ -544,7 +544,7 @@ title: "2026 NWSL Full Schedule"
   <td class=home>Chicago</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-05-31T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
 <tr class="game-row" data-home="NJ/NY" data-away="Houston">
-  <td class=home>NJ/NY</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-05-31T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+  <td class=home>NJ/NY</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-05-31T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
 </tr>
 <tr class="game-row" data-home="Angel City" data-away="North Carolina">
   <td class=home>Angel City</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-05-31T23:00:00Z" data-approx="2026-05-31T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
