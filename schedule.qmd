@@ -648,7 +648,7 @@ title: "2026 NWSL Full Schedule"
   <td class=home>Orlando</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-07-15T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
 </tr>
 <tr class="game-row" data-home="NJ/NY" data-away="Washington">
-  <td class=home>NJ/NY</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-16T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+  <td class=home>NJ/NY</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-16T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a></td>
 </tr>
 </tbody></table>
 </div>
