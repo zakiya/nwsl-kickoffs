@@ -3,7 +3,7 @@ name: Update NWSL Schedule
 on:
   schedule:
     - cron: '0 13 * * 1'  # Every Monday at 9 AM EDT (1 PM UTC)
-  workflow_dispatch:        # Allow manual runs from the GitHub Actions UI
+  workflow_dispatch:      # Allow manual runs from the GitHub Actions UI
 
 jobs:
   update-and-publish:
@@ -12,10 +12,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Set up uv
-        uses: astral-sh/setup-uv@v4
+        uses: astral-sh/setup-uv@v8
         with:
           version: "0.10.11"
           python-version: "3.13"
