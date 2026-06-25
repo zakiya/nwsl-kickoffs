@@ -16,9 +16,13 @@ jobs:
 
       - name: Set up uv
         uses: astral-sh/setup-uv@v4
+        with:
+          version: "0.10.11"
+          python-version: "3.13"
+          enable-cache: true
 
       - name: Fetch schedule and update QMDs
-        run: uv run update_schedule.py
+        run: uv run --frozen update_schedule.py
 
       - name: Commit updated index.qmd to main
         run: |

@@ -1,0 +1,6 @@
+[project]
+name = "nwsl-kickoffs"
+version = "0.1.0"
+description = "NWSL schedule site generator"
+requires-python = ">=3.10"
+dependencies = ["requests"]

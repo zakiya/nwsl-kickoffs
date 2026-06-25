@@ -4,8 +4,7 @@ NWSL schedule updater
 - index.qmd: current week's games (next DAYS_AHEAD days), markdown tables
 - schedule.qmd: full season, HTML tables with team filter
 
-Usage: python update_schedule.py
-Requirements: pip install requests
+Usage: uv run update_schedule.py
 """
 
 import re
