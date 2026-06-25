@@ -5,7 +5,7 @@ project:
 
 website:
   title: ""
-  site-url: https://zakiya.github.io/nwsl-schedule/_site
+  site-url: https://zakiya.github.io/nwsl-kickoffs/_site
   search: false
   navbar:
     background: light
