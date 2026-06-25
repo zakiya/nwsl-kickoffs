@@ -1,1 +1,1 @@
-Sitemap: https://zakiya.github.io/nwsl-schedule/_site/sitemap.xml
+Sitemap: https://zakiya.github.io/nwsl-kickoffs/_site/sitemap.xml
