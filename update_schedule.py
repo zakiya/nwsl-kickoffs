@@ -78,7 +78,11 @@ SHORT_NAMES: dict[str, str] = {
 # ── END CONFIGURE ─────────────────────────────────────────────────────────────
 
 ET = ZoneInfo("America/New_York")
-ESPN_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard"
+# ESPN scoreboard endpoints to pull fixtures from (regular season + NWSL Cup).
+ESPN_URLS = [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl.cup/scoreboard",
+]
 MD_LINK = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 
 TZ_TOGGLE_HTML = """\
@@ -98,19 +102,30 @@ APPROX_NOTE = (
 
 # ── FETCH ─────────────────────────────────────────────────────────────────────
 
+def _get_events(url: str, params: dict) -> list[dict]:
+    resp = requests.get(url, params=params, timeout=10)
+    resp.raise_for_status()
+    return resp.json().get("events", [])
+
 def fetch_games(start: date, end: date) -> list[dict]:
-    params = {
+    dated = {
         "dates": f"{start.strftime('%Y%m%d')}-{end.strftime('%Y%m%d')}",
         "limit": 300,
     }
-    resp = requests.get(ESPN_URL, params=params, timeout=10)
-    resp.raise_for_status()
-    events = resp.json().get("events", [])
+    events: list[dict] = []
+    for url in ESPN_URLS:
+        events.extend(_get_events(url, dated))
+    # Fallback only when *every* endpoint's dated query came back empty
+    # (e.g. off-season); avoids pulling out-of-window games when one
+    # competition simply has no fixtures in the requested range.
     if not events:
-        resp2 = requests.get(ESPN_URL, params={"limit": 50}, timeout=10)
-        resp2.raise_for_status()
-        events = resp2.json().get("events", [])
-    return events
+        for url in ESPN_URLS:
+            events.extend(_get_events(url, {"limit": 50}))
+    # De-duplicate by event id in case a fixture appears in both feeds.
+    deduped: dict[str, dict] = {}
+    for e in events:
+        deduped[e.get("id", str(id(e)))] = e
+    return list(deduped.values())
 
 
 def parse_game(event: dict) -> dict | None:
