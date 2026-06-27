@@ -10,6 +10,7 @@ title: "2026 NWSL Full Schedule"
   <a href="#march" class="btn btn-sm btn-outline-secondary">March</a>
   <a href="#april" class="btn btn-sm btn-outline-secondary">April</a>
   <a href="#may" class="btn btn-sm btn-outline-secondary">May</a>
+  <a href="#june" class="btn btn-sm btn-outline-secondary">June</a>
   <a href="#july" class="btn btn-sm btn-outline-secondary">July</a>
   <a href="#august" class="btn btn-sm btn-outline-secondary">August</a>
   <a href="#september" class="btn btn-sm btn-outline-secondary">September</a>
@@ -548,6 +549,20 @@ title: "2026 NWSL Full Schedule"
 </tr>
 <tr class="game-row" data-home="Angel City" data-away="North Carolina">
   <td class=home>Angel City</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-05-31T23:00:00Z" data-approx="2026-05-31T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
+</tr>
+</tbody></table>
+</div>
+```
+
+## June
+
+```{=html}
+<div class="day-section"><h3>Friday, June 26</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="NJ/NY" data-away="Kansas City">
+  <td class=home>NJ/NY</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-06-27T00:00:00Z" data-approx="2026-06-27T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
 </tr>
 </tbody></table>
 </div>

@@ -33,6 +33,21 @@ title: "NWSL Kickoff Times and Streaming Info"
 </tbody></table>
 ```
 
+### Saturday, July 4
+
+```{=html}
+<table class="table">
+<thead><tr><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=home>North Carolina</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-07-04T22:30:00Z" data-approx="2026-07-04T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+<tr>
+  <td class=home>San Diego</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-07-05T00:45:00Z" data-approx="2026-07-05T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+</tbody></table>
+```
+
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
 
 ## How to watch
