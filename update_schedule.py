@@ -48,9 +48,9 @@ STREAM_LINKS: dict[str, str] = {
 
 # Competition labels (keyed by the source feed) → badge label + Bootstrap class.
 COMPETITIONS: dict[str, dict[str, str]] = {
-    "NWSL":          {"label": "NWSL",          "class": "bg-primary"},
+    "NWSL":          {"label": "NWSL",          "class": "bg-purple"},
     "Challenge Cup": {"label": "Challenge Cup", "class": "bg-success"},
-    "World Cup":     {"label": "World Cup",     "class": "bg-danger"},
+    "World Cup":     {"label": "World Cup",     "class": "bg-cyan"},
 }
 
 NETWORK_BUFFERS: dict[str, int] = {
@@ -257,14 +257,14 @@ def build_index_content(games: list[dict]) -> str:
         lines += [f"### {d.strftime('%A, %B %-d')}", "", "```{=html}"]
         lines += [
             '<table class="table">',
-            "<thead><tr><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Competition</th><th>Stream</th></tr></thead>",
+            "<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>",
             "<tbody>",
         ]
         for g in by_date[d]:
             home = short_name(g["home"])
             away = short_name(g["away"])
             lines.append(f"<tr>")
-            lines.append(f"  <td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td class=competition>{comp_badge_html(g['competition'])}</td><td class=stream>{format_stream_html(g['networks'])}</td>")
+            lines.append(f"  <td class=competition>{comp_badge_html(g['competition'])}</td><td class=spacer></td><td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td class=stream>{format_stream_html(g['networks'])}</td>")
             lines.append("</tr>")
         lines += ["</tbody></table>", "```", ""]
     return "\n".join(lines)
@@ -348,7 +348,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
             lines.append(f'<div class="day-section"><h3>{d.strftime("%A, %B %-d")}</h3>')
             lines += [
                 '<table class="table table-sm table-hover">',
-                "<thead><tr><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Competition</th><th>Stream</th></tr></thead>",
+                "<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>",
                 "<tbody>",
             ]
             for g in dates[d]:
@@ -356,7 +356,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
                 away = short_name(g["away"])
                 stream = format_stream_html(g["networks"])
                 lines.append(f'<tr class="game-row" data-home="{home}" data-away="{away}">')
-                lines.append(f"  <td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td class=competition>{comp_badge_html(g['competition'])}</td><td>{stream}</td>")
+                lines.append(f"  <td class=competition>{comp_badge_html(g['competition'])}</td><td class=spacer></td><td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td>{stream}</td>")
                 lines.append("</tr>")
             lines += ["</tbody></table>", "</div>"]
         lines += ["```", ""]

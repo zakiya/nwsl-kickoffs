@@ -1,6 +1,7 @@
 /* css styles */
 :root {
-  --bs-heading-color: blue;
+  --bs-heading-color: #4b4bb2;
+  --bslib-color-bg: #7a401f;
 }
 
 /* Thin white navbar with subtle separator */
@@ -54,7 +55,7 @@ tbody td {
   section .table td {
     padding: .5rem;
   }
-  .home, .away {
+  .home, .away, .competition, .spacer {
     border: 0;
   }
 }
