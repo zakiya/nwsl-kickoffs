@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-NWSL schedule updater
+Schedule updater for NWSL (regular season + Challenge Cup) and the Men's World Cup
 - index.qmd: current week's games (next DAYS_AHEAD days), markdown tables
 - schedule.qmd: full season, HTML tables with team filter
+Each game is labeled with its competition badge.
 
 Usage: uv run update_schedule.py
 """
@@ -36,6 +37,20 @@ STREAM_LINKS: dict[str, str] = {
     "ABC":             "[ABC](https://plus.espn.com/)",
     "Prime Video":     "[Prime Video](http://www.amazon.com/nwsl)",
     "NWSL+":           "[NWSL+](https://www.nwslsoccer.com/plus)",
+    # Men's World Cup (US) broadcasters
+    "FOX":             "[FOX](https://www.foxsports.com/live)",
+    "FS1":             "[FS1](https://www.foxsports.com/live)",
+    "FOX One":         "[FOX One](https://www.foxone.com/)",
+    "Peacock":         "[Peacock](https://www.peacocktv.com/)",
+    "Tele":            "[Telemundo](https://www.telemundo.com/now)",
+    "Universo":        "[Universo](https://www.nbc.com/universo)",
+}
+
+# Competition labels (keyed by the source feed) → badge label + Bootstrap class.
+COMPETITIONS: dict[str, dict[str, str]] = {
+    "NWSL":          {"label": "NWSL",          "class": "bg-primary"},
+    "Challenge Cup": {"label": "Challenge Cup", "class": "bg-success"},
+    "World Cup":     {"label": "World Cup",     "class": "bg-danger"},
 }
 
 NETWORK_BUFFERS: dict[str, int] = {
@@ -78,10 +93,12 @@ SHORT_NAMES: dict[str, str] = {
 # ── END CONFIGURE ─────────────────────────────────────────────────────────────
 
 ET = ZoneInfo("America/New_York")
-# ESPN scoreboard endpoints to pull fixtures from (regular season + NWSL Cup).
-ESPN_URLS = [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl.cup/scoreboard",
+# ESPN scoreboard feeds to pull fixtures from, each tagged with its competition
+# label (NWSL regular season, NWSL Challenge Cup, and the Men's World Cup).
+ESPN_SOURCES: list[tuple[str, str]] = [
+    ("NWSL",          "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard"),
+    ("Challenge Cup", "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl.cup/scoreboard"),
+    ("World Cup",     "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard"),
 ]
 MD_LINK = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 
@@ -102,10 +119,13 @@ APPROX_NOTE = (
 
 # ── FETCH ─────────────────────────────────────────────────────────────────────
 
-def _get_events(url: str, params: dict) -> list[dict]:
+def _get_events(url: str, params: dict, competition: str) -> list[dict]:
     resp = requests.get(url, params=params, timeout=10)
     resp.raise_for_status()
-    return resp.json().get("events", [])
+    events = resp.json().get("events", [])
+    for e in events:
+        e["_competition"] = competition
+    return events
 
 def fetch_games(start: date, end: date) -> list[dict]:
     dated = {
@@ -113,15 +133,15 @@ def fetch_games(start: date, end: date) -> list[dict]:
         "limit": 300,
     }
     events: list[dict] = []
-    for url in ESPN_URLS:
-        events.extend(_get_events(url, dated))
-    # Fallback only when *every* endpoint's dated query came back empty
+    for competition, url in ESPN_SOURCES:
+        events.extend(_get_events(url, dated, competition))
+    # Fallback only when *every* feed's dated query came back empty
     # (e.g. off-season); avoids pulling out-of-window games when one
     # competition simply has no fixtures in the requested range.
     if not events:
-        for url in ESPN_URLS:
-            events.extend(_get_events(url, {"limit": 50}))
-    # De-duplicate by event id in case a fixture appears in both feeds.
+        for competition, url in ESPN_SOURCES:
+            events.extend(_get_events(url, {"limit": 50}, competition))
+    # De-duplicate by event id in case a fixture appears in multiple feeds.
     deduped: dict[str, dict] = {}
     for e in events:
         deduped[e.get("id", str(id(e)))] = e
@@ -143,10 +163,11 @@ def parse_game(event: dict) -> dict | None:
                 networks.append(name)
                 seen.add(name)
         return {
-            "home":     home["team"]["displayName"],
-            "away":     away["team"]["displayName"],
-            "et_dt":    et_dt,
-            "networks": networks,
+            "home":        home["team"]["displayName"],
+            "away":        away["team"]["displayName"],
+            "et_dt":       et_dt,
+            "networks":    networks,
+            "competition": event.get("_competition", ""),
         }
     except (KeyError, StopIteration, ValueError):
         return None
@@ -155,6 +176,12 @@ def parse_game(event: dict) -> dict | None:
 
 def short_name(full: str) -> str:
     return SHORT_NAMES.get(full, full)
+
+
+def comp_badge_html(competition: str) -> str:
+    """Bootstrap badge for the game's competition (falls back to gray)."""
+    meta = COMPETITIONS.get(competition, {"label": competition, "class": "bg-secondary"})
+    return f'<span class="badge {meta["class"]}">{meta["label"]}</span>'
 
 
 def _kickoff_parts(et_dt: datetime, networks: list[str]) -> tuple[str, str, str | None]:
@@ -230,14 +257,14 @@ def build_index_content(games: list[dict]) -> str:
         lines += [f"### {d.strftime('%A, %B %-d')}", "", "```{=html}"]
         lines += [
             '<table class="table">',
-            "<thead><tr><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>",
+            "<thead><tr><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Competition</th><th>Stream</th></tr></thead>",
             "<tbody>",
         ]
         for g in by_date[d]:
             home = short_name(g["home"])
             away = short_name(g["away"])
             lines.append(f"<tr>")
-            lines.append(f"  <td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td class=stream>{format_stream_html(g['networks'])}</td>")
+            lines.append(f"  <td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td class=competition>{comp_badge_html(g['competition'])}</td><td class=stream>{format_stream_html(g['networks'])}</td>")
             lines.append("</tr>")
         lines += ["</tbody></table>", "```", ""]
     return "\n".join(lines)
@@ -304,7 +331,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
 
     lines = [
         "---",
-        f'title: "{SEASON_START.year} NWSL Full Schedule"',
+        f'title: "{SEASON_START.year} NWSL & Men\'s World Cup Schedule"',
         "---",
         "",
         APPROX_NOTE,
@@ -321,7 +348,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
             lines.append(f'<div class="day-section"><h3>{d.strftime("%A, %B %-d")}</h3>')
             lines += [
                 '<table class="table table-sm table-hover">',
-                "<thead><tr><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>",
+                "<thead><tr><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Competition</th><th>Stream</th></tr></thead>",
                 "<tbody>",
             ]
             for g in dates[d]:
@@ -329,7 +356,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
                 away = short_name(g["away"])
                 stream = format_stream_html(g["networks"])
                 lines.append(f'<tr class="game-row" data-home="{home}" data-away="{away}">')
-                lines.append(f"  <td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td>{stream}</td>")
+                lines.append(f"  <td class=home>{home}</td><td class=away>{away}</td>{time_cell_html(g['et_dt'], g['networks'])}<td class=competition>{comp_badge_html(g['competition'])}</td><td>{stream}</td>")
                 lines.append("</tr>")
             lines += ["</tbody></table>", "</div>"]
         lines += ["```", ""]

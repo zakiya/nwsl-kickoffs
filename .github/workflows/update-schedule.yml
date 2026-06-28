@@ -2,7 +2,7 @@ name: Update NWSL Schedule
 
 on:
   schedule:
-    - cron: '0 13 * * 1'  # Every Monday at 9 AM EDT (1 PM UTC)
+    - cron: '0 13 * * *'  # Daily at 9 AM EDT (1 PM UTC)
   workflow_dispatch:      # Allow manual runs from the GitHub Actions UI
 
 jobs:
@@ -23,7 +23,6 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-
 
       - name: Fetch schedule and update QMDs
         run: uv run --frozen update_schedule.py
