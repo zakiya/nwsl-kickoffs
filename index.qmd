@@ -15,18 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## June
 
-### Sunday, June 28
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Canada</td><td class="time-cell" data-announced="2026-06-28T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Monday, June 29
 
 ```{=html}
@@ -135,7 +123,7 @@ title: "Kickoff Times and Streaming Info"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr>
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Round of 32 1 Winner</td><td class=away>Round of 32 3 Winner</td><td class="time-cell" data-announced="2026-07-04T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
+  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Round of 32 3 Winner</td><td class="time-cell" data-announced="2026-07-04T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Round of 32 2 Winner</td><td class=away>Round of 32 5 Winner</td><td class="time-cell" data-announced="2026-07-04T21:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
@@ -169,6 +157,21 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Round of 32 7 Winner</td><td class=away>Round of 32 8 Winner</td><td class="time-cell" data-announced="2026-07-06T00:00:00Z"><strong>8:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
+</tr>
+</tbody></table>
+```
+
+### Monday, July 6
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Round of 32 11 Winner</td><td class=away>Round of 32 12 Winner</td><td class="time-cell" data-announced="2026-07-06T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Round of 32 9 Winner</td><td class=away>Round of 32 10 Winner</td><td class="time-cell" data-announced="2026-07-07T00:00:00Z"><strong>8:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 </tbody></table>
 ```
