@@ -80,8 +80,6 @@ title: "2026 NWSL & Men's World Cup Schedule"
     <option value="Quarterfinal 2 Winner">Quarterfinal 2 Winner</option>
     <option value="Quarterfinal 3 Winner">Quarterfinal 3 Winner</option>
     <option value="Quarterfinal 4 Winner">Quarterfinal 4 Winner</option>
-    <option value="Round of 16 5 Winner">Round of 16 5 Winner</option>
-    <option value="Round of 16 6 Winner">Round of 16 6 Winner</option>
     <option value="Round of 16 7 Winner">Round of 16 7 Winner</option>
     <option value="Round of 16 8 Winner">Round of 16 8 Winner</option>
     <option value="San Diego">San Diego</option>
@@ -1112,8 +1110,8 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="Round of 16 5 Winner" data-away="Round of 16 6 Winner">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Round of 16 5 Winner</td><td class=away>Round of 16 6 Winner</td><td class="time-cell" data-announced="2026-07-10T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
+<tr class="game-row" data-home="Spain" data-away="Belgium">
+  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Belgium</td><td class="time-cell" data-announced="2026-07-10T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 <tr class="game-row" data-home="Boston" data-away="Chicago">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-07-11T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
