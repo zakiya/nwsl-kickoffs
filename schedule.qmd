@@ -76,7 +76,6 @@ title: "2026 NWSL & Men's World Cup Schedule"
     <option value="Portland">Portland</option>
     <option value="Portugal">Portugal</option>
     <option value="Qatar">Qatar</option>
-    <option value="Quarterfinal 2 Winner">Quarterfinal 2 Winner</option>
     <option value="Quarterfinal 3 Winner">Quarterfinal 3 Winner</option>
     <option value="Quarterfinal 4 Winner">Quarterfinal 4 Winner</option>
     <option value="San Diego">San Diego</option>
@@ -1113,11 +1112,11 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <tr class="game-row" data-home="Boston" data-away="Chicago">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-07-11T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
 </tr>
-<tr class="game-row" data-home="Orlando" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-07-11T00:00:00Z" data-approx="2026-07-11T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
 <tr class="game-row" data-home="Louisville" data-away="Bay">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-07-11T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+</tr>
+<tr class="game-row" data-home="Orlando" data-away="Kansas City">
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-07-11T01:03:00Z" data-approx="2026-07-11T01:13:00Z">9:03/<strong>9:13 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
 </tr>
 <tr class="game-row" data-home="Utah Royals" data-away="NJ/NY">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-07-11T02:00:00Z" data-approx="2026-07-11T02:08:00Z">10:00/<strong>10:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
@@ -1158,8 +1157,8 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="France" data-away="Quarterfinal 2 Winner">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Quarterfinal 2 Winner</td><td class="time-cell" data-announced="2026-07-14T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
+<tr class="game-row" data-home="France" data-away="Spain">
+  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-07-14T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 </tbody></table>
 </div>
