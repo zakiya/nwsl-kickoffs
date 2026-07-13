@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## July
 
-### Sunday, July 12
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-07-12T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-07-12T23:00:00Z" data-approx="2026-07-12T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td class=stream><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Tuesday, July 14
 
 ```{=html}
