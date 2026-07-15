@@ -15,18 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## July
 
-### Tuesday, July 14
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-07-14T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Wednesday, July 15
 
 ```{=html}
@@ -73,7 +61,7 @@ title: "Kickoff Times and Streaming Info"
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-07-18T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 <tr>
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Semifinal 1 Loser</td><td class=away>Semifinal 2 Loser</td><td class="time-cell" data-announced="2026-07-18T21:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
+  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Semifinal 2 Loser</td><td class="time-cell" data-announced="2026-07-18T21:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-07-18T22:30:00Z" data-approx="2026-07-18T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
@@ -94,7 +82,7 @@ title: "Kickoff Times and Streaming Info"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr>
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Semifinal 1 Winner</td><td class=away>Semifinal 2 Winner</td><td class="time-cell" data-announced="2026-07-19T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
+  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Semifinal 2 Winner</td><td class="time-cell" data-announced="2026-07-19T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-19T23:00:00Z" data-approx="2026-07-19T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td class=stream><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
