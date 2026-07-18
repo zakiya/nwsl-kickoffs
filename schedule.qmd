@@ -1511,7 +1511,7 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="Washington" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-30T16:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-30T16:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, ESPN Unlmtd</td>
 </tr>
 <tr class="game-row" data-home="Seattle" data-away="Houston">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-08-30T23:00:00Z" data-approx="2026-08-30T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
