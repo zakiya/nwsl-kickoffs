@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## July
 
-### Sunday, July 19
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Argentina</td><td class="time-cell" data-announced="2026-07-19T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-19T23:00:00Z" data-approx="2026-07-19T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td class=stream><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Friday, July 24
 
 ```{=html}
