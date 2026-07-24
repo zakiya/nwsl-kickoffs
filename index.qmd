@@ -55,6 +55,12 @@ title: "Kickoff Times and Streaming Info"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-07-26T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-07-26T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-07-26T21:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
 <tr>
@@ -66,12 +72,48 @@ title: "Kickoff Times and Streaming Info"
 </tbody></table>
 ```
 
+### Monday, July 27
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-07-27T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Burkina Faso</td><td class="time-cell" data-announced="2026-07-27T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+</tbody></table>
+```
+
+### Tuesday, July 28
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Zambia</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-07-28T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-07-28T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+</tbody></table>
+```
+
 ### Wednesday, July 29
 
 ```{=html}
 <table class="table">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-07-29T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Mali</td><td class="time-cell" data-announced="2026-07-29T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-07-30T00:00:00Z"><strong>8:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
@@ -84,6 +126,21 @@ title: "Kickoff Times and Streaming Info"
 </tbody></table>
 ```
 
+### Thursday, July 30
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-07-30T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-07-30T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+</tbody></table>
+```
+
 ### Friday, July 31
 
 ```{=html}
@@ -91,34 +148,18 @@ title: "Kickoff Times and Streaming Info"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-07-31T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-07-31T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-08-01T00:00:00Z" data-approx="2026-08-01T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td class=stream><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
 </tr>
 </tbody></table>
 ```
 
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
-
-## How to watch
-
-### [NWSL+](https://www.nwslsoccer.com/plus)
-
-NWSL+ streams live NWSL games, match recaps, and highlights. It's free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku.
-
-### [CBS](https://www.cbs.com/)
-
-CBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on [Paramount+](https://www.paramountplus.com/) is only available on the **Paramount+ with SHOWTIME (Premium)** plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams.No matches are streaming-only on Paramount+. This is a change from prior seasons.
-
-### [CBS Sports Network (CBSSN)](https://www.cbssportsnetwork.com/)
-
-You typically need cable or streaming subscription to watch CBSSN. You can search for TV Providers by zipcode at the [CBS Sports Network website](https://www.cbssportsnetwork.com/#channel-finder).
-
-### [Victory+](https://victoryplus.com/)
-
-Victory+ is the newest streaming partner of the NWSL. It's a free for live streaming and on-demand sports entertainment across major platforms.
-
-After you've created a [Victory+ account](https://victoryplus.com/), you can download the Victory+ app on your smart TV and [pair your account](victoryplus.com/settings/pair).
-
- [National Women's Soccer League's Victory+ FAQ site](https://www.nwslsoccer.com/news/victory-faq-everything-nwsl-fans-need-to-know-about-the-free-streaming-platform).
 
 ## Credits
 This site is a fork. Arianna D. Cascone (ariannacascone4@gmail.com) created the original. Visit [nationalwomenssoccerleague.com](http://nationalwomenssoccerleague.com) to show your support.

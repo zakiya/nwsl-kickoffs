@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Schedule updater for NWSL (regular season + Challenge Cup) and the Men's World Cup
+Schedule updater for the NWSL and the Women's Africa Cup of Nations (WAFCON)
 - index.qmd: current week's games (next DAYS_AHEAD days), markdown tables
 - schedule.qmd: full season, HTML tables with team filter
 Each game is labeled with its competition badge.
@@ -37,20 +37,12 @@ STREAM_LINKS: dict[str, str] = {
     "ABC":             "[ABC](https://plus.espn.com/)",
     "Prime Video":     "[Prime Video](http://www.amazon.com/nwsl)",
     "NWSL+":           "[NWSL+](https://www.nwslsoccer.com/plus)",
-    # Men's World Cup (US) broadcasters
-    "FOX":             "[FOX](https://www.foxsports.com/live)",
-    "FS1":             "[FS1](https://www.foxsports.com/live)",
-    "FOX One":         "[FOX One](https://www.foxone.com/)",
-    "Peacock":         "[Peacock](https://www.peacocktv.com/)",
-    "Tele":            "[Telemundo](https://www.telemundo.com/now)",
-    "Universo":        "[Universo](https://www.nbc.com/universo)",
 }
 
 # Competition labels (keyed by the source feed) → badge label + Bootstrap class.
 COMPETITIONS: dict[str, dict[str, str]] = {
     "NWSL":          {"label": "NWSL",          "class": "bg-purple"},
-    "Challenge Cup": {"label": "Challenge Cup", "class": "bg-success"},
-    "World Cup":     {"label": "World Cup",     "class": "bg-cyan"},
+    "WAFCON":        {"label": "WAFCON",        "class": "bg-orange"},
 }
 
 NETWORK_BUFFERS: dict[str, int] = {
@@ -94,11 +86,10 @@ SHORT_NAMES: dict[str, str] = {
 
 ET = ZoneInfo("America/New_York")
 # ESPN scoreboard feeds to pull fixtures from, each tagged with its competition
-# label (NWSL regular season, NWSL Challenge Cup, and the Men's World Cup).
+# label (NWSL regular season and WAFCON).
 ESPN_SOURCES: list[tuple[str, str]] = [
     ("NWSL",          "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard"),
-    ("Challenge Cup", "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl.cup/scoreboard"),
-    ("World Cup",     "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard"),
+    ("WAFCON",        "https://site.api.espn.com/apis/site/v2/sports/soccer/caf.w.nations/scoreboard"),
 ]
 MD_LINK = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 
@@ -269,16 +260,15 @@ def build_index_content(games: list[dict]) -> str:
         lines += ["</tbody></table>", "```", ""]
     return "\n".join(lines)
 
-## @todo change `faq_` to a different prefix. We changed the name of this section
 def update_index_qmd(path: str, content_block: str) -> None:
     with open(path) as f:
         content = f.read()
-    faq_idx = content.find("## How to watch")
-    if faq_idx == -1:
-        sys.exit("ERROR: Could not find '## How to watch' in index.qmd — aborting.")
+    tail_idx = content.find("## Credits")
+    if tail_idx == -1:
+        sys.exit("ERROR: Could not find '## Credits' in index.qmd — aborting.")
     fm_end = content.find("---", 3) + 3
     prefix = content[:fm_end].rstrip()
-    suffix = content[faq_idx:]
+    suffix = content[tail_idx:]
     with open(path, "w") as f:
         f.write(prefix + "\n\n" + content_block.rstrip() + "\n\n" + APPROX_NOTE + "\n\n" + suffix)
 
@@ -331,7 +321,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
 
     lines = [
         "---",
-        f'title: "{SEASON_START.year} NWSL & Men\'s World Cup Schedule"',
+        f'title: "{SEASON_START.year} NWSL and WAFCON Schedule"',
         "---",
         "",
         APPROX_NOTE,

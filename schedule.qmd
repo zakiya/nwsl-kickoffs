@@ -1,5 +1,5 @@
 ---
-title: "2026 NWSL & Men's World Cup Schedule"
+title: "2026 NWSL and WAFCON Schedule"
 ---
 
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
@@ -10,7 +10,6 @@ title: "2026 NWSL & Men's World Cup Schedule"
   <a href="#march" class="btn btn-sm btn-outline-secondary">March</a>
   <a href="#april" class="btn btn-sm btn-outline-secondary">April</a>
   <a href="#may" class="btn btn-sm btn-outline-secondary">May</a>
-  <a href="#june" class="btn btn-sm btn-outline-secondary">June</a>
   <a href="#july" class="btn btn-sm btn-outline-secondary">July</a>
   <a href="#august" class="btn btn-sm btn-outline-secondary">August</a>
   <a href="#september" class="btn btn-sm btn-outline-secondary">September</a>
@@ -31,68 +30,36 @@ title: "2026 NWSL & Men's World Cup Schedule"
     <option value="all">All Teams</option>
     <option value="Algeria">Algeria</option>
     <option value="Angel City">Angel City</option>
-    <option value="Argentina">Argentina</option>
-    <option value="Australia">Australia</option>
-    <option value="Austria">Austria</option>
     <option value="Bay">Bay</option>
-    <option value="Belgium">Belgium</option>
-    <option value="Bosnia-Herzegovina">Bosnia-Herzegovina</option>
     <option value="Boston">Boston</option>
-    <option value="Brazil">Brazil</option>
-    <option value="Canada">Canada</option>
+    <option value="Burkina Faso">Burkina Faso</option>
+    <option value="Cameroon">Cameroon</option>
     <option value="Cape Verde">Cape Verde</option>
     <option value="Chicago">Chicago</option>
-    <option value="Colombia">Colombia</option>
-    <option value="Congo DR">Congo DR</option>
-    <option value="Croatia">Croatia</option>
-    <option value="Curaçao">Curaçao</option>
-    <option value="Czechia">Czechia</option>
     <option value="Denver">Denver</option>
-    <option value="Ecuador">Ecuador</option>
     <option value="Egypt">Egypt</option>
-    <option value="England">England</option>
-    <option value="France">France</option>
-    <option value="Germany">Germany</option>
     <option value="Ghana">Ghana</option>
-    <option value="Haiti">Haiti</option>
     <option value="Houston">Houston</option>
-    <option value="Iran">Iran</option>
-    <option value="Iraq">Iraq</option>
     <option value="Ivory Coast">Ivory Coast</option>
-    <option value="Japan">Japan</option>
-    <option value="Jordan">Jordan</option>
     <option value="Kansas City">Kansas City</option>
+    <option value="Kenya">Kenya</option>
     <option value="Louisville">Louisville</option>
-    <option value="Mexico">Mexico</option>
+    <option value="Malawi">Malawi</option>
+    <option value="Mali">Mali</option>
     <option value="Morocco">Morocco</option>
     <option value="NJ/NY">NJ/NY</option>
-    <option value="Netherlands">Netherlands</option>
-    <option value="New Zealand">New Zealand</option>
+    <option value="Nigeria">Nigeria</option>
     <option value="North Carolina">North Carolina</option>
-    <option value="Norway">Norway</option>
     <option value="Orlando">Orlando</option>
-    <option value="Panama">Panama</option>
-    <option value="Paraguay">Paraguay</option>
     <option value="Portland">Portland</option>
-    <option value="Portugal">Portugal</option>
-    <option value="Qatar">Qatar</option>
     <option value="San Diego">San Diego</option>
-    <option value="Saudi Arabia">Saudi Arabia</option>
-    <option value="Scotland">Scotland</option>
     <option value="Seattle">Seattle</option>
     <option value="Senegal">Senegal</option>
     <option value="South Africa">South Africa</option>
-    <option value="South Korea">South Korea</option>
-    <option value="Spain">Spain</option>
-    <option value="Sweden">Sweden</option>
-    <option value="Switzerland">Switzerland</option>
-    <option value="Tunisia">Tunisia</option>
-    <option value="Türkiye">Türkiye</option>
-    <option value="United States">United States</option>
-    <option value="Uruguay">Uruguay</option>
+    <option value="Tanzania">Tanzania</option>
     <option value="Utah Royals">Utah Royals</option>
-    <option value="Uzbekistan">Uzbekistan</option>
     <option value="Washington">Washington</option>
+    <option value="Zambia">Zambia</option>
   </select>
 </div>
 <p id="no-results" style="display:none" class="text-muted">No games found for this team.</p>
@@ -143,10 +110,58 @@ title: "2026 NWSL & Men's World Cup Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Tuesday, March 17</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Algeria" data-away="Senegal">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-03-17T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Ivory Coast" data-away="Burkina Faso">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Burkina Faso</td><td class="time-cell" data-announced="2026-03-17T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Morocco" data-away="Kenya">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-03-17T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="South Africa" data-away="Tanzania">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-03-17T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Wednesday, March 18</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Cameroon" data-away="Mali">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Mali</td><td class="time-cell" data-announced="2026-03-18T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Ghana" data-away="Cape Verde">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-03-18T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Nigeria" data-away="Malawi">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-03-18T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Zambia" data-away="Egypt">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Zambia</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-03-18T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Friday, March 20</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Burkina Faso" data-away="Tanzania">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-03-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Morocco" data-away="Algeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-03-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Senegal" data-away="Kenya">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-03-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="South Africa" data-away="Ivory Coast">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-03-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Orlando" data-away="Denver">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-03-21T00:00:00Z" data-approx="2026-03-21T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
 </tr>
@@ -162,6 +177,18 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Egypt" data-away="Malawi">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-03-21T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Ghana" data-away="Cameroon">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-03-21T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Mali" data-away="Cape Verde">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-03-21T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Nigeria" data-away="Zambia">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-03-21T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Houston" data-away="Boston">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-03-21T20:00:00Z" data-approx="2026-03-21T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
@@ -182,6 +209,42 @@ title: "2026 NWSL & Men's World Cup Schedule"
 </tr>
 <tr class="game-row" data-home="Utah Royals" data-away="San Diego">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-03-22T23:00:00Z" data-approx="2026-03-22T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Monday, March 23</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Burkina Faso" data-away="South Africa">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-03-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Kenya" data-away="Algeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Kenya</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-03-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Senegal" data-away="Morocco">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-03-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Tanzania" data-away="Ivory Coast">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Tanzania</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-03-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Tuesday, March 24</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Cape Verde" data-away="Cameroon">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cape Verde</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-03-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Egypt" data-away="Nigeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-03-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Malawi" data-away="Zambia">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Malawi</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-03-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Mali" data-away="Ghana">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-03-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
 </tbody></table>
 </div>
@@ -602,422 +665,18 @@ title: "2026 NWSL & Men's World Cup Schedule"
 </div>
 ```
 
-## June
-
-```{=html}
-<div class="day-section"><h3>Thursday, June 11</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Mexico" data-away="South Africa">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-06-11T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="South Korea" data-away="Czechia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>South Korea</td><td class=away>Czechia</td><td class="time-cell" data-announced="2026-06-12T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, June 12</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Canada" data-away="Bosnia-Herzegovina">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Bosnia-Herzegovina</td><td class="time-cell" data-announced="2026-06-12T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="United States" data-away="Paraguay">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Paraguay</td><td class="time-cell" data-announced="2026-06-13T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, June 13</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Qatar" data-away="Switzerland">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Qatar</td><td class=away>Switzerland</td><td class="time-cell" data-announced="2026-06-13T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Brazil" data-away="Morocco">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Brazil</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-06-13T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Haiti" data-away="Scotland">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Haiti</td><td class=away>Scotland</td><td class="time-cell" data-announced="2026-06-14T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, June 14</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Australia" data-away="Türkiye">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Australia</td><td class=away>Türkiye</td><td class="time-cell" data-announced="2026-06-14T04:00:00Z"><strong>12:00 AM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Germany" data-away="Curaçao">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Curaçao</td><td class="time-cell" data-announced="2026-06-14T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Netherlands" data-away="Japan">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Netherlands</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-06-14T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Ivory Coast" data-away="Ecuador">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Ecuador</td><td class="time-cell" data-announced="2026-06-14T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Sweden" data-away="Tunisia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Sweden</td><td class=away>Tunisia</td><td class="time-cell" data-announced="2026-06-15T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Monday, June 15</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Spain" data-away="Cape Verde">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-06-15T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Belgium" data-away="Egypt">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Belgium</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-06-15T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Saudi Arabia" data-away="Uruguay">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Saudi Arabia</td><td class=away>Uruguay</td><td class="time-cell" data-announced="2026-06-15T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Iran" data-away="New Zealand">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Iran</td><td class=away>New Zealand</td><td class="time-cell" data-announced="2026-06-16T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, June 16</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="France" data-away="Senegal">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-06-16T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Iraq" data-away="Norway">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Iraq</td><td class=away>Norway</td><td class="time-cell" data-announced="2026-06-16T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Argentina" data-away="Algeria">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-06-17T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, June 17</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Austria" data-away="Jordan">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Austria</td><td class=away>Jordan</td><td class="time-cell" data-announced="2026-06-17T04:00:00Z"><strong>12:00 AM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a></td>
-</tr>
-<tr class="game-row" data-home="Portugal" data-away="Congo DR">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Portugal</td><td class=away>Congo DR</td><td class="time-cell" data-announced="2026-06-17T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="England" data-away="Croatia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>England</td><td class=away>Croatia</td><td class="time-cell" data-announced="2026-06-17T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.peacocktv.com/" target="_blank" rel="noopener">Peacock</a></td>
-</tr>
-<tr class="game-row" data-home="Ghana" data-away="Panama">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Panama</td><td class="time-cell" data-announced="2026-06-17T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Uzbekistan" data-away="Colombia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Uzbekistan</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-06-18T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Thursday, June 18</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Czechia" data-away="South Africa">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Czechia</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-06-18T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Switzerland" data-away="Bosnia-Herzegovina">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Switzerland</td><td class=away>Bosnia-Herzegovina</td><td class="time-cell" data-announced="2026-06-18T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Canada" data-away="Qatar">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Qatar</td><td class="time-cell" data-announced="2026-06-18T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Mexico" data-away="South Korea">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>South Korea</td><td class="time-cell" data-announced="2026-06-19T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, June 19</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="United States" data-away="Australia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Australia</td><td class="time-cell" data-announced="2026-06-19T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Scotland" data-away="Morocco">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Scotland</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-06-19T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Brazil" data-away="Haiti">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Brazil</td><td class=away>Haiti</td><td class="time-cell" data-announced="2026-06-20T00:30:00Z"><strong>8:30 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Türkiye" data-away="Paraguay">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Türkiye</td><td class=away>Paraguay</td><td class="time-cell" data-announced="2026-06-20T03:00:00Z"><strong>11:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, June 20</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Netherlands" data-away="Sweden">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Netherlands</td><td class=away>Sweden</td><td class="time-cell" data-announced="2026-06-20T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Germany" data-away="Ivory Coast">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-06-20T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Ecuador" data-away="Curaçao">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Ecuador</td><td class=away>Curaçao</td><td class="time-cell" data-announced="2026-06-21T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, June 21</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Tunisia" data-away="Japan">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Tunisia</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-06-21T04:00:00Z"><strong>12:00 AM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Spain" data-away="Saudi Arabia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Saudi Arabia</td><td class="time-cell" data-announced="2026-06-21T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Belgium" data-away="Iran">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Belgium</td><td class=away>Iran</td><td class="time-cell" data-announced="2026-06-21T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Uruguay" data-away="Cape Verde">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Uruguay</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-06-21T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="New Zealand" data-away="Egypt">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>New Zealand</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-06-22T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Monday, June 22</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Argentina" data-away="Austria">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Austria</td><td class="time-cell" data-announced="2026-06-22T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="France" data-away="Iraq">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Iraq</td><td class="time-cell" data-announced="2026-06-22T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Norway" data-away="Senegal">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Norway</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-06-23T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Jordan" data-away="Algeria">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Jordan</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-06-23T03:00:00Z"><strong>11:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, June 23</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Portugal" data-away="Uzbekistan">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Portugal</td><td class=away>Uzbekistan</td><td class="time-cell" data-announced="2026-06-23T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="England" data-away="Ghana">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>England</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-06-23T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Panama" data-away="Croatia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Panama</td><td class=away>Croatia</td><td class="time-cell" data-announced="2026-06-23T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Colombia" data-away="Congo DR">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Colombia</td><td class=away>Congo DR</td><td class="time-cell" data-announced="2026-06-24T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, June 24</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Bosnia-Herzegovina" data-away="Qatar">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Bosnia-Herzegovina</td><td class=away>Qatar</td><td class="time-cell" data-announced="2026-06-24T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Switzerland" data-away="Canada">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Switzerland</td><td class=away>Canada</td><td class="time-cell" data-announced="2026-06-24T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Morocco" data-away="Haiti">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Haiti</td><td class="time-cell" data-announced="2026-06-24T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Scotland" data-away="Brazil">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Scotland</td><td class=away>Brazil</td><td class="time-cell" data-announced="2026-06-24T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Czechia" data-away="Mexico">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Czechia</td><td class=away>Mexico</td><td class="time-cell" data-announced="2026-06-25T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="South Africa" data-away="South Korea">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>South Korea</td><td class="time-cell" data-announced="2026-06-25T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Thursday, June 25</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Curaçao" data-away="Ivory Coast">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Curaçao</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-06-25T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Ecuador" data-away="Germany">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Ecuador</td><td class=away>Germany</td><td class="time-cell" data-announced="2026-06-25T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Japan" data-away="Sweden">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Japan</td><td class=away>Sweden</td><td class="time-cell" data-announced="2026-06-25T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Tunisia" data-away="Netherlands">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Tunisia</td><td class=away>Netherlands</td><td class="time-cell" data-announced="2026-06-25T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Paraguay" data-away="Australia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Paraguay</td><td class=away>Australia</td><td class="time-cell" data-announced="2026-06-26T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Türkiye" data-away="United States">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Türkiye</td><td class=away>United States</td><td class="time-cell" data-announced="2026-06-26T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, June 26</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Norway" data-away="France">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Norway</td><td class=away>France</td><td class="time-cell" data-announced="2026-06-26T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Senegal" data-away="Iraq">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Iraq</td><td class="time-cell" data-announced="2026-06-26T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="Kansas City">
-  <td class=competition><span class="badge bg-success">Challenge Cup</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-06-27T00:00:00Z" data-approx="2026-06-27T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-<tr class="game-row" data-home="Cape Verde" data-away="Saudi Arabia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Cape Verde</td><td class=away>Saudi Arabia</td><td class="time-cell" data-announced="2026-06-27T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Uruguay" data-away="Spain">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Uruguay</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-06-27T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Egypt" data-away="Iran">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Iran</td><td class="time-cell" data-announced="2026-06-27T03:00:00Z"><strong>11:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="New Zealand" data-away="Belgium">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>New Zealand</td><td class=away>Belgium</td><td class="time-cell" data-announced="2026-06-27T03:00:00Z"><strong>11:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, June 27</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Croatia" data-away="Ghana">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Croatia</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-06-27T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Panama" data-away="England">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Panama</td><td class=away>England</td><td class="time-cell" data-announced="2026-06-27T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Colombia" data-away="Portugal">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Colombia</td><td class=away>Portugal</td><td class="time-cell" data-announced="2026-06-27T23:30:00Z"><strong>7:30 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Congo DR" data-away="Uzbekistan">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Congo DR</td><td class=away>Uzbekistan</td><td class="time-cell" data-announced="2026-06-27T23:30:00Z"><strong>7:30 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Algeria" data-away="Austria">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Austria</td><td class="time-cell" data-announced="2026-06-28T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.nbc.com/universo" target="_blank" rel="noopener">Universo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Jordan" data-away="Argentina">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Jordan</td><td class=away>Argentina</td><td class="time-cell" data-announced="2026-06-28T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, June 28</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="South Africa" data-away="Canada">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Canada</td><td class="time-cell" data-announced="2026-06-28T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Monday, June 29</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Brazil" data-away="Japan">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Brazil</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-06-29T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Germany" data-away="Paraguay">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Paraguay</td><td class="time-cell" data-announced="2026-06-29T20:30:00Z"><strong>4:30 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Netherlands" data-away="Morocco">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Netherlands</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-06-30T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, June 30</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Ivory Coast" data-away="Norway">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Norway</td><td class="time-cell" data-announced="2026-06-30T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="France" data-away="Sweden">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Sweden</td><td class="time-cell" data-announced="2026-06-30T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Mexico" data-away="Ecuador">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>Ecuador</td><td class="time-cell" data-announced="2026-07-01T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-```
-
 ## July
 
 ```{=html}
-<div class="day-section"><h3>Wednesday, July 1</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="England" data-away="Congo DR">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>England</td><td class=away>Congo DR</td><td class="time-cell" data-announced="2026-07-01T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Belgium" data-away="Senegal">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Belgium</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-07-01T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="United States" data-away="Bosnia-Herzegovina">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Bosnia-Herzegovina</td><td class="time-cell" data-announced="2026-07-02T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Thursday, July 2</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Spain" data-away="Austria">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Austria</td><td class="time-cell" data-announced="2026-07-02T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Portugal" data-away="Croatia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Portugal</td><td class=away>Croatia</td><td class="time-cell" data-announced="2026-07-02T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Switzerland" data-away="Algeria">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Switzerland</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-07-03T03:00:00Z"><strong>11:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FS1</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Friday, July 3</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="Australia" data-away="Egypt">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Australia</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-07-03T18:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Argentina" data-away="Cape Verde">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-07-03T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
 <tr class="game-row" data-home="Washington" data-away="Houston">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-07-04T00:00:00Z" data-approx="2026-07-04T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
 </tr>
 <tr class="game-row" data-home="Denver" data-away="Kansas City">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-07-04T01:30:00Z"><strong>9:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Colombia" data-away="Ghana">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Colombia</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-07-04T01:30:00Z"><strong>9:30 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 <tr class="game-row" data-home="Angel City" data-away="Orlando">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-07-04T02:00:00Z" data-approx="2026-07-04T02:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
@@ -1028,12 +687,6 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="Canada" data-away="Morocco">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-07-04T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Paraguay" data-away="France">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Paraguay</td><td class=away>France</td><td class="time-cell" data-announced="2026-07-04T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
 <tr class="game-row" data-home="North Carolina" data-away="Seattle">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-07-04T23:30:00Z" data-approx="2026-07-04T23:34:00Z">7:30/<strong>7:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
@@ -1049,50 +702,11 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <tr class="game-row" data-home="Boston" data-away="Bay">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-07-05T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, ESPN Unlmtd</td>
 </tr>
-<tr class="game-row" data-home="Brazil" data-away="Norway">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Brazil</td><td class=away>Norway</td><td class="time-cell" data-announced="2026-07-05T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
 <tr class="game-row" data-home="Chicago" data-away="Utah Royals">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-07-05T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
 <tr class="game-row" data-home="Portland" data-away="Louisville">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-07-05T23:00:00Z" data-approx="2026-07-05T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Mexico" data-away="England">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>England</td><td class="time-cell" data-announced="2026-07-06T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Monday, July 6</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Portugal" data-away="Spain">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Portugal</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-07-06T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="United States" data-away="Belgium">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Belgium</td><td class="time-cell" data-announced="2026-07-07T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, July 7</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Argentina" data-away="Egypt">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-07-07T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-<tr class="game-row" data-home="Switzerland" data-away="Colombia">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Switzerland</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-07-07T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Thursday, July 9</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="France" data-away="Morocco">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-07-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 </tbody></table>
 </div>
@@ -1100,9 +714,6 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="Spain" data-away="Belgium">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Belgium</td><td class="time-cell" data-announced="2026-07-10T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
 <tr class="game-row" data-home="Boston" data-away="Chicago">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-07-11T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
 </tr>
@@ -1121,17 +732,11 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="Norway" data-away="England">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Norway</td><td class=away>England</td><td class="time-cell" data-announced="2026-07-11T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
 <tr class="game-row" data-home="North Carolina" data-away="Washington">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-11T22:30:00Z" data-approx="2026-07-11T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
 <tr class="game-row" data-home="San Diego" data-away="Angel City">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-07-12T00:45:00Z" data-approx="2026-07-12T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Argentina" data-away="Switzerland">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Switzerland</td><td class="time-cell" data-announced="2026-07-12T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
 </tr>
 </tbody></table>
 </div>
@@ -1147,22 +752,10 @@ title: "2026 NWSL & Men's World Cup Schedule"
 </tr>
 </tbody></table>
 </div>
-<div class="day-section"><h3>Tuesday, July 14</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="France" data-away="Spain">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-07-14T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Wednesday, July 15</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="England" data-away="Argentina">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>England</td><td class=away>Argentina</td><td class="time-cell" data-announced="2026-07-15T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
 <tr class="game-row" data-home="Orlando" data-away="Boston">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-07-15T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
 </tr>
@@ -1193,9 +786,6 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <tr class="game-row" data-home="Bay" data-away="North Carolina">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-07-18T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
-<tr class="game-row" data-home="France" data-away="England">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>France</td><td class=away>England</td><td class="time-cell" data-announced="2026-07-18T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
 <tr class="game-row" data-home="Chicago" data-away="Angel City">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-07-18T22:30:00Z" data-approx="2026-07-18T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
@@ -1211,9 +801,6 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="Spain" data-away="Argentina">
-  <td class=competition><span class="badge bg-cyan">World Cup</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Argentina</td><td class="time-cell" data-announced="2026-07-19T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.foxsports.com/live" target="_blank" rel="noopener">FOX</a>, <a href="https://www.telemundo.com/now" target="_blank" rel="noopener">Telemundo</a>, <a href="https://www.foxone.com/" target="_blank" rel="noopener">FOX One</a></td>
-</tr>
 <tr class="game-row" data-home="Boston" data-away="Washington">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-19T23:00:00Z" data-approx="2026-07-19T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
 </tr>
@@ -1250,6 +837,12 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Algeria" data-away="Senegal">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-07-26T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Morocco" data-away="Kenya">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-07-26T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="San Diego" data-away="Seattle">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-07-26T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
@@ -1261,10 +854,40 @@ title: "2026 NWSL & Men's World Cup Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Monday, July 27</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="South Africa" data-away="Tanzania">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-07-27T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Ivory Coast" data-away="Burkina Faso">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Burkina Faso</td><td class="time-cell" data-announced="2026-07-27T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Tuesday, July 28</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Zambia" data-away="Egypt">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Zambia</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-07-28T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Nigeria" data-away="Malawi">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-07-28T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Wednesday, July 29</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Ghana" data-away="Cape Verde">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-07-29T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Cameroon" data-away="Mali">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Mali</td><td class="time-cell" data-announced="2026-07-29T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Kansas City" data-away="Louisville">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-07-30T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
@@ -1276,10 +899,28 @@ title: "2026 NWSL & Men's World Cup Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Thursday, July 30</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Senegal" data-away="Kenya">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-07-30T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Morocco" data-away="Algeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-07-30T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Friday, July 31</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="South Africa" data-away="Ivory Coast">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-07-31T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Burkina Faso" data-away="Tanzania">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-07-31T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="North Carolina" data-away="Orlando">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-08-01T00:00:00Z" data-approx="2026-08-01T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
 </tr>
@@ -1294,8 +935,14 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Egypt" data-away="Malawi">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-08-01T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Louisville" data-away="Chicago">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-08-01T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
+</tr>
+<tr class="game-row" data-home="Nigeria" data-away="Zambia">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-08-01T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Kansas City" data-away="Angel City">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-08-01T22:30:00Z" data-approx="2026-08-01T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
@@ -1312,8 +959,14 @@ title: "2026 NWSL & Men's World Cup Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Ghana" data-away="Cameroon">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-08-02T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Washington" data-away="San Diego">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-08-02T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
+</tr>
+<tr class="game-row" data-home="Mali" data-away="Cape Verde">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-08-02T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Utah Royals" data-away="Portland">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-08-02T23:00:00Z" data-approx="2026-08-02T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
@@ -1323,12 +976,54 @@ title: "2026 NWSL & Men's World Cup Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Monday, August 3</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Kenya" data-away="Algeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Kenya</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-03T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Senegal" data-away="Morocco">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-08-03T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Tuesday, August 4</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Burkina Faso" data-away="South Africa">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-08-04T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Tanzania" data-away="Ivory Coast">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Tanzania</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-08-04T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Wednesday, August 5</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Egypt" data-away="Nigeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-08-05T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Malawi" data-away="Zambia">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Malawi</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-08-05T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Denver" data-away="North Carolina">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-08-06T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Thursday, August 6</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Cape Verde" data-away="Cameroon">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cape Verde</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-08-06T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Mali" data-away="Ghana">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-08-06T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
 </tr>
 </tbody></table>
 </div>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zakiya.github.io/nwsl-kickoffs/_site/index.html</loc>
-    <lastmod>2026-07-24T07:36:29.923Z</lastmod>
+    <loc>https://zakiya.github.io/nwsl-kickoffs/_site/schedule.html</loc>
+    <lastmod>2026-07-24T21:07:16.210Z</lastmod>
   </url>
   <url>
-    <loc>https://zakiya.github.io/nwsl-kickoffs/_site/schedule.html</loc>
-    <lastmod>2026-07-24T07:36:30.324Z</lastmod>
+    <loc>https://zakiya.github.io/nwsl-kickoffs/_site/watch.html</loc>
+    <lastmod>2026-07-24T21:06:42.257Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zakiya.github.io/nwsl-kickoffs/_site/index.html</loc>
+    <lastmod>2026-07-24T21:07:15.514Z</lastmod>
   </url>
 </urlset>
