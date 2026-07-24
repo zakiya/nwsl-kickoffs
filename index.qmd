@@ -84,6 +84,18 @@ title: "Kickoff Times and Streaming Info"
 </tbody></table>
 ```
 
+### Friday, July 31
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-08-01T00:00:00Z" data-approx="2026-08-01T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td class=stream><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
+</tr>
+</tbody></table>
+```
+
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
 
 ## How to watch
