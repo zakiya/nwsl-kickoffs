@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## July
 
-### Saturday, July 25
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-07-25T21:00:00Z" data-approx="2026-07-25T21:04:00Z">5:00/<strong>5:04 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-07-25T23:45:00Z" data-approx="2026-07-25T23:49:00Z">7:45/<strong>7:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Sunday, July 26
 
 ```{=html}
@@ -166,6 +151,30 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-08-02T00:45:00Z" data-approx="2026-08-02T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+</tbody></table>
+```
+
+### Sunday, August 2
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-08-02T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-08-02T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-08-02T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-08-02T23:00:00Z" data-approx="2026-08-02T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td class=stream><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-08-03T01:00:00Z"><strong>9:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
 </tr>
 </tbody></table>
 ```
