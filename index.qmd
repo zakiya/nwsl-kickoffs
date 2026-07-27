@@ -15,30 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## July
 
-### Sunday, July 26
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-07-26T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-07-26T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-07-26T21:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-07-26T23:00:00Z" data-approx="2026-07-26T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td class=stream><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-07-27T01:00:00Z"><strong>9:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Monday, July 27
 
 ```{=html}
@@ -175,6 +151,21 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-08-03T01:00:00Z"><strong>9:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
+</tr>
+</tbody></table>
+```
+
+### Monday, August 3
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Kenya</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-03T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-08-03T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 </tbody></table>
 ```
