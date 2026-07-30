@@ -15,30 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## July
 
-### Wednesday, July 29
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-07-29T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Mali</td><td class="time-cell" data-announced="2026-07-29T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-07-30T00:00:00Z"><strong>8:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-30T01:00:00Z"><strong>9:00 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-07-30T02:00:00Z"><strong>10:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Thursday, July 30
 
 ```{=html}
@@ -169,6 +145,21 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-08-06T02:00:00Z"><strong>10:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
+</tr>
+</tbody></table>
+```
+
+### Thursday, August 6
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cape Verde</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-08-06T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-08-06T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 </tbody></table>
 ```
