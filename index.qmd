@@ -13,26 +13,6 @@ title: "Kickoff Times and Streaming Info"
 </div>
 ```
 
-## July
-
-### Friday, July 31
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-07-31T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-07-31T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-08-01T00:00:00Z" data-approx="2026-08-01T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td class=stream><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-```
-
 ## August
 
 ### Saturday, August 1
@@ -160,6 +140,24 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-08-08T00:00:00Z" data-approx="2026-08-08T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td class=stream><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
+</tr>
+</tbody></table>
+```
+
+### Saturday, August 8
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-08-08T20:00:00Z" data-approx="2026-08-08T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-08-08T22:30:00Z" data-approx="2026-08-08T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-08-09T00:45:00Z" data-approx="2026-08-09T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
 </tbody></table>
 ```
