@@ -15,33 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## August
 
-### Saturday, August 1
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-08-01T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-08-01T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-08-01T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-08-01T22:30:00Z" data-approx="2026-08-01T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-08-02T00:00:00Z"><strong>8:00 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-08-02T00:45:00Z" data-approx="2026-08-02T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Sunday, August 2
 
 ```{=html}
@@ -158,6 +131,24 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-08-09T00:45:00Z" data-approx="2026-08-09T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+</tbody></table>
+```
+
+### Sunday, August 9
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-08-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-09T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-08-10T01:00:00Z"><strong>9:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
 </tr>
 </tbody></table>
 ```
