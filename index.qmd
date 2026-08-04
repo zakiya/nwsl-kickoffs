@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## August
 
-### Monday, August 3
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Kenya</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-03T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-08-03T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-</tbody></table>
-```
-
 ### Tuesday, August 4
 
 ```{=html}
