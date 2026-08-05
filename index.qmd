@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## August
 
-### Tuesday, August 4
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-08-04T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Tanzania</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-08-04T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-</tbody></table>
-```
-
 ### Wednesday, August 5
 
 ```{=html}
