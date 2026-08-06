@@ -15,24 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## August
 
-### Wednesday, August 5
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-08-05T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Malawi</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-08-05T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-08-06T02:00:00Z"><strong>10:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Thursday, August 6
 
 ```{=html}
