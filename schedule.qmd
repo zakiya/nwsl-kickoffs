@@ -1043,8 +1043,14 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Ivory Coast" data-away="Algeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-08T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Denver" data-away="Utah Royals">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-08-08T20:00:00Z" data-approx="2026-08-08T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+<tr class="game-row" data-home="Morocco" data-away="South Africa">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-08-08T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Washington" data-away="North Carolina">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-08-08T22:30:00Z" data-approx="2026-08-08T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
@@ -1058,8 +1064,14 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Cameroon" data-away="Nigeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-08-09T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Boston" data-away="Portland">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-08-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
+</tr>
+<tr class="game-row" data-home="Malawi" data-away="Ghana">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Malawi</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-08-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Chicago" data-away="Bay">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-09T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
