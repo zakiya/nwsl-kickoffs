@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## August
 
-### Friday, August 7
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-08-07T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-08-08T00:00:00Z" data-approx="2026-08-08T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td class=stream><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Saturday, August 8
 
 ```{=html}
@@ -40,9 +25,6 @@ title: "Kickoff Times and Streaming Info"
   <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-08T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-08-08T20:00:00Z" data-approx="2026-08-08T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr>
   <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-08-08T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
@@ -50,6 +32,9 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-08-09T00:45:00Z" data-approx="2026-08-09T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-08-09T02:00:00Z" data-approx="2026-08-09T02:04:00Z">10:00/<strong>10:04 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
 </tbody></table>
 ```
@@ -95,6 +80,21 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-15T02:00:00Z"><strong>10:00 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+</tr>
+</tbody></table>
+```
+
+### Saturday, August 15
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-08-15T22:30:00Z" data-approx="2026-08-15T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-08-16T00:45:00Z" data-approx="2026-08-16T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
 </tbody></table>
 ```
