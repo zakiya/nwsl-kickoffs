@@ -1081,6 +1081,30 @@ title: "2026 NWSL and WAFCON Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Wednesday, August 12</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Algeria" data-away="Malawi">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-08-12T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Morocco" data-away="Cameroon">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-08-12T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Thursday, August 13</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Ivory Coast" data-away="Ghana">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-08-13T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="South Africa" data-away="Nigeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-08-13T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Friday, August 14</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
