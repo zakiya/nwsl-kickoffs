@@ -96,6 +96,21 @@ title: "Kickoff Times and Streaming Info"
 </tbody></table>
 ```
 
+### Wednesday, August 19
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-08-19T22:30:00Z"><strong>6:30 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-08-20T00:00:00Z"><strong>8:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
+</tr>
+</tbody></table>
+```
+
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
 
 ## Credits
