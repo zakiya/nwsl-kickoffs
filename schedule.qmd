@@ -1127,6 +1127,9 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Morocco" data-away="Algeria">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-15T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Louisville" data-away="Boston">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-08-15T22:30:00Z" data-approx="2026-08-15T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
@@ -1139,6 +1142,9 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Cameroon" data-away="Malawi">
+  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-08-16T19:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="North Carolina" data-away="Houston">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-08-16T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
 </tr>
