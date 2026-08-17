@@ -15,24 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## August
 
-### Sunday, August 16
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-08-16T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-08-16T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-08-17T01:00:00Z"><strong>9:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Wednesday, August 19
 
 ```{=html}
