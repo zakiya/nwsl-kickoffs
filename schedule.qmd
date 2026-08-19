@@ -1203,7 +1203,7 @@ title: "2026 NWSL and WAFCON Schedule"
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-08-23T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
 <tr class="game-row" data-home="Angel City" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-08-24T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-08-24T00:00:00Z" data-approx="2026-08-24T00:04:00Z">8:00/<strong>8:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
 </tbody></table>
 </div>
