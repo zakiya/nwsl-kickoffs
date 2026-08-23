@@ -15,24 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## August
 
-### Saturday, August 22
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-08-22T22:30:00Z" data-approx="2026-08-22T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-08-22T23:30:00Z"><strong>7:30 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-08-23T00:45:00Z" data-approx="2026-08-23T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Sunday, August 23
 
 ```{=html}
@@ -95,6 +77,21 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-08-30T00:45:00Z" data-approx="2026-08-30T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+</tbody></table>
+```
+
+### Sunday, August 30
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-30T16:30:00Z"><strong>12:30 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-08-30T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
 </tr>
 </tbody></table>
 ```
