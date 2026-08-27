@@ -15,18 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## August
 
-### Wednesday, August 26
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-08-27T00:00:00Z"><strong>8:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Friday, August 28
 
 ```{=html}
