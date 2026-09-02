@@ -1322,7 +1322,7 @@ title: "2026 NWSL and WAFCON Schedule"
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-09-12T00:00:00Z" data-approx="2026-09-12T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
 </tr>
 <tr class="game-row" data-home="Angel City" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-09-12T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-09-12T02:00:00Z" data-approx="2026-09-12T02:04:00Z">10:00/<strong>10:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
 </tbody></table>
 </div>
