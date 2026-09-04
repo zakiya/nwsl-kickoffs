@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "watch.html",
+    "href": "watch.html",
+    "title": "How to Watch",
+    "section": "",
+    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
+  },
+  {
+    "objectID": "watch.html#nwsl",
+    "href": "watch.html#nwsl",
+    "title": "How to Watch",
+    "section": "",
+    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
+  },
+  {
+    "objectID": "watch.html#cbs",
+    "href": "watch.html#cbs",
+    "title": "How to Watch",
+    "section": "CBS",
+    "text": "CBS\nCBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on Paramount+ is only available on the Paramount+ with SHOWTIME (Premium) plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams.No matches are streaming-only on Paramount+. This is a change from prior seasons."
+  },
+  {
+    "objectID": "watch.html#cbs-sports-network-cbssn",
+    "href": "watch.html#cbs-sports-network-cbssn",
+    "title": "How to Watch",
+    "section": "CBS Sports Network (CBSSN)",
+    "text": "CBS Sports Network (CBSSN)\nYou typically need cable or streaming subscription to watch CBSSN. You can search for TV Providers by zipcode at the CBS Sports Network website."
+  },
+  {
+    "objectID": "watch.html#victory",
+    "href": "watch.html#victory",
+    "title": "How to Watch",
+    "section": "Victory+",
+    "text": "Victory+\nVictory+ is the newest streaming partner of the NWSL. It’s a free for live streaming and on-demand sports entertainment across major platforms.\nAfter you’ve created a Victory+ account, you can download the Victory+ app on your smart TV and pair your account.\nNational Women’s Soccer League’s Victory+ FAQ site."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kickoff Times and Streaming Info",
@@ -11,7 +46,7 @@
     "href": "index.html#september",
     "title": "Kickoff Times and Streaming Info",
     "section": "September",
-    "text": "September\n\nFriday, September 4\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nUtah Royals\nBoston\n9:30 PM ET\nNWSL+\n\n\nNWSL\n\nBay\nKansas City\n10:00/10:10 PM ET\nPrime Video\n\n\n\n\n\nSaturday, September 5\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nAngel City\n6:30/6:34 PM ET\nION\n\n\n\n\n\nSunday, September 6\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nDenver\nNJ/NY\n2:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nChicago\nNorth Carolina\n4:00 PM ET\nCBS Sports Network\n\n\nNWSL\n\nPortland\nWashington\n4:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nOrlando\nHouston\n7:00 PM ET\nRoku\n\n\nNWSL\n\nSeattle\nSan Diego\n9:00 PM ET\nESPN2, ESPN Unlmtd\n\n\n\n*Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late."
+    "text": "September\n\nFriday, September 4\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nUtah Royals\nBoston\n9:30 PM ET\nNWSL+\n\n\nNWSL\n\nBay\nKansas City\n10:00/10:10 PM ET\nPrime Video\n\n\n\n\n\nSaturday, September 5\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nAngel City\n6:30/6:34 PM ET\nION\n\n\n\n\n\nSunday, September 6\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nDenver\nNJ/NY\n2:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nChicago\nNorth Carolina\n4:00 PM ET\nCBS Sports Network\n\n\nNWSL\n\nPortland\nWashington\n4:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nOrlando\nHouston\n7:00 PM ET\nRoku\n\n\nNWSL\n\nSeattle\nSan Diego\n9:00 PM ET\nESPN2, ESPN Unlmtd\n\n\n\n\n\nFriday, September 11\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nNJ/NY\n6:30 PM ET\nNWSL+\n\n\nNWSL\n\nKansas City\nOrlando\n8:00/8:10 PM ET\nPrime Video\n\n\nNWSL\n\nAngel City\nDenver\n10:00/10:04 PM ET\nION\n\n\n\n*Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late."
   },
   {
     "objectID": "index.html#credits",
@@ -82,40 +117,5 @@
     "title": "2026 NWSL and WAFCON Schedule",
     "section": "November",
     "text": "November\nSunday, November 1\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nAngel City\nBoston\n5:00 PM ET\nTBD\n\n\nNWSL\n\nBay\nSan Diego\n5:00 PM ET\nTBD\n\n\nNWSL\n\nNJ/NY\nUtah Royals\n5:00 PM ET\nTBD\n\n\nNWSL\n\nHouston\nPortland\n5:00 PM ET\nTBD\n\n\nNWSL\n\nNorth Carolina\nDenver\n5:00 PM ET\nTBD\n\n\nNWSL\n\nLouisville\nKansas City\n5:00 PM ET\nTBD\n\n\nNWSL\n\nSeattle\nOrlando\n5:00 PM ET\nTBD\n\n\nNWSL\n\nWashington\nChicago\n5:00 PM ET\nTBD"
-  },
-  {
-    "objectID": "watch.html",
-    "href": "watch.html",
-    "title": "How to Watch",
-    "section": "",
-    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
-  },
-  {
-    "objectID": "watch.html#nwsl",
-    "href": "watch.html#nwsl",
-    "title": "How to Watch",
-    "section": "",
-    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
-  },
-  {
-    "objectID": "watch.html#cbs",
-    "href": "watch.html#cbs",
-    "title": "How to Watch",
-    "section": "CBS",
-    "text": "CBS\nCBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on Paramount+ is only available on the Paramount+ with SHOWTIME (Premium) plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams.No matches are streaming-only on Paramount+. This is a change from prior seasons."
-  },
-  {
-    "objectID": "watch.html#cbs-sports-network-cbssn",
-    "href": "watch.html#cbs-sports-network-cbssn",
-    "title": "How to Watch",
-    "section": "CBS Sports Network (CBSSN)",
-    "text": "CBS Sports Network (CBSSN)\nYou typically need cable or streaming subscription to watch CBSSN. You can search for TV Providers by zipcode at the CBS Sports Network website."
-  },
-  {
-    "objectID": "watch.html#victory",
-    "href": "watch.html#victory",
-    "title": "How to Watch",
-    "section": "Victory+",
-    "text": "Victory+\nVictory+ is the newest streaming partner of the NWSL. It’s a free for live streaming and on-demand sports entertainment across major platforms.\nAfter you’ve created a Victory+ account, you can download the Victory+ app on your smart TV and pair your account.\nNational Women’s Soccer League’s Victory+ FAQ site."
   }
 ]
