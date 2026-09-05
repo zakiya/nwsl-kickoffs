@@ -1,5 +1,5 @@
 ---
-title: "2026 NWSL and WAFCON Schedule"
+title: "Upcoming Schedule"
 ---
 
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
@@ -7,14 +7,15 @@ title: "2026 NWSL and WAFCON Schedule"
 ```{=html}
 <div class="d-flex flex-wrap gap-1 align-items-center mb-3 d-md-none">
   <span class="text-muted small fw-semibold me-1">Jump to:</span>
-  <a href="#march" class="btn btn-sm btn-outline-secondary">March</a>
-  <a href="#april" class="btn btn-sm btn-outline-secondary">April</a>
-  <a href="#may" class="btn btn-sm btn-outline-secondary">May</a>
-  <a href="#july" class="btn btn-sm btn-outline-secondary">July</a>
-  <a href="#august" class="btn btn-sm btn-outline-secondary">August</a>
-  <a href="#september" class="btn btn-sm btn-outline-secondary">September</a>
-  <a href="#october" class="btn btn-sm btn-outline-secondary">October</a>
-  <a href="#november" class="btn btn-sm btn-outline-secondary">November</a>
+  <a href="#september-2026" class="btn btn-sm btn-outline-secondary">September 2026</a>
+  <a href="#october-2026" class="btn btn-sm btn-outline-secondary">October 2026</a>
+  <a href="#november-2026" class="btn btn-sm btn-outline-secondary">November 2026</a>
+  <a href="#december-2026" class="btn btn-sm btn-outline-secondary">December 2026</a>
+  <a href="#january-2027" class="btn btn-sm btn-outline-secondary">January 2027</a>
+  <a href="#february-2027" class="btn btn-sm btn-outline-secondary">February 2027</a>
+  <a href="#march-2027" class="btn btn-sm btn-outline-secondary">March 2027</a>
+  <a href="#april-2027" class="btn btn-sm btn-outline-secondary">April 2027</a>
+  <a href="#may-2027" class="btn btn-sm btn-outline-secondary">May 2027</a>
 </div>
 <div class="mb-3 d-flex align-items-center gap-2">
   <span class="text-muted small fw-semibold me-1">Time zone:</span>
@@ -28,1263 +29,62 @@ title: "2026 NWSL and WAFCON Schedule"
   <label for="team-select" class="fw-semibold text-nowrap mb-0">Filter by team:</label>
   <select id="team-select" class="form-select" style="max-width: 220px;" onchange="filterTeam(this.value)">
     <option value="all">All Teams</option>
-    <option value="Algeria">Algeria</option>
     <option value="Angel City">Angel City</option>
+    <option value="Arsenal">Arsenal</option>
+    <option value="Aston Villa">Aston Villa</option>
+    <option value="Austria Vienna">Austria Vienna</option>
+    <option value="BK Häcken">BK Häcken</option>
+    <option value="Barcelona">Barcelona</option>
     <option value="Bay">Bay</option>
+    <option value="Benfica">Benfica</option>
+    <option value="Birmingham">Birmingham</option>
     <option value="Boston">Boston</option>
-    <option value="Burkina Faso">Burkina Faso</option>
-    <option value="Cameroon">Cameroon</option>
-    <option value="Cape Verde">Cape Verde</option>
+    <option value="Brighton">Brighton</option>
+    <option value="Charlton">Charlton</option>
+    <option value="Chelsea">Chelsea</option>
     <option value="Chicago">Chicago</option>
+    <option value="Crystal Palace">Crystal Palace</option>
     <option value="Denver">Denver</option>
-    <option value="Egypt">Egypt</option>
-    <option value="Ghana">Ghana</option>
+    <option value="Everton">Everton</option>
+    <option value="HB Køge">HB Køge</option>
     <option value="Houston">Houston</option>
-    <option value="Ivory Coast">Ivory Coast</option>
+    <option value="Inter">Inter</option>
     <option value="Kansas City">Kansas City</option>
-    <option value="Kenya">Kenya</option>
+    <option value="Liverpool">Liverpool</option>
+    <option value="London City">London City</option>
     <option value="Louisville">Louisville</option>
-    <option value="Malawi">Malawi</option>
-    <option value="Mali">Mali</option>
-    <option value="Morocco">Morocco</option>
+    <option value="Man City">Man City</option>
+    <option value="Man United">Man United</option>
     <option value="NJ/NY">NJ/NY</option>
-    <option value="Nigeria">Nigeria</option>
     <option value="North Carolina">North Carolina</option>
+    <option value="OH Leuven">OH Leuven</option>
+    <option value="OL Lyonnes">OL Lyonnes</option>
     <option value="Orlando">Orlando</option>
+    <option value="PSG">PSG</option>
+    <option value="Paris FC">Paris FC</option>
     <option value="Portland">Portland</option>
+    <option value="Roma">Roma</option>
     <option value="San Diego">San Diego</option>
     <option value="Seattle">Seattle</option>
-    <option value="Senegal">Senegal</option>
-    <option value="South Africa">South Africa</option>
-    <option value="Tanzania">Tanzania</option>
+    <option value="Tottenham">Tottenham</option>
     <option value="Utah Royals">Utah Royals</option>
     <option value="Washington">Washington</option>
-    <option value="Zambia">Zambia</option>
+    <option value="West Ham">West Ham</option>
   </select>
 </div>
 <p id="no-results" style="display:none" class="text-muted">No games found for this team.</p>
 ```
 
-## March
+## September 2026
 
 ```{=html}
-<div class="day-section"><h3>Friday, March 13</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Washington" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-03-14T00:00:00Z" data-approx="2026-03-14T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, March 14</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-03-14T16:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ABC</a>, ESPN Unlmtd</td>
-</tr>
-<tr class="game-row" data-home="Kansas City" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-03-14T20:00:00Z" data-approx="2026-03-14T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-03-14T22:30:00Z" data-approx="2026-03-14T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="North Carolina" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-03-14T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-03-15T00:45:00Z" data-approx="2026-03-15T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, March 15</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Orlando" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-03-15T20:00:00Z" data-approx="2026-03-15T20:08:00Z">4:00/<strong>4:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-03-15T23:00:00Z" data-approx="2026-03-15T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, March 17</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Algeria" data-away="Senegal">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-03-17T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Ivory Coast" data-away="Burkina Faso">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Burkina Faso</td><td class="time-cell" data-announced="2026-03-17T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Morocco" data-away="Kenya">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-03-17T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="South Africa" data-away="Tanzania">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-03-17T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, March 18</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Cameroon" data-away="Mali">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Mali</td><td class="time-cell" data-announced="2026-03-18T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Ghana" data-away="Cape Verde">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-03-18T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Nigeria" data-away="Malawi">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-03-18T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Zambia" data-away="Egypt">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Zambia</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-03-18T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, March 20</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Burkina Faso" data-away="Tanzania">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-03-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Morocco" data-away="Algeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-03-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Senegal" data-away="Kenya">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-03-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="South Africa" data-away="Ivory Coast">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-03-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Orlando" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-03-21T00:00:00Z" data-approx="2026-03-21T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Louisville" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-03-21T00:00:00Z" data-approx="2026-03-21T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-03-21T02:00:00Z" data-approx="2026-03-21T02:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, March 21</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Egypt" data-away="Malawi">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-03-21T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Ghana" data-away="Cameroon">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-03-21T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Mali" data-away="Cape Verde">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-03-21T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Nigeria" data-away="Zambia">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-03-21T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-03-21T20:00:00Z" data-approx="2026-03-21T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-03-21T22:30:00Z" data-approx="2026-03-21T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-03-22T00:45:00Z" data-approx="2026-03-22T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, March 22</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Chicago" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-03-22T18:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, ESPN Unlmtd</td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-03-22T23:00:00Z" data-approx="2026-03-22T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Monday, March 23</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Burkina Faso" data-away="South Africa">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-03-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Kenya" data-away="Algeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Kenya</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-03-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Senegal" data-away="Morocco">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-03-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Tanzania" data-away="Ivory Coast">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Tanzania</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-03-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, March 24</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Cape Verde" data-away="Cameroon">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cape Verde</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-03-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Egypt" data-away="Nigeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-03-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Malawi" data-away="Zambia">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Malawi</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-03-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Mali" data-away="Ghana">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-03-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, March 25</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="NJ/NY" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-03-25T23:00:00Z" data-approx="2026-03-25T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-03-25T23:00:00Z" data-approx="2026-03-25T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Chicago" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-03-26T00:00:00Z" data-approx="2026-03-26T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-03-26T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-03-26T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, March 27</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Angel City" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-03-28T02:00:00Z" data-approx="2026-03-28T02:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, March 28</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-03-28T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-03-28T18:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-03-28T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-03-28T22:30:00Z" data-approx="2026-03-28T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="North Carolina" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-03-28T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-03-29T00:45:00Z" data-approx="2026-03-29T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, March 29</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="NJ/NY" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-03-29T23:00:00Z" data-approx="2026-03-29T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-```
-
-## April
-
-```{=html}
-<div class="day-section"><h3>Friday, April 3</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-04-03T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Orlando" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-04-04T00:00:00Z" data-approx="2026-04-04T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-04-04T00:30:00Z"><strong>8:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-04-04T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, April 4</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kansas City" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-04-04T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="North Carolina" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-04-04T22:30:00Z" data-approx="2026-04-04T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-04-05T00:45:00Z" data-approx="2026-04-05T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, April 5</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Bay" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-04-05T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, ESPN Unlmtd</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, April 24</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Louisville" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-04-24T21:30:00Z" data-approx="2026-04-24T21:38:00Z">5:30/<strong>5:38 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-04-25T00:00:00Z" data-approx="2026-04-25T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, April 25</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="NJ/NY" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-04-25T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Chicago" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-04-25T22:30:00Z" data-approx="2026-04-25T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-04-26T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-04-26T00:45:00Z" data-approx="2026-04-26T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, April 26</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Angel City" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-04-26T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-04-27T00:00:00Z" data-approx="2026-04-27T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, April 29</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-04-29T23:00:00Z" data-approx="2026-04-29T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-04-29T23:00:00Z" data-approx="2026-04-29T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Chicago" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-04-30T00:00:00Z" data-approx="2026-04-30T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-04-30T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-</div>
-```
-
-## May
-
-```{=html}
-<div class="day-section"><h3>Friday, May 1</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Houston" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-05-02T00:00:00Z" data-approx="2026-05-02T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, May 2</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Orlando" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-05-02T20:00:00Z" data-approx="2026-05-02T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="North Carolina" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-05-02T22:30:00Z" data-approx="2026-05-02T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-05-03T00:45:00Z" data-approx="2026-05-03T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, May 3</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Chicago" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-05-03T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, ESPN Unlmtd</td>
-</tr>
-<tr class="game-row" data-home="Boston" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-05-03T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-05-03T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-05-03T23:00:00Z" data-approx="2026-05-03T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, May 6</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Utah Royals" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-05-07T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, May 8</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Louisville" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-05-08T22:30:00Z"><strong>6:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Orlando" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-05-09T00:00:00Z" data-approx="2026-05-09T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, May 9</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="NJ/NY" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-05-09T22:30:00Z" data-approx="2026-05-09T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-05-10T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-05-10T00:45:00Z" data-approx="2026-05-10T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, May 10</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kansas City" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-05-10T16:25:00Z"><strong>12:25 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, ESPN Unlmtd</td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-05-10T20:00:00Z" data-approx="2026-05-10T20:08:00Z">4:00/<strong>4:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-05-10T23:00:00Z" data-approx="2026-05-10T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, May 12</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-05-12T23:00:00Z" data-approx="2026-05-12T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, May 15</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kansas City" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-05-16T00:00:00Z" data-approx="2026-05-16T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-05-16T02:00:00Z" data-approx="2026-05-16T02:08:00Z">10:00/<strong>10:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-05-16T02:00:00Z" data-approx="2026-05-16T02:08:00Z">10:00/<strong>10:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-05-16T02:00:00Z" data-approx="2026-05-16T02:08:00Z">10:00/<strong>10:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, May 16</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="North Carolina" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-05-16T22:30:00Z" data-approx="2026-05-16T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-05-17T00:45:00Z" data-approx="2026-05-17T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, May 17</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Portland" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-05-17T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, ESPN Unlmtd</td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-05-18T00:00:00Z" data-approx="2026-05-18T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, May 20</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Houston" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-05-21T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-05-21T02:00:00Z" data-approx="2026-05-21T02:08:00Z">10:00/<strong>10:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-05-21T02:00:00Z" data-approx="2026-05-21T02:08:00Z">10:00/<strong>10:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, May 22</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-05-23T00:00:00Z" data-approx="2026-05-23T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, May 23</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Louisville" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-05-23T20:00:00Z" data-approx="2026-05-23T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-05-23T22:30:00Z" data-approx="2026-05-23T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-05-24T00:45:00Z" data-approx="2026-05-24T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, May 24</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kansas City" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-05-24T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-05-24T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-05-24T23:00:00Z" data-approx="2026-05-24T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, May 29</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Orlando" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-05-29T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Louisville" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-05-30T00:00:00Z" data-approx="2026-05-30T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, May 30</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kansas City" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-05-30T17:30:00Z" data-approx="2026-05-30T17:34:00Z">1:30/<strong>1:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-05-30T20:00:00Z" data-approx="2026-05-30T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-05-30T22:30:00Z" data-approx="2026-05-30T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, May 31</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Chicago" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-05-31T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-05-31T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-05-31T23:00:00Z" data-approx="2026-05-31T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-```
-
-## July
-
-```{=html}
-<div class="day-section"><h3>Friday, July 3</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Washington" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-07-04T00:00:00Z" data-approx="2026-07-04T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-07-04T01:30:00Z"><strong>9:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-07-04T02:00:00Z" data-approx="2026-07-04T02:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, July 4</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="North Carolina" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-07-04T23:30:00Z" data-approx="2026-07-04T23:34:00Z">7:30/<strong>7:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-07-05T00:45:00Z" data-approx="2026-07-05T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, July 5</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-07-05T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, ESPN Unlmtd</td>
-</tr>
-<tr class="game-row" data-home="Chicago" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-07-05T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-07-05T23:00:00Z" data-approx="2026-07-05T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, July 10</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-07-11T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Louisville" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-07-11T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Orlando" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-07-11T01:03:00Z" data-approx="2026-07-11T01:13:00Z">9:03/<strong>9:13 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-07-11T02:00:00Z" data-approx="2026-07-11T02:08:00Z">10:00/<strong>10:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, July 11</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="North Carolina" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-11T22:30:00Z" data-approx="2026-07-11T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-07-12T00:45:00Z" data-approx="2026-07-12T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, July 12</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Seattle" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-07-12T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-07-12T23:00:00Z" data-approx="2026-07-12T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, July 15</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Orlando" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-07-15T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-16T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, July 17</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kansas City" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-07-18T00:00:00Z" data-approx="2026-07-18T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, July 18</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Denver" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-07-18T18:15:00Z"><strong>2:15 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-07-18T18:30:00Z"><strong>2:30 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-07-18T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Chicago" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-07-18T22:30:00Z" data-approx="2026-07-18T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-07-19T00:45:00Z" data-approx="2026-07-19T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Louisville" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-07-19T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, July 19</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-19T23:00:00Z" data-approx="2026-07-19T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, July 24</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Houston" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-07-25T00:00:00Z" data-approx="2026-07-25T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Orlando" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-07-25T00:00:00Z" data-approx="2026-07-25T00:08:00Z">8:00/<strong>8:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-07-25T02:00:00Z" data-approx="2026-07-25T02:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, July 25</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-07-25T21:00:00Z" data-approx="2026-07-25T21:04:00Z">5:00/<strong>5:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="North Carolina" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-07-25T23:45:00Z" data-approx="2026-07-25T23:49:00Z">7:45/<strong>7:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, July 26</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Algeria" data-away="Senegal">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-07-26T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Morocco" data-away="Kenya">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-07-26T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-07-26T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-07-26T23:00:00Z" data-approx="2026-07-26T23:08:00Z">7:00/<strong>7:08 PM ET</strong></td><td><a href="https://victoryplus.com/" target="_blank" rel="noopener">Victory+</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-07-27T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Monday, July 27</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="South Africa" data-away="Tanzania">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-07-27T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Ivory Coast" data-away="Burkina Faso">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Burkina Faso</td><td class="time-cell" data-announced="2026-07-27T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, July 28</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Zambia" data-away="Egypt">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Zambia</td><td class=away>Egypt</td><td class="time-cell" data-announced="2026-07-28T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Nigeria" data-away="Malawi">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-07-28T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, July 29</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Ghana" data-away="Cape Verde">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-07-29T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Cameroon" data-away="Mali">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Mali</td><td class="time-cell" data-announced="2026-07-29T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Kansas City" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-07-30T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-07-30T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-07-30T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Thursday, July 30</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Senegal" data-away="Kenya">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Kenya</td><td class="time-cell" data-announced="2026-07-30T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Morocco" data-away="Algeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-07-30T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, July 31</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="South Africa" data-away="Ivory Coast">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-07-31T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Burkina Faso" data-away="Tanzania">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>Tanzania</td><td class="time-cell" data-announced="2026-07-31T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="North Carolina" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-08-01T00:00:00Z" data-approx="2026-08-01T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-```
-
-## August
-
-```{=html}
-<div class="day-section"><h3>Saturday, August 1</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Egypt" data-away="Malawi">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-08-01T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Louisville" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-08-01T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Nigeria" data-away="Zambia">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Nigeria</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-08-01T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Kansas City" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-08-01T22:30:00Z" data-approx="2026-08-01T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-08-02T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-08-02T00:45:00Z" data-approx="2026-08-02T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, August 2</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Ghana" data-away="Cameroon">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-08-02T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-08-02T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Mali" data-away="Cape Verde">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Cape Verde</td><td class="time-cell" data-announced="2026-08-02T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-08-02T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-08-03T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Monday, August 3</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kenya" data-away="Algeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Kenya</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-03T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Senegal" data-away="Morocco">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Senegal</td><td class=away>Morocco</td><td class="time-cell" data-announced="2026-08-03T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Tuesday, August 4</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Burkina Faso" data-away="South Africa">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Burkina Faso</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-08-04T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Tanzania" data-away="Ivory Coast">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Tanzania</td><td class=away>Ivory Coast</td><td class="time-cell" data-announced="2026-08-04T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, August 5</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Egypt" data-away="Nigeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Egypt</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-08-05T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Malawi" data-away="Zambia">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Malawi</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-08-05T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-08-06T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Thursday, August 6</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Cape Verde" data-away="Cameroon">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cape Verde</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-08-06T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Mali" data-away="Ghana">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Mali</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-08-06T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, August 7</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Orlando" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-08-07T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-08-08T00:25:00Z" data-approx="2026-08-08T00:35:00Z">8:25/<strong>8:35 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, August 8</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Ivory Coast" data-away="Algeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-08T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Morocco" data-away="South Africa">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-08-08T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-08-08T22:30:00Z" data-approx="2026-08-08T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-08-09T00:45:00Z" data-approx="2026-08-09T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-08-09T02:00:00Z" data-approx="2026-08-09T02:04:00Z">10:00/<strong>10:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, August 9</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Cameroon" data-away="Nigeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-08-09T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Boston" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-08-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Malawi" data-away="Ghana">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Malawi</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-08-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Chicago" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-09T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-08-10T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, August 12</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Algeria" data-away="Malawi">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-08-12T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Morocco" data-away="Cameroon">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-08-12T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Thursday, August 13</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Ivory Coast" data-away="Ghana">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-08-13T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="South Africa" data-away="Nigeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-08-13T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, August 14</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="NJ/NY" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-08-15T00:00:00Z" data-approx="2026-08-15T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-08-15T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-08-15T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-15T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, August 15</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Morocco" data-away="Algeria">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Algeria</td><td class="time-cell" data-announced="2026-08-15T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Louisville" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-08-15T22:30:00Z" data-approx="2026-08-15T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-08-16T00:45:00Z" data-approx="2026-08-16T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, August 16</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Cameroon" data-away="Malawi">
-  <td class=competition><span class="badge bg-orange">WAFCON</span></td><td class=spacer></td><td class=home>Cameroon</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-08-16T19:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="North Carolina" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-08-16T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-08-17T01:00:00Z"><strong>9:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, August 19</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Louisville" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-08-19T22:30:00Z"><strong>6:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-08-20T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, August 21</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="San Diego" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-08-22T02:00:00Z" data-approx="2026-08-22T02:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, August 22</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kansas City" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-08-22T22:30:00Z" data-approx="2026-08-22T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="North Carolina" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-08-22T23:30:00Z"><strong>7:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-08-23T00:45:00Z" data-approx="2026-08-23T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, August 23</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Chicago" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-08-23T18:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-08-23T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, ESPN Unlmtd</td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-08-23T22:00:00Z"><strong>6:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-08-24T00:00:00Z" data-approx="2026-08-24T00:04:00Z">8:00/<strong>8:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Wednesday, August 26</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="North Carolina" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-08-27T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Friday, August 28</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="NJ/NY" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-08-29T00:00:00Z" data-approx="2026-08-29T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-08-29T02:00:00Z"><strong>10:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Saturday, August 29</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Kansas City" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-08-29T22:30:00Z" data-approx="2026-08-29T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Orlando" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-08-30T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-08-30T00:55:00Z" data-approx="2026-08-30T00:59:00Z">8:55/<strong>8:59 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, August 30</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Washington" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-08-30T16:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN2</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-08-30T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Monday, August 31</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Boston" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-09-01T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-</tbody></table>
-</div>
-```
-
-## September
-
-```{=html}
-<div class="day-section"><h3>Friday, September 4</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Utah Royals" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-09-05T01:30:00Z"><strong>9:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-09-05T02:00:00Z" data-approx="2026-09-05T02:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Saturday, September 5</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Chelsea" data-away="Aston Villa">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Aston Villa</td><td class="time-cell" data-announced="2026-09-05T11:35:00Z"><strong>7:35 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="Louisville" data-away="Angel City">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-09-05T22:30:00Z" data-approx="2026-09-05T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
@@ -1294,6 +94,9 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Brighton" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Brighton</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-09-06T11:00:00Z"><strong>7:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="Denver" data-away="NJ/NY">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-09-06T18:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
@@ -1345,6 +148,12 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Man United" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Man United</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-09-13T11:00:00Z"><strong>7:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Arsenal" data-away="Crystal Palace">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Crystal Palace</td><td class="time-cell" data-announced="2026-09-13T13:45:00Z"><strong>9:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="Washington" data-away="Boston">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-09-13T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, ESPN Unlmtd</td>
 </tr>
@@ -1378,6 +187,12 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Chelsea" data-away="Birmingham">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Birmingham</td><td class="time-cell" data-announced="2026-09-19T11:45:00Z"><strong>7:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Arsenal" data-away="Man United">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Man United</td><td class="time-cell" data-announced="2026-09-19T16:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="Orlando" data-away="Portland">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-09-19T20:00:00Z" data-approx="2026-09-19T20:04:00Z">4:00/<strong>4:04 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
@@ -1404,6 +219,24 @@ title: "2026 NWSL and WAFCON Schedule"
 </tr>
 <tr class="game-row" data-home="Utah Royals" data-away="Angel City">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-09-20T23:00:00Z"><strong>7:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Tuesday, September 22</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="HB Køge">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>HB Køge</td><td class="time-cell" data-announced="2026-09-22T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Wednesday, September 23</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Chelsea" data-away="Austria Vienna">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Austria Vienna</td><td class="time-cell" data-announced="2026-09-23T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
@@ -1441,6 +274,9 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Chelsea" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-09-27T15:30:00Z"><strong>11:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="Bay" data-away="Orlando">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-09-27T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a></td>
 </tr>
@@ -1449,9 +285,21 @@ title: "2026 NWSL and WAFCON Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Wednesday, September 30</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Paris FC" data-away="Arsenal">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Paris FC</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-09-30T16:45:00Z"><strong>12:45 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="OL Lyonnes" data-away="Chelsea">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>OL Lyonnes</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-09-30T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
 ```
 
-## October
+## October 2026
 
 ```{=html}
 <div class="day-section"><h3>Friday, October 2</h3>
@@ -1485,6 +333,12 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="West Ham" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>West Ham</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-10-04T13:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Man City" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Man City</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-10-04T13:30:00Z"><strong>9:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="NJ/NY" data-away="Angel City">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-10-04T16:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ABC</a></td>
 </tr>
@@ -1527,6 +381,12 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Arsenal" data-away="Birmingham">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Birmingham</td><td class="time-cell" data-announced="2026-10-18T11:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Chelsea" data-away="Tottenham">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Tottenham</td><td class="time-cell" data-announced="2026-10-18T13:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="Houston" data-away="Orlando">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-10-18T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
@@ -1569,6 +429,12 @@ title: "2026 NWSL and WAFCON Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Crystal Palace" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Crystal Palace</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-10-25T14:00:00Z"><strong>10:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Tottenham" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Tottenham</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-10-25T14:00:00Z"><strong>10:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="Orlando" data-away="NJ/NY">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-10-25T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
 </tr>
@@ -1580,15 +446,33 @@ title: "2026 NWSL and WAFCON Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Wednesday, October 28</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Chelsea" data-away="Roma">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Roma</td><td class="time-cell" data-announced="2026-10-28T17:45:00Z"><strong>1:45 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Arsenal" data-away="Benfica">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Benfica</td><td class="time-cell" data-announced="2026-10-28T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
 ```
 
-## November
+## November 2026
 
 ```{=html}
 <div class="day-section"><h3>Sunday, November 1</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Arsenal" data-away="Aston Villa">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Aston Villa</td><td class="time-cell" data-announced="2026-11-01T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Charlton" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Charlton</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-01T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
 <tr class="game-row" data-home="Angel City" data-away="Boston">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -1612,6 +496,321 @@ title: "2026 NWSL and WAFCON Schedule"
 </tr>
 <tr class="game-row" data-home="Washington" data-away="Chicago">
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, November 7</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Liverpool" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-07T12:00:00Z"><strong>7:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Chelsea" data-away="Everton">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Everton</td><td class="time-cell" data-announced="2026-11-07T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Tuesday, November 10</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="BK Häcken" data-away="Chelsea">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>BK Häcken</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-10T17:45:00Z"><strong>12:45 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Wednesday, November 11</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Barcelona" data-away="Arsenal">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Barcelona</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-11T17:45:00Z"><strong>12:45 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, November 14</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Chelsea" data-away="Man City">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Man City</td><td class="time-cell" data-announced="2026-11-14T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Arsenal" data-away="London City">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>London City</td><td class="time-cell" data-announced="2026-11-14T17:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Wednesday, November 18</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Chelsea" data-away="PSG">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>PSG</td><td class="time-cell" data-announced="2026-11-18T20:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Thursday, November 19</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="OL Lyonnes">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>OL Lyonnes</td><td class="time-cell" data-announced="2026-11-19T20:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, November 22</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="West Ham">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>West Ham</td><td class="time-cell" data-announced="2026-11-22T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Liverpool" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-22T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+```
+
+## December 2026
+
+```{=html}
+<div class="day-section"><h3>Saturday, December 12</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Everton" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Everton</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-12-12T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, December 13</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Chelsea" data-away="London City">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>London City</td><td class="time-cell" data-announced="2026-12-13T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Wednesday, December 16</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Inter" data-away="Arsenal">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>Inter</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-12-16T20:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="OH Leuven" data-away="Chelsea">
+  <td class=competition><span class="badge bg-indigo">UWCL</span></td><td class=spacer></td><td class=home>OH Leuven</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-12-16T20:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, December 19</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Brighton" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Brighton</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-12-19T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, December 20</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Charlton" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Charlton</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-12-20T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+```
+
+## January 2027
+
+```{=html}
+<div class="day-section"><h3>Sunday, January 10</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="Brighton">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Brighton</td><td class="time-cell" data-announced="2027-01-10T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Man City" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Man City</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2027-01-10T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Wednesday, January 20</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Chelsea" data-away="Charlton">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Charlton</td><td class="time-cell" data-announced="2027-01-20T19:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Thursday, January 21</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="Liverpool">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Liverpool</td><td class="time-cell" data-announced="2027-01-21T19:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, January 24</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Chelsea" data-away="Crystal Palace">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Crystal Palace</td><td class="time-cell" data-announced="2027-01-24T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="London City" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>London City</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2027-01-24T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, January 30</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="Man City">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Man City</td><td class="time-cell" data-announced="2027-01-30T17:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, January 31</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Tottenham" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Tottenham</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2027-01-31T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+```
+
+## February 2027
+
+```{=html}
+<div class="day-section"><h3>Sunday, February 7</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Birmingham" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Birmingham</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2027-02-07T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Chelsea" data-away="Liverpool">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Liverpool</td><td class="time-cell" data-announced="2027-02-07T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, February 14</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Crystal Palace" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Crystal Palace</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2027-02-14T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="London City" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>London City</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2027-02-14T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+```
+
+## March 2027
+
+```{=html}
+<div class="day-section"><h3>Saturday, March 13</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Birmingham" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Birmingham</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2027-03-13T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Arsenal" data-away="Tottenham">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Tottenham</td><td class="time-cell" data-announced="2027-03-13T17:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Wednesday, March 17</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Chelsea" data-away="West Ham">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>West Ham</td><td class="time-cell" data-announced="2027-03-17T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Aston Villa" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Aston Villa</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2027-03-17T19:30:00Z"><strong>3:30 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, March 28</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2027-03-28T13:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+```
+
+## April 2027
+
+```{=html}
+<div class="day-section"><h3>Sunday, April 4</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="Everton">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Everton</td><td class="time-cell" data-announced="2027-04-04T13:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Chelsea" data-away="Man United">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Man United</td><td class="time-cell" data-announced="2027-04-04T13:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+```
+
+## May 2027
+
+```{=html}
+<div class="day-section"><h3>Sunday, May 2</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="West Ham" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>West Ham</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2027-05-02T13:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Aston Villa" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Aston Villa</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2027-05-02T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, May 9</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Man United" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Man United</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2027-05-09T12:00:00Z"><strong>8:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Chelsea" data-away="Brighton">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Brighton</td><td class="time-cell" data-announced="2027-05-09T13:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, May 22</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Arsenal" data-away="Charlton">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Charlton</td><td class="time-cell" data-announced="2027-05-22T18:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Everton" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Everton</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2027-05-22T18:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>

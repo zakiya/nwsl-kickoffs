@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """
-Schedule updater for the NWSL and the Women's Africa Cup of Nations (WAFCON)
+Schedule updater for the NWSL, WAFCON, and the Arsenal/Chelsea women's fixtures
+in the WSL, UWCL, and the English domestic cups.
 - index.qmd: current week's games (next DAYS_AHEAD days), markdown tables
-- schedule.qmd: full season, HTML tables with team filter
+- schedule.qmd: rolling MONTHS_AHEAD window, HTML tables with team filter
+Both look forward from today only — finished games are never included.
 Each game is labeled with its competition badge.
 
 Usage: uv run update_schedule.py
 """
 
+import calendar
 import re
 import sys
 import requests
@@ -19,9 +22,12 @@ from zoneinfo import ZoneInfo
 # Window for index.qmd (current week)
 DAYS_AHEAD: int = 7
 
-# Full season date range for schedule.qmd
-SEASON_START = date(2026, 3, 1)
-SEASON_END   = date(2026, 11, 30)
+# Rolling window for schedule.qmd, measured forward from today.
+MONTHS_AHEAD: int = 12
+
+# Clubs followed individually rather than by whole competition. Applied to the
+# feeds in ESPN_SOURCES that carry a team filter (the English/European ones).
+TRACKED_CLUBS: frozenset[str] = frozenset({"Arsenal", "Chelsea"})
 
 STREAM_LINKS: dict[str, str] = {
     "CBSSN":           "[CBS Sports Network](https://www.paramountplus.com/)",
@@ -43,6 +49,10 @@ STREAM_LINKS: dict[str, str] = {
 COMPETITIONS: dict[str, dict[str, str]] = {
     "NWSL":          {"label": "NWSL",          "class": "bg-purple"},
     "WAFCON":        {"label": "WAFCON",        "class": "bg-orange"},
+    "WSL":           {"label": "WSL",           "class": "bg-blue"},
+    "UWCL":          {"label": "UWCL",          "class": "bg-indigo"},
+    "FA Cup":        {"label": "FA Cup",        "class": "bg-red"},
+    "League Cup":    {"label": "League Cup",    "class": "bg-teal"},
 }
 
 NETWORK_BUFFERS: dict[str, int] = {
@@ -80,17 +90,38 @@ SHORT_NAMES: dict[str, str] = {
     "OL Reign":               "Seattle",
     "Utah Royals FC":         "Utah Royals",
     "Washington Spirit":      "Washington",
+    # English and European clubs
+    "Brighton & Hove Albion": "Brighton",
+    "Tottenham Hotspur":      "Tottenham",
+    "Manchester City":        "Man City",
+    "Manchester United":      "Man United",
+    "West Ham United":        "West Ham",
+    "Leicester City":         "Leicester",
+    "Birmingham City":        "Birmingham",
+    "Charlton Athletic":      "Charlton",
+    "London City Lionesses":  "London City",
+    "Paris Saint-Germain":    "PSG",
+    "Internazionale":         "Inter",
 }
 
 # ── END CONFIGURE ─────────────────────────────────────────────────────────────
 
 ET = ZoneInfo("America/New_York")
-# ESPN scoreboard feeds to pull fixtures from, each tagged with its competition
-# label (NWSL regular season and WAFCON).
-ESPN_SOURCES: list[tuple[str, str]] = [
-    ("NWSL",          "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard"),
-    ("WAFCON",        "https://site.api.espn.com/apis/site/v2/sports/soccer/caf.w.nations/scoreboard"),
+# ESPN scoreboard feeds to pull fixtures from. Each entry is the competition
+# label, the feed URL, and an optional set of teams to keep — None takes every
+# fixture in the feed, a set keeps only fixtures involving one of those teams.
+ESPN_SOURCES: list[tuple[str, str, frozenset[str] | None]] = [
+    ("NWSL",          "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard",         None),
+    ("WAFCON",        "https://site.api.espn.com/apis/site/v2/sports/soccer/caf.w.nations/scoreboard",    None),
+    ("WSL",           "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.w.1/scoreboard",          TRACKED_CLUBS),
+    ("UWCL",          "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions/scoreboard",  TRACKED_CLUBS),
+    ("FA Cup",        "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.w.fa/scoreboard",         TRACKED_CLUBS),
+    ("League Cup",    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.w.league_cup/scoreboard", TRACKED_CLUBS),
 ]
+
+# ESPN answers a dated query spanning much more than a year with an HTTP 400,
+# so long windows are fetched in chunks and merged.
+MAX_RANGE_DAYS: int = 300
 MD_LINK = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 
 TZ_TOGGLE_HTML = """\
@@ -110,28 +141,61 @@ APPROX_NOTE = (
 
 # ── FETCH ─────────────────────────────────────────────────────────────────────
 
-def _get_events(url: str, params: dict, competition: str) -> list[dict]:
+def _involves(event: dict, teams: frozenset[str]) -> bool:
+    """True when either competitor is one of the teams we follow."""
+    try:
+        competitors = event["competitions"][0]["competitors"]
+    except (KeyError, IndexError):
+        return False
+    return any(c["team"]["displayName"] in teams for c in competitors)
+
+
+def _get_events(url: str, params: dict, competition: str,
+                teams: frozenset[str] | None) -> list[dict]:
     resp = requests.get(url, params=params, timeout=10)
     resp.raise_for_status()
     events = resp.json().get("events", [])
+    if teams is not None:
+        events = [e for e in events if _involves(e, teams)]
     for e in events:
         e["_competition"] = competition
     return events
 
+
+def date_chunks(start: date, end: date) -> list[tuple[date, date]]:
+    """Split a window into pieces ESPN's dated query will accept."""
+    chunks: list[tuple[date, date]] = []
+    cursor = start
+    while cursor <= end:
+        stop = min(cursor + timedelta(days=MAX_RANGE_DAYS), end)
+        chunks.append((cursor, stop))
+        cursor = stop + timedelta(days=1)
+    return chunks
+
+
+def months_ahead(d: date, months: int) -> date:
+    """The same day-of-month `months` later, clamped to the month's length."""
+    index = d.month - 1 + months
+    year = d.year + index // 12
+    month = index % 12 + 1
+    return date(year, month, min(d.day, calendar.monthrange(year, month)[1]))
+
+
 def fetch_games(start: date, end: date) -> list[dict]:
-    dated = {
-        "dates": f"{start.strftime('%Y%m%d')}-{end.strftime('%Y%m%d')}",
-        "limit": 300,
-    }
     events: list[dict] = []
-    for competition, url in ESPN_SOURCES:
-        events.extend(_get_events(url, dated, competition))
+    for competition, url, teams in ESPN_SOURCES:
+        for chunk_start, chunk_end in date_chunks(start, end):
+            dated = {
+                "dates": f"{chunk_start.strftime('%Y%m%d')}-{chunk_end.strftime('%Y%m%d')}",
+                "limit": 300,
+            }
+            events.extend(_get_events(url, dated, competition, teams))
     # Fallback only when *every* feed's dated query came back empty
     # (e.g. off-season); avoids pulling out-of-window games when one
     # competition simply has no fixtures in the requested range.
     if not events:
-        for competition, url in ESPN_SOURCES:
-            events.extend(_get_events(url, {"limit": 50}, competition))
+        for competition, url, teams in ESPN_SOURCES:
+            events.extend(_get_events(url, {"limit": 50}, competition, teams))
     # De-duplicate by event id in case a fixture appears in multiple feeds.
     deduped: dict[str, dict] = {}
     for e in events:
@@ -275,15 +339,21 @@ def update_index_qmd(path: str, content_block: str) -> None:
 # ── SCHEDULE.QMD — HTML tables with team filter, full season ──────────────────
 
 
+def month_anchor(month: str) -> str:
+    """Quarto's heading id for a '<Month> <Year>' heading."""
+    return month.lower().replace(" ", "-")
+
+
 def write_schedule_qmd(path: str, games: list[dict]) -> None:
     """Write schedule.qmd with markdown month headings (picked up by Quarto TOC)
     and HTML day tables with a team dropdown filter."""
     games = sorted(games, key=lambda g: g["et_dt"])
 
-    # Group by month then date, preserving chronological order
+    # Group by month then date, preserving chronological order. The rolling
+    # window spans two calendar years, so headings carry the year.
     by_month: dict[str, dict[date, list[dict]]] = {}
     for g in games:
-        month = g["et_dt"].strftime("%B")
+        month = g["et_dt"].strftime("%B %Y")
         by_month.setdefault(month, {}).setdefault(g["et_dt"].date(), []).append(g)
 
     teams = sorted({
@@ -295,14 +365,14 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
     # Mobile-only month jump nav (desktop uses the TOC sidebar)
     months_seen: list[str] = []
     for g in games:
-        m = g["et_dt"].strftime("%B")
+        m = g["et_dt"].strftime("%B %Y")
         if m not in months_seen:
             months_seen.append(m)
 
     mobile_jump = ['<div class="d-flex flex-wrap gap-1 align-items-center mb-3 d-md-none">']
     mobile_jump.append('  <span class="text-muted small fw-semibold me-1">Jump to:</span>')
     for month in months_seen:
-        mobile_jump.append(f'  <a href="#{month.lower()}" class="btn btn-sm btn-outline-secondary">{month}</a>')
+        mobile_jump.append(f'  <a href="#{month_anchor(month)}" class="btn btn-sm btn-outline-secondary">{month}</a>')
     mobile_jump.append('</div>')
 
     # Timezone toggle + dropdown filter
@@ -321,7 +391,7 @@ def write_schedule_qmd(path: str, games: list[dict]) -> None:
 
     lines = [
         "---",
-        f'title: "{SEASON_START.year} NWSL and WAFCON Schedule"',
+        'title: "Upcoming Schedule"',
         "---",
         "",
         APPROX_NOTE,
@@ -362,7 +432,10 @@ def main() -> None:
     # index.qmd — current week
     week_end = today + timedelta(days=DAYS_AHEAD)
     print(f"Fetching current week games {today} → {week_end}...")
-    week_games = [g for e in fetch_games(today, week_end) if (g := parse_game(e))]
+    week_games = [
+        g for e in fetch_games(today, week_end)
+        if (g := parse_game(e)) and today <= g["et_dt"].date() <= week_end
+    ]
     print(f"  Found {len(week_games)} game(s)")
     if week_games:
         update_index_qmd("index.qmd", build_index_content(week_games))
@@ -370,15 +443,19 @@ def main() -> None:
     else:
         print("  No games found — index.qmd not modified")
 
-    # schedule.qmd — full season
-    print(f"\nFetching full season {SEASON_START} → {SEASON_END}...")
-    season_games = [g for e in fetch_games(SEASON_START, SEASON_END) if (g := parse_game(e))]
-    print(f"  Found {len(season_games)} game(s)")
-    if season_games:
-        write_schedule_qmd("schedule.qmd", season_games)
+    # schedule.qmd — rolling window looking forward from today
+    horizon = months_ahead(today, MONTHS_AHEAD)
+    print(f"\nFetching next {MONTHS_AHEAD} months {today} → {horizon}...")
+    upcoming_games = [
+        g for e in fetch_games(today, horizon)
+        if (g := parse_game(e)) and today <= g["et_dt"].date() <= horizon
+    ]
+    print(f"  Found {len(upcoming_games)} game(s)")
+    if upcoming_games:
+        write_schedule_qmd("schedule.qmd", upcoming_games)
         print("  schedule.qmd updated")
     else:
-        print("  No season games found — schedule.qmd not modified")
+        print("  No upcoming games found — schedule.qmd not modified")
 
     print("\nRun `quarto render` to rebuild the site.")
 

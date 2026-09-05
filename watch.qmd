@@ -21,3 +21,11 @@ Victory+ is the newest streaming partner of the NWSL. It's a free for live strea
 After you've created a [Victory+ account](https://victoryplus.com/), you can download the Victory+ app on your smart TV and [pair your account](victoryplus.com/settings/pair).
 
  [National Women's Soccer League's Victory+ FAQ site](https://www.nwslsoccer.com/news/victory-faq-everything-nwsl-fans-need-to-know-about-the-free-streaming-platform).
+
+## Arsenal and Chelsea
+
+Arsenal and Chelsea appear here for their WSL, UEFA Women's Champions League, and English domestic cup fixtures. Most of these kick off in the late morning ET — use the **GMT** button on the schedule pages to see the local UK kickoff time.
+
+WSL and Champions League matches are listed on [Paramount+](https://www.paramountplus.com/), with some also on [CBS Sports Network](https://www.cbssportsnetwork.com/), [ESPN+](https://plus.espn.com/), or [ESPN Deportes](https://plus.espn.com/). The Stream column on each match row links to whichever service ESPN lists for that fixture.
+
+FA Cup and League Cup ties often show **TBD** — those rounds are frequently scheduled before a US broadcaster is announced, and the listing fills in once ESPN publishes one.
