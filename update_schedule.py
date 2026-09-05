@@ -48,9 +48,9 @@ STREAM_LINKS: dict[str, str] = {
 # Competition labels (keyed by the source feed) → badge label + Bootstrap class.
 COMPETITIONS: dict[str, dict[str, str]] = {
     "NWSL":          {"label": "NWSL",          "class": "bg-purple"},
-    "WAFCON":        {"label": "WAFCON",        "class": "bg-orange"},
+    "WAFCON":        {"label": "WAFCON",        "class": "bg-indigo"},
     "WSL":           {"label": "WSL",           "class": "bg-blue"},
-    "UWCL":          {"label": "UWCL",          "class": "bg-indigo"},
+    "UWCL":          {"label": "UWCL",          "class": "bg-orange"},
     "FA Cup":        {"label": "FA Cup",        "class": "bg-red"},
     "League Cup":    {"label": "League Cup",    "class": "bg-teal"},
 }
