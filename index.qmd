@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## September
 
-### Saturday, September 5
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Aston Villa</td><td class="time-cell" data-announced="2026-09-05T11:35:00Z"><strong>7:35 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-09-05T22:30:00Z" data-approx="2026-09-05T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Sunday, September 6
 
 ```{=html}
@@ -89,6 +74,27 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-09-13T00:45:00Z" data-approx="2026-09-13T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+</tbody></table>
+```
+
+### Sunday, September 13
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Man United</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-09-13T11:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Crystal Palace</td><td class="time-cell" data-announced="2026-09-13T13:45:00Z"><strong>9:45 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-09-13T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, ESPN Unlmtd</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-09-13T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream>Roku</td>
 </tr>
 </tbody></table>
 ```

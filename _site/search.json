@@ -1,5 +1,68 @@
 [
   {
+    "objectID": "watch.html",
+    "href": "watch.html",
+    "title": "How to Watch",
+    "section": "",
+    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
+  },
+  {
+    "objectID": "watch.html#nwsl",
+    "href": "watch.html#nwsl",
+    "title": "How to Watch",
+    "section": "",
+    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
+  },
+  {
+    "objectID": "watch.html#cbs",
+    "href": "watch.html#cbs",
+    "title": "How to Watch",
+    "section": "CBS",
+    "text": "CBS\nCBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on Paramount+ is only available on the Paramount+ with SHOWTIME (Premium) plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams.No matches are streaming-only on Paramount+. This is a change from prior seasons."
+  },
+  {
+    "objectID": "watch.html#cbs-sports-network-cbssn",
+    "href": "watch.html#cbs-sports-network-cbssn",
+    "title": "How to Watch",
+    "section": "CBS Sports Network (CBSSN)",
+    "text": "CBS Sports Network (CBSSN)\nYou typically need cable or streaming subscription to watch CBSSN. You can search for TV Providers by zipcode at the CBS Sports Network website."
+  },
+  {
+    "objectID": "watch.html#victory",
+    "href": "watch.html#victory",
+    "title": "How to Watch",
+    "section": "Victory+",
+    "text": "Victory+\nVictory+ is the newest streaming partner of the NWSL. It’s a free for live streaming and on-demand sports entertainment across major platforms.\nAfter you’ve created a Victory+ account, you can download the Victory+ app on your smart TV and pair your account.\nNational Women’s Soccer League’s Victory+ FAQ site."
+  },
+  {
+    "objectID": "watch.html#arsenal-and-chelsea",
+    "href": "watch.html#arsenal-and-chelsea",
+    "title": "How to Watch",
+    "section": "Arsenal and Chelsea",
+    "text": "Arsenal and Chelsea\nArsenal and Chelsea appear here for their WSL, UEFA Women’s Champions League, and English domestic cup fixtures. Most of these kick off in the late morning ET — use the GMT button on the schedule pages to see the local UK kickoff time.\nWSL and Champions League matches are listed on Paramount+, with some also on CBS Sports Network, ESPN+, or ESPN Deportes. The Stream column on each match row links to whichever service ESPN lists for that fixture.\nFA Cup and League Cup ties often show TBD — those rounds are frequently scheduled before a US broadcaster is announced, and the listing fills in once ESPN publishes one."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kickoff Times and Streaming Info",
+    "section": "",
+    "text": "Time zone:\n  ET\n  CT\n  MT\n  PT\n  GMT"
+  },
+  {
+    "objectID": "index.html#september",
+    "href": "index.html#september",
+    "title": "Kickoff Times and Streaming Info",
+    "section": "September",
+    "text": "September\n\nSunday, September 6\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nBrighton\nArsenal\n7:00 AM ET\nCBS Sports Network, Paramount+\n\n\nNWSL\n\nDenver\nNJ/NY\n2:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nChicago\nNorth Carolina\n4:00 PM ET\nCBS Sports Network\n\n\nNWSL\n\nPortland\nWashington\n4:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nOrlando\nHouston\n7:00 PM ET\nRoku\n\n\nNWSL\n\nSeattle\nSan Diego\n9:00 PM ET\nESPN2, ESPN Unlmtd\n\n\n\n\n\nFriday, September 11\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nNJ/NY\n6:30 PM ET\nNWSL+\n\n\nNWSL\n\nKansas City\nOrlando\n8:00/8:10 PM ET\nPrime Video\n\n\nNWSL\n\nAngel City\nDenver\n10:00/10:04 PM ET\nION\n\n\n\n\n\nSaturday, September 12\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nSan Diego\nNorth Carolina\n6:30/6:34 PM ET\nION\n\n\nNWSL\n\nSeattle\nBay\n8:00 PM ET\nNWSL+\n\n\nNWSL\n\nHouston\nUtah Royals\n8:45/8:49 PM ET\nION\n\n\n\n\n\nSunday, September 13\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nMan United\nChelsea\n7:00 AM ET\nParamount+\n\n\nWSL\n\nArsenal\nCrystal Palace\n9:45 AM ET\nParamount+\n\n\nNWSL\n\nWashington\nBoston\n1:00 PM ET\nESPN, ESPN Unlmtd\n\n\nNWSL\n\nPortland\nChicago\n7:00 PM ET\nRoku\n\n\n\n*Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late."
+  },
+  {
+    "objectID": "index.html#credits",
+    "href": "index.html#credits",
+    "title": "Kickoff Times and Streaming Info",
+    "section": "Credits",
+    "text": "Credits\nThis site is a fork. Arianna D. Cascone (ariannacascone4@gmail.com) created the original. Visit nationalwomenssoccerleague.com to show your support.\n Favicon purchased with a Noun project subscription."
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Upcoming Schedule",
@@ -11,7 +74,7 @@
     "href": "schedule.html#september-2026",
     "title": "Upcoming Schedule",
     "section": "September 2026",
-    "text": "September 2026\nSaturday, September 5\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nAston Villa\n7:35 AM ET\nParamount+\n\n\nNWSL\n\nLouisville\nAngel City\n6:30/6:34 PM ET\nION\n\n\n\n\n\nSunday, September 6\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nBrighton\nArsenal\n7:00 AM ET\nCBS Sports Network, Paramount+\n\n\nNWSL\n\nDenver\nNJ/NY\n2:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nChicago\nNorth Carolina\n4:00 PM ET\nCBS Sports Network\n\n\nNWSL\n\nPortland\nWashington\n4:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nOrlando\nHouston\n7:00 PM ET\nRoku\n\n\nNWSL\n\nSeattle\nSan Diego\n9:00 PM ET\nESPN2, ESPN Unlmtd\n\n\n\n\n\nFriday, September 11\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nNJ/NY\n6:30 PM ET\nNWSL+\n\n\nNWSL\n\nKansas City\nOrlando\n8:00/8:10 PM ET\nPrime Video\n\n\nNWSL\n\nAngel City\nDenver\n10:00/10:04 PM ET\nION\n\n\n\n\n\nSaturday, September 12\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nSan Diego\nNorth Carolina\n6:30/6:34 PM ET\nION\n\n\nNWSL\n\nSeattle\nBay\n8:00 PM ET\nNWSL+\n\n\nNWSL\n\nHouston\nUtah Royals\n8:45/8:49 PM ET\nION\n\n\n\n\n\nSunday, September 13\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nMan United\nChelsea\n7:00 AM ET\nParamount+\n\n\nWSL\n\nArsenal\nCrystal Palace\n9:45 AM ET\nParamount+\n\n\nNWSL\n\nWashington\nBoston\n1:00 PM ET\nESPN, ESPN Unlmtd\n\n\nNWSL\n\nPortland\nChicago\n7:00 PM ET\nRoku\n\n\n\n\n\nWednesday, September 16\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nDenver\nBay\n9:30 PM ET\nNWSL+\n\n\nNWSL\n\nAngel City\nSeattle\n10:00 PM ET\nNWSL+\n\n\n\n\n\nFriday, September 18\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nSan Diego\nKansas City\n10:00/10:10 PM ET\nPrime Video\n\n\n\n\n\nSaturday, September 19\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nBirmingham\n7:45 AM ET\nParamount+\n\n\nWSL\n\nArsenal\nMan United\n12:30 PM ET\nParamount+\n\n\nNWSL\n\nOrlando\nPortland\n4:00/4:04 PM ET\nION\n\n\nNWSL\n\nNorth Carolina\nNJ/NY\n6:30/6:34 PM ET\nION\n\n\nNWSL\n\nDenver\nSeattle\n8:45/8:49 PM ET\nION\n\n\n\n\n\nSunday, September 20\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nBoston\nHouston\n2:00 PM ET\nCBS Sports Network\n\n\nNWSL\n\nChicago\nWashington\n5:00 PM ET\nESPN, ESPN Deportes\n\n\nNWSL\n\nBay\nLouisville\n7:00 PM ET\nRoku\n\n\nNWSL\n\nUtah Royals\nAngel City\n7:00 PM ET\nNWSL+\n\n\n\n\n\nTuesday, September 22\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nArsenal\nHB Køge\n3:00 PM ET\nParamount+\n\n\n\n\n\nWednesday, September 23\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nChelsea\nAustria Vienna\n3:00 PM ET\nParamount+\n\n\n\n\n\nFriday, September 25\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nSan Diego\n6:30 PM ET\nNWSL+\n\n\nNWSL\n\nNJ/NY\nChicago\n8:00/8:10 PM ET\nPrime Video\n\n\nNWSL\n\nSeattle\nBoston\n8:30 PM ET\nNWSL+\n\n\n\n\n\nSaturday, September 26\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nKansas City\nDenver\n12:30 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nWashington\nAngel City\n6:30/6:34 PM ET\nION\n\n\nNWSL\n\nPortland\nHouston\n8:45/8:49 PM ET\nION\n\n\n\n\n\nSunday, September 27\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nArsenal\n11:30 AM ET\nParamount+\n\n\nNWSL\n\nBay\nOrlando\n5:00 PM ET\nESPN\n\n\nNWSL\n\nUtah Royals\nNorth Carolina\n7:00 PM ET\nRoku\n\n\n\n\n\nWednesday, September 30\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nParis FC\nArsenal\n12:45 PM ET\nParamount+\n\n\nUWCL\n\nOL Lyonnes\nChelsea\n3:00 PM ET\nParamount+"
+    "text": "September 2026\nSunday, September 6\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nBrighton\nArsenal\n7:00 AM ET\nCBS Sports Network, Paramount+\n\n\nNWSL\n\nDenver\nNJ/NY\n2:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nChicago\nNorth Carolina\n4:00 PM ET\nCBS Sports Network\n\n\nNWSL\n\nPortland\nWashington\n4:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nOrlando\nHouston\n7:00 PM ET\nRoku\n\n\nNWSL\n\nSeattle\nSan Diego\n9:00 PM ET\nESPN2, ESPN Unlmtd\n\n\n\n\n\nFriday, September 11\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nNJ/NY\n6:30 PM ET\nNWSL+\n\n\nNWSL\n\nKansas City\nOrlando\n8:00/8:10 PM ET\nPrime Video\n\n\nNWSL\n\nAngel City\nDenver\n10:00/10:04 PM ET\nION\n\n\n\n\n\nSaturday, September 12\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nSan Diego\nNorth Carolina\n6:30/6:34 PM ET\nION\n\n\nNWSL\n\nSeattle\nBay\n8:00 PM ET\nNWSL+\n\n\nNWSL\n\nHouston\nUtah Royals\n8:45/8:49 PM ET\nION\n\n\n\n\n\nSunday, September 13\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nMan United\nChelsea\n7:00 AM ET\nParamount+\n\n\nWSL\n\nArsenal\nCrystal Palace\n9:45 AM ET\nParamount+\n\n\nNWSL\n\nWashington\nBoston\n1:00 PM ET\nESPN, ESPN Unlmtd\n\n\nNWSL\n\nPortland\nChicago\n7:00 PM ET\nRoku\n\n\n\n\n\nWednesday, September 16\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nDenver\nBay\n9:30 PM ET\nNWSL+\n\n\nNWSL\n\nAngel City\nSeattle\n10:00 PM ET\nNWSL+\n\n\n\n\n\nFriday, September 18\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nSan Diego\nKansas City\n10:00/10:10 PM ET\nPrime Video\n\n\n\n\n\nSaturday, September 19\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nBirmingham\n7:45 AM ET\nParamount+\n\n\nWSL\n\nArsenal\nMan United\n12:30 PM ET\nParamount+\n\n\nNWSL\n\nOrlando\nPortland\n4:00/4:04 PM ET\nION\n\n\nNWSL\n\nNorth Carolina\nNJ/NY\n6:30/6:34 PM ET\nION\n\n\nNWSL\n\nDenver\nSeattle\n8:45/8:49 PM ET\nION\n\n\n\n\n\nSunday, September 20\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nBoston\nHouston\n2:00 PM ET\nCBS Sports Network\n\n\nNWSL\n\nChicago\nWashington\n5:00 PM ET\nESPN, ESPN Deportes\n\n\nNWSL\n\nBay\nLouisville\n7:00 PM ET\nRoku\n\n\nNWSL\n\nUtah Royals\nAngel City\n7:00 PM ET\nNWSL+\n\n\n\n\n\nTuesday, September 22\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nArsenal\nHB Køge\n3:00 PM ET\nParamount+\n\n\n\n\n\nWednesday, September 23\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nChelsea\nAustria Vienna\n3:00 PM ET\nParamount+\n\n\n\n\n\nFriday, September 25\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nSan Diego\n6:30 PM ET\nNWSL+\n\n\nNWSL\n\nNJ/NY\nChicago\n8:00/8:10 PM ET\nPrime Video\n\n\nNWSL\n\nSeattle\nBoston\n8:30 PM ET\nNWSL+\n\n\n\n\n\nSaturday, September 26\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nKansas City\nDenver\n12:30 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nWashington\nAngel City\n6:30/6:34 PM ET\nION\n\n\nNWSL\n\nPortland\nHouston\n8:45/8:49 PM ET\nION\n\n\n\n\n\nSunday, September 27\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nArsenal\n11:30 AM ET\nParamount+\n\n\nNWSL\n\nBay\nOrlando\n5:00 PM ET\nESPN\n\n\nNWSL\n\nUtah Royals\nNorth Carolina\n7:00 PM ET\nRoku\n\n\n\n\n\nWednesday, September 30\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nParis FC\nArsenal\n12:45 PM ET\nParamount+\n\n\nUWCL\n\nOL Lyonnes\nChelsea\n3:00 PM ET\nParamount+"
   },
   {
     "objectID": "schedule.html#october-2026",
@@ -68,68 +131,5 @@
     "title": "Upcoming Schedule",
     "section": "May 2027",
     "text": "May 2027\nSunday, May 2\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nWest Ham\nArsenal\n9:00 AM ET\nParamount+\n\n\nWSL\n\nAston Villa\nChelsea\n1:00 PM ET\nParamount+\n\n\n\n\n\nSunday, May 9\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nMan United\nArsenal\n8:00 AM ET\nParamount+\n\n\nWSL\n\nChelsea\nBrighton\n9:00 AM ET\nParamount+\n\n\n\n\n\nSaturday, May 22\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nArsenal\nCharlton\n2:00 PM ET\nParamount+\n\n\nWSL\n\nEverton\nChelsea\n2:00 PM ET\nParamount+"
-  },
-  {
-    "objectID": "watch.html",
-    "href": "watch.html",
-    "title": "How to Watch",
-    "section": "",
-    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
-  },
-  {
-    "objectID": "watch.html#nwsl",
-    "href": "watch.html#nwsl",
-    "title": "How to Watch",
-    "section": "",
-    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
-  },
-  {
-    "objectID": "watch.html#cbs",
-    "href": "watch.html#cbs",
-    "title": "How to Watch",
-    "section": "CBS",
-    "text": "CBS\nCBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on Paramount+ is only available on the Paramount+ with SHOWTIME (Premium) plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams.No matches are streaming-only on Paramount+. This is a change from prior seasons."
-  },
-  {
-    "objectID": "watch.html#cbs-sports-network-cbssn",
-    "href": "watch.html#cbs-sports-network-cbssn",
-    "title": "How to Watch",
-    "section": "CBS Sports Network (CBSSN)",
-    "text": "CBS Sports Network (CBSSN)\nYou typically need cable or streaming subscription to watch CBSSN. You can search for TV Providers by zipcode at the CBS Sports Network website."
-  },
-  {
-    "objectID": "watch.html#victory",
-    "href": "watch.html#victory",
-    "title": "How to Watch",
-    "section": "Victory+",
-    "text": "Victory+\nVictory+ is the newest streaming partner of the NWSL. It’s a free for live streaming and on-demand sports entertainment across major platforms.\nAfter you’ve created a Victory+ account, you can download the Victory+ app on your smart TV and pair your account.\nNational Women’s Soccer League’s Victory+ FAQ site."
-  },
-  {
-    "objectID": "watch.html#arsenal-and-chelsea",
-    "href": "watch.html#arsenal-and-chelsea",
-    "title": "How to Watch",
-    "section": "Arsenal and Chelsea",
-    "text": "Arsenal and Chelsea\nArsenal and Chelsea appear here for their WSL, UEFA Women’s Champions League, and English domestic cup fixtures. Most of these kick off in the late morning ET — use the GMT button on the schedule pages to see the local UK kickoff time.\nWSL and Champions League matches are listed on Paramount+, with some also on CBS Sports Network, ESPN+, or ESPN Deportes. The Stream column on each match row links to whichever service ESPN lists for that fixture.\nFA Cup and League Cup ties often show TBD — those rounds are frequently scheduled before a US broadcaster is announced, and the listing fills in once ESPN publishes one."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kickoff Times and Streaming Info",
-    "section": "",
-    "text": "Time zone:\n  ET\n  CT\n  MT\n  PT\n  GMT"
-  },
-  {
-    "objectID": "index.html#september",
-    "href": "index.html#september",
-    "title": "Kickoff Times and Streaming Info",
-    "section": "September",
-    "text": "September\n\nSaturday, September 5\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nAston Villa\n7:35 AM ET\nParamount+\n\n\nNWSL\n\nLouisville\nAngel City\n6:30/6:34 PM ET\nION\n\n\n\n\n\nSunday, September 6\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nBrighton\nArsenal\n7:00 AM ET\nCBS Sports Network, Paramount+\n\n\nNWSL\n\nDenver\nNJ/NY\n2:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nChicago\nNorth Carolina\n4:00 PM ET\nCBS Sports Network\n\n\nNWSL\n\nPortland\nWashington\n4:00 PM ET\nCBS, Paramount+\n\n\nNWSL\n\nOrlando\nHouston\n7:00 PM ET\nRoku\n\n\nNWSL\n\nSeattle\nSan Diego\n9:00 PM ET\nESPN2, ESPN Unlmtd\n\n\n\n\n\nFriday, September 11\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nLouisville\nNJ/NY\n6:30 PM ET\nNWSL+\n\n\nNWSL\n\nKansas City\nOrlando\n8:00/8:10 PM ET\nPrime Video\n\n\nNWSL\n\nAngel City\nDenver\n10:00/10:04 PM ET\nION\n\n\n\n\n\nSaturday, September 12\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nNWSL\n\nSan Diego\nNorth Carolina\n6:30/6:34 PM ET\nION\n\n\nNWSL\n\nSeattle\nBay\n8:00 PM ET\nNWSL+\n\n\nNWSL\n\nHouston\nUtah Royals\n8:45/8:49 PM ET\nION\n\n\n\n*Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late."
-  },
-  {
-    "objectID": "index.html#credits",
-    "href": "index.html#credits",
-    "title": "Kickoff Times and Streaming Info",
-    "section": "Credits",
-    "text": "Credits\nThis site is a fork. Arianna D. Cascone (ariannacascone4@gmail.com) created the original. Visit nationalwomenssoccerleague.com to show your support.\n Favicon purchased with a Noun project subscription."
   }
 ]
