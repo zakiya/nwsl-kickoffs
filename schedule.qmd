@@ -78,21 +78,6 @@ title: "Upcoming Schedule"
 ## September 2026
 
 ```{=html}
-<div class="day-section"><h3>Saturday, September 12</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="San Diego" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-09-12T22:30:00Z" data-approx="2026-09-12T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-09-13T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-09-13T00:45:00Z" data-approx="2026-09-13T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Sunday, September 13</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
