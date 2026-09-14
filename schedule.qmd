@@ -78,24 +78,6 @@ title: "Upcoming Schedule"
 ## September 2026
 
 ```{=html}
-<div class="day-section"><h3>Sunday, September 13</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Man United" data-away="Chelsea">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Man United</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-09-13T11:00:00Z"><strong>7:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Arsenal" data-away="Crystal Palace">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Crystal Palace</td><td class="time-cell" data-announced="2026-09-13T13:45:00Z"><strong>9:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-09-13T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, ESPN Unlmtd</td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-09-13T23:00:00Z"><strong>7:00 PM ET</strong></td><td>Roku</td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Wednesday, September 16</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
