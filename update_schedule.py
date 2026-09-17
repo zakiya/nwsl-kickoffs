@@ -119,9 +119,10 @@ ESPN_SOURCES: list[tuple[str, str, frozenset[str] | None]] = [
     ("League Cup",    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.w.league_cup/scoreboard", TRACKED_CLUBS),
 ]
 
-# ESPN answers a dated query spanning much more than a year with an HTTP 400,
-# so long windows are fetched in chunks and merged.
-MAX_RANGE_DAYS: int = 300
+# ESPN no longer accepts a "YYYYMMDD-YYYYMMDD" range in `dates` — any range
+# answers HTTP 400. Only a single day, a month ("YYYYMM") or a year ("YYYY")
+# work, so a window is fetched a month at a time and merged; callers filter the
+# results back down to the exact window they asked for.
 MD_LINK = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 
 TZ_TOGGLE_HTML = """\
@@ -150,8 +151,16 @@ def _involves(event: dict, teams: frozenset[str]) -> bool:
     return any(c["team"]["displayName"] in teams for c in competitors)
 
 
+# The week pass and the rolling-window pass overlap, so the same month is asked
+# for twice; each (feed, dates) pair is only fetched once per run.
+_EVENT_CACHE: dict[tuple[str, str], list[dict]] = {}
+
+
 def _get_events(url: str, params: dict, competition: str,
                 teams: frozenset[str] | None) -> list[dict]:
+    key = (url, str(params.get("dates", "")))
+    if key in _EVENT_CACHE:
+        return _EVENT_CACHE[key]
     resp = requests.get(url, params=params, timeout=10)
     resp.raise_for_status()
     events = resp.json().get("events", [])
@@ -159,18 +168,18 @@ def _get_events(url: str, params: dict, competition: str,
         events = [e for e in events if _involves(e, teams)]
     for e in events:
         e["_competition"] = competition
+    _EVENT_CACHE[key] = events
     return events
 
 
-def date_chunks(start: date, end: date) -> list[tuple[date, date]]:
-    """Split a window into pieces ESPN's dated query will accept."""
-    chunks: list[tuple[date, date]] = []
-    cursor = start
-    while cursor <= end:
-        stop = min(cursor + timedelta(days=MAX_RANGE_DAYS), end)
-        chunks.append((cursor, stop))
-        cursor = stop + timedelta(days=1)
-    return chunks
+def month_chunks(start: date, end: date) -> list[str]:
+    """The "YYYYMM" months a window touches — the unit ESPN's feed accepts."""
+    months: list[str] = []
+    year, month = start.year, start.month
+    while (year, month) <= (end.year, end.month):
+        months.append(f"{year}{month:02d}")
+        year, month = (year + 1, 1) if month == 12 else (year, month + 1)
+    return months
 
 
 def months_ahead(d: date, months: int) -> date:
@@ -184,12 +193,10 @@ def months_ahead(d: date, months: int) -> date:
 def fetch_games(start: date, end: date) -> list[dict]:
     events: list[dict] = []
     for competition, url, teams in ESPN_SOURCES:
-        for chunk_start, chunk_end in date_chunks(start, end):
-            dated = {
-                "dates": f"{chunk_start.strftime('%Y%m%d')}-{chunk_end.strftime('%Y%m%d')}",
-                "limit": 300,
-            }
-            events.extend(_get_events(url, dated, competition, teams))
+        for month in month_chunks(start, end):
+            events.extend(
+                _get_events(url, {"dates": month, "limit": 300}, competition, teams)
+            )
     # Fallback only when *every* feed's dated query came back empty
     # (e.g. off-season); avoids pulling out-of-window games when one
     # competition simply has no fixtures in the requested range.
