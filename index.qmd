@@ -34,7 +34,7 @@ title: "Kickoff Times and Streaming Info"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr>
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Austria Vienna</td><td class="time-cell" data-announced="2026-09-23T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Austria Vienna</td><td class="time-cell" data-announced="2026-09-23T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 ```
