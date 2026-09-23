@@ -15,18 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## September
 
-### Tuesday, September 22
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>HB Køge</td><td class="time-cell" data-announced="2026-09-22T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Wednesday, September 23
 
 ```{=html}
@@ -89,6 +77,21 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-09-27T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream>Roku</td>
+</tr>
+</tbody></table>
+```
+
+### Wednesday, September 30
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Paris FC</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-09-30T16:45:00Z"><strong>12:45 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>OL Lyonnes</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-09-30T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 ```
