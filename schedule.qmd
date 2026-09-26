@@ -76,21 +76,6 @@ title: "Upcoming Schedule"
 ## September 2026
 
 ```{=html}
-<div class="day-section"><h3>Friday, September 25</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Louisville" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-09-25T22:30:00Z"><strong>6:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-09-26T00:00:00Z" data-approx="2026-09-26T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-<tr class="game-row" data-home="Seattle" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-09-26T00:30:00Z"><strong>8:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Saturday, September 26</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
