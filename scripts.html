@@ -55,6 +55,14 @@ function filterTeam(team) {
 
   const anyVisible = [...document.querySelectorAll('.game-row')].some(r => r.style.display !== 'none');
   document.getElementById('no-results').style.display = anyVisible ? 'none' : 'block';
+
+  const url = new URL(window.location);
+  if (team === 'all') {
+    url.searchParams.delete('team');
+  } else {
+    url.searchParams.set('team', team);
+  }
+  history.replaceState(null, '', url);
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -63,6 +71,17 @@ document.addEventListener('DOMContentLoaded', () => {
   if (tzParam && TZ_MAP[tzParam]) {
     const btn = document.querySelector(`.tz-btn[data-tz="${tzParam}"]`);
     if (btn) setTZ(tzParam, btn);
+  }
+
+  // ?team= (used by the San Diego navbar link) preselects the team filter
+  const teamParam = params.get('team');
+  const select = document.getElementById('team-select');
+  if (teamParam && select) {
+    const match = [...select.options].find(o => o.value === teamParam);
+    if (match) {
+      select.value = teamParam;
+      filterTeam(teamParam);
+    }
   }
 });
 </script>

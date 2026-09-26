@@ -13,6 +13,8 @@ website:
     left:
       - text: "This Week"
         href: index.qmd
+      - text: "San Diego"
+        href: "schedule.html?team=San+Diego&timezone=PT"
       - text: "Full Schedule"
         href: schedule.qmd
       - text: "How to Watch"
