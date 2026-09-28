@@ -76,21 +76,6 @@ title: "Upcoming Schedule"
 ## September 2026
 
 ```{=html}
-<div class="day-section"><h3>Sunday, September 27</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Chelsea" data-away="Arsenal">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-09-27T15:30:00Z"><strong>11:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Bay" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-09-27T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-09-27T23:00:00Z"><strong>7:00 PM ET</strong></td><td>Roku</td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Wednesday, September 30</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
