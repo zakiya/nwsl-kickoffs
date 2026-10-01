@@ -7,7 +7,6 @@ title: "Upcoming Schedule"
 ```{=html}
 <div class="d-flex flex-wrap gap-1 align-items-center mb-3 d-md-none">
   <span class="text-muted small fw-semibold me-1">Jump to:</span>
-  <a href="#september-2026" class="btn btn-sm btn-outline-secondary">September 2026</a>
   <a href="#october-2026" class="btn btn-sm btn-outline-secondary">October 2026</a>
   <a href="#november-2026" class="btn btn-sm btn-outline-secondary">November 2026</a>
   <a href="#december-2026" class="btn btn-sm btn-outline-secondary">December 2026</a>
@@ -59,7 +58,6 @@ title: "Upcoming Schedule"
     <option value="OL Lyonnes">OL Lyonnes</option>
     <option value="Orlando">Orlando</option>
     <option value="PSG">PSG</option>
-    <option value="Paris FC">Paris FC</option>
     <option value="Portland">Portland</option>
     <option value="Roma">Roma</option>
     <option value="San Diego">San Diego</option>
@@ -71,23 +69,6 @@ title: "Upcoming Schedule"
   </select>
 </div>
 <p id="no-results" style="display:none" class="text-muted">No games found for this team.</p>
-```
-
-## September 2026
-
-```{=html}
-<div class="day-section"><h3>Wednesday, September 30</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Paris FC" data-away="Arsenal">
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Paris FC</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-09-30T16:45:00Z"><strong>12:45 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="OL Lyonnes" data-away="Chelsea">
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>OL Lyonnes</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-09-30T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-</tbody></table>
-</div>
 ```
 
 ## October 2026
