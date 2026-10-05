@@ -74,27 +74,6 @@ title: "Upcoming Schedule"
 ## October 2026
 
 ```{=html}
-<div class="day-section"><h3>Sunday, October 4</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="West Ham" data-away="Chelsea">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>West Ham</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-10-04T13:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Man City" data-away="Arsenal">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Man City</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-10-04T15:30:00Z"><strong>11:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-10-04T17:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-<tr class="game-row" data-home="Chicago" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-10-04T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Houston" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-10-04T23:00:00Z"><strong>7:00 PM ET</strong></td><td>Roku</td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Friday, October 16</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
