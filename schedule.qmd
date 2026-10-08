@@ -227,11 +227,17 @@ title: "Upcoming Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="Liverpool" data-away="Arsenal">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-07T12:00:00Z"><strong>7:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
 <tr class="game-row" data-home="Chelsea" data-away="Everton">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Everton</td><td class="time-cell" data-announced="2026-11-07T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Everton</td><td class="time-cell" data-announced="2026-11-07T12:45:00Z"><strong>7:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, November 8</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Liverpool" data-away="Arsenal">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-08T12:00:00Z"><strong>7:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
@@ -258,10 +264,16 @@ title: "Upcoming Schedule"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="Chelsea" data-away="Man City">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Man City</td><td class="time-cell" data-announced="2026-11-14T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Man City</td><td class="time-cell" data-announced="2026-11-14T13:30:00Z"><strong>8:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, November 15</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
 <tr class="game-row" data-home="Arsenal" data-away="London City">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>London City</td><td class="time-cell" data-announced="2026-11-14T17:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>London City</td><td class="time-cell" data-announced="2026-11-15T16:30:00Z"><strong>11:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
@@ -283,15 +295,21 @@ title: "Upcoming Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Saturday, November 21</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Liverpool" data-away="Chelsea">
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-21T12:45:00Z"><strong>7:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Sunday, November 22</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="Arsenal" data-away="West Ham">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>West Ham</td><td class="time-cell" data-announced="2026-11-22T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Liverpool" data-away="Chelsea">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-22T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>West Ham</td><td class="time-cell" data-announced="2026-11-22T14:30:00Z"><strong>9:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
