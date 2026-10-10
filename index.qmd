@@ -15,57 +15,15 @@ title: "Kickoff Times and Streaming Info"
 
 ## October
 
-### Friday, October 9
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Andorra</td><td class=away>Faroe Islands</td><td class="time-cell" data-announced="2026-10-09T10:30:00Z"><strong>6:30 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Montenegro</td><td class=away>Bosnia-Herzegovina</td><td class="time-cell" data-announced="2026-10-09T11:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Moldova</td><td class=away>Georgia</td><td class="time-cell" data-announced="2026-10-09T14:00:00Z"><strong>10:00 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malaysia</td><td class=away>Saudi Arabia</td><td class="time-cell" data-announced="2026-10-09T16:00:00Z"><strong>12:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malta</td><td class=away>Luxembourg</td><td class="time-cell" data-announced="2026-10-09T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Haiti</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-10-09T18:00:00Z"><strong>2:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Australia</td><td class="time-cell" data-announced="2026-10-09T18:30:00Z"><strong>2:30 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Uzbekistan</td><td class="time-cell" data-announced="2026-10-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-10-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Denmark</td><td class="time-cell" data-announced="2026-10-09T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>Jamaica</td><td class="time-cell" data-announced="2026-10-10T01:00:00Z"><strong>9:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>El Salvador</td><td class=away>Paraguay</td><td class="time-cell" data-announced="2026-10-10T01:30:00Z"><strong>9:30 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-</tbody></table>
-```
-
 ### Saturday, October 10
 
 ```{=html}
 <table class="table">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>PALESTINE</td><td class="time-cell" data-announced="2026-10-10T11:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Liechtenstein</td><td class=away>Gibraltar</td><td class="time-cell" data-announced="2026-10-10T14:00:00Z"><strong>10:00 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
@@ -136,7 +94,13 @@ title: "Kickoff Times and Streaming Info"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>PALESTINE</td><td class="time-cell" data-announced="2026-10-13T11:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-10-13T15:45:00Z"><strong>11:45 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malaysia</td><td class=away>Saudi Arabia</td><td class="time-cell" data-announced="2026-10-13T16:00:00Z"><strong>12:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-10-13T16:00:00Z"><strong>12:00 PM ET</strong></td><td class=stream>TBD</td>
@@ -146,9 +110,6 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Jordan</td><td class=away>Indonesia</td><td class="time-cell" data-announced="2026-10-13T18:00:00Z"><strong>2:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malaysia</td><td class=away>Saudi Arabia</td><td class="time-cell" data-announced="2026-10-13T18:00:00Z"><strong>2:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Haiti</td><td class=away>Australia</td><td class="time-cell" data-announced="2026-10-13T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
@@ -182,6 +143,30 @@ title: "Kickoff Times and Streaming Info"
 <tbody>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Boston</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-10-17T00:00:00Z" data-approx="2026-10-17T00:10:00Z">8:00/<strong>8:10 PM ET</strong></td><td class=stream><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
+</tr>
+</tbody></table>
+```
+
+### Saturday, October 17
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Birmingham</td><td class="time-cell" data-announced="2026-10-17T11:45:00Z"><strong>7:45 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-10-17T16:30:00Z"><strong>12:30 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-10-17T22:30:00Z" data-approx="2026-10-17T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-10-17T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-10-18T00:45:00Z" data-approx="2026-10-18T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td class=stream><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
 </tr>
 </tbody></table>
 ```
