@@ -4,7 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A Quarto static website showing match kickoff times and streaming info for the NWSL, the Women's Africa Cup of Nations (WAFCON), and Arsenal's and Chelsea's women's fixtures (WSL, UEFA Women's Champions League, English FA Cup and League Cup), published to GitHub Pages. Content for the two main pages is **generated**, not hand-written: `update_schedule.py` fetches data from the ESPN scoreboard API and rewrites `index.qmd` and `schedule.qmd`.
+A Quarto static website showing match kickoff times and streaming info for the NWSL, the Women's Africa Cup of Nations (WAFCON), women's international football (friendlies, World Cup, Olympics, continental championships), and Arsenal's and Chelsea's women's fixtures (WSL, UEFA Women's Champions League, English FA Cup and League Cup), published to GitHub Pages. Content for the two main pages is **generated**, not hand-written: `update_schedule.py` fetches data from the ESPN scoreboard API and rewrites `index.qmd` and `schedule.qmd`.
+
+## Before making changes
+
+Run `git pull` before editing anything locally. CI commits regenerated `index.qmd`/`schedule.qmd` (and `_site/`) to `main` every day, so a local checkout falls behind quickly. Making changes on a stale checkout means stashing or discarding work to catch up.
 
 ## Commands
 
@@ -21,7 +25,7 @@ There are no tests or linters configured.
 
 ## Architecture
 
-**Data flow:** ESPN scoreboard API → `update_schedule.py` parses events → rewrites `.qmd` files → `quarto render` produces `_site/` → GitHub Pages. Fixtures come from several ESPN feeds defined in `ESPN_SOURCES`, each entry a `(competition label, feed URL, team filter)` triple. A filter of `None` takes every fixture in the feed (NWSL `usa.nwsl`, WAFCON `caf.w.nations`); a set of team names keeps only fixtures involving one of those teams, which is how the English/European feeds (`eng.w.1`, `uefa.wchampions`, `eng.w.fa`, `eng.w.league_cup`) are narrowed to `TRACKED_CLUBS` — Arsenal and Chelsea — rather than pulling in whole leagues. Filtering happens in `_get_events`, before anything downstream sees the event. Feeds are merged and de-duplicated by event id.
+**Data flow:** ESPN scoreboard API → `update_schedule.py` parses events → rewrites `.qmd` files → `quarto render` produces `_site/` → GitHub Pages. Fixtures come from several ESPN feeds defined in `ESPN_SOURCES`, each entry a `(competition label, feed URL, team filter)` triple. A filter of `None` takes every fixture in the feed (NWSL `usa.nwsl`, WAFCON `caf.w.nations`, and all the international feeds — `fifa.friendly.w`, `fifa.wwc`, `concacaf.womens.championship`, `uefa.weuro`, etc. — which cover every nation); a set of team names keeps only fixtures involving one of those teams, which is how the English/European feeds (`eng.w.1`, `uefa.wchampions`, `eng.w.fa`, `eng.w.league_cup`) are narrowed to `TRACKED_CLUBS` — Arsenal and Chelsea — rather than pulling in whole leagues. Filtering happens in `_get_events`, before anything downstream sees the event. Feeds are merged and de-duplicated by event id.
 
 **Both pages look forward only.** `index.qmd` covers the next `DAYS_AHEAD` days and `schedule.qmd` a rolling `MONTHS_AHEAD` window from today; there are no season-start/end constants and finished games are never rendered. ESPN answers a dated query spanning much more than a year with an HTTP 400, so `fetch_games` splits the window into `MAX_RANGE_DAYS` chunks (`date_chunks`) and merges the results — don't collapse that back into a single request.
 

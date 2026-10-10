@@ -28,44 +28,92 @@ title: "Upcoming Schedule"
   <label for="team-select" class="fw-semibold text-nowrap mb-0">Filter by team:</label>
   <select id="team-select" class="form-select" style="max-width: 220px;" onchange="filterTeam(this.value)">
     <option value="all">All Teams</option>
+    <option value="Andorra">Andorra</option>
     <option value="Angel City">Angel City</option>
+    <option value="Argentina">Argentina</option>
+    <option value="Armenia">Armenia</option>
     <option value="Arsenal">Arsenal</option>
     <option value="Aston Villa">Aston Villa</option>
+    <option value="Australia">Australia</option>
     <option value="BK Häcken">BK Häcken</option>
     <option value="Barcelona">Barcelona</option>
     <option value="Bay">Bay</option>
     <option value="Benfica">Benfica</option>
     <option value="Birmingham">Birmingham</option>
+    <option value="Bolivia">Bolivia</option>
+    <option value="Bosnia-Herzegovina">Bosnia-Herzegovina</option>
     <option value="Boston">Boston</option>
+    <option value="Brazil">Brazil</option>
     <option value="Brighton">Brighton</option>
+    <option value="Canada">Canada</option>
     <option value="Charlton">Charlton</option>
     <option value="Chelsea">Chelsea</option>
     <option value="Chicago">Chicago</option>
+    <option value="Chile">Chile</option>
+    <option value="Colombia">Colombia</option>
+    <option value="Costa Rica">Costa Rica</option>
     <option value="Crystal Palace">Crystal Palace</option>
+    <option value="Denmark">Denmark</option>
     <option value="Denver">Denver</option>
+    <option value="El Salvador">El Salvador</option>
     <option value="Everton">Everton</option>
+    <option value="Faroe Islands">Faroe Islands</option>
+    <option value="France">France</option>
+    <option value="Georgia">Georgia</option>
+    <option value="Germany">Germany</option>
+    <option value="Gibraltar">Gibraltar</option>
+    <option value="Haiti">Haiti</option>
     <option value="Houston">Houston</option>
+    <option value="India">India</option>
+    <option value="Indonesia">Indonesia</option>
     <option value="Inter">Inter</option>
+    <option value="Jamaica">Jamaica</option>
+    <option value="Japan">Japan</option>
+    <option value="Jordan">Jordan</option>
     <option value="Kansas City">Kansas City</option>
+    <option value="Latvia">Latvia</option>
+    <option value="Liechtenstein">Liechtenstein</option>
     <option value="Liverpool">Liverpool</option>
     <option value="London City">London City</option>
     <option value="Louisville">Louisville</option>
+    <option value="Luxembourg">Luxembourg</option>
+    <option value="Malaysia">Malaysia</option>
+    <option value="Malta">Malta</option>
     <option value="Man City">Man City</option>
     <option value="Man United">Man United</option>
+    <option value="Mexico">Mexico</option>
+    <option value="Moldova">Moldova</option>
+    <option value="Montenegro">Montenegro</option>
+    <option value="Morocco">Morocco</option>
     <option value="NJ/NY">NJ/NY</option>
+    <option value="New Zealand">New Zealand</option>
     <option value="North Carolina">North Carolina</option>
     <option value="OH Leuven">OH Leuven</option>
     <option value="OL Lyonnes">OL Lyonnes</option>
     <option value="Orlando">Orlando</option>
     <option value="PSG">PSG</option>
+    <option value="Panama">Panama</option>
+    <option value="Paraguay">Paraguay</option>
+    <option value="Peru">Peru</option>
+    <option value="Philippines">Philippines</option>
     <option value="Portland">Portland</option>
     <option value="Roma">Roma</option>
+    <option value="Russia">Russia</option>
     <option value="San Diego">San Diego</option>
+    <option value="San Marino">San Marino</option>
+    <option value="Saudi Arabia">Saudi Arabia</option>
     <option value="Seattle">Seattle</option>
+    <option value="Spain">Spain</option>
+    <option value="TBD Away">TBD Away</option>
+    <option value="TBD Home">TBD Home</option>
     <option value="Tottenham">Tottenham</option>
+    <option value="United States">United States</option>
     <option value="Utah Royals">Utah Royals</option>
+    <option value="Uzbekistan">Uzbekistan</option>
+    <option value="Venezuela">Venezuela</option>
     <option value="Washington">Washington</option>
     <option value="West Ham">West Ham</option>
+    <option value="Zambia">Zambia</option>
   </select>
 </div>
 <p id="no-results" style="display:none" class="text-muted">No games found for this team.</p>
@@ -74,6 +122,150 @@ title: "Upcoming Schedule"
 ## October 2026
 
 ```{=html}
+<div class="day-section"><h3>Friday, October 9</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Andorra" data-away="Faroe Islands">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Andorra</td><td class=away>Faroe Islands</td><td class="time-cell" data-announced="2026-10-09T10:30:00Z"><strong>6:30 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Montenegro" data-away="Bosnia-Herzegovina">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Montenegro</td><td class=away>Bosnia-Herzegovina</td><td class="time-cell" data-announced="2026-10-09T11:00:00Z"><strong>7:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Moldova" data-away="Georgia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Moldova</td><td class=away>Georgia</td><td class="time-cell" data-announced="2026-10-09T14:00:00Z"><strong>10:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Malaysia" data-away="Saudi Arabia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malaysia</td><td class=away>Saudi Arabia</td><td class="time-cell" data-announced="2026-10-09T16:00:00Z"><strong>12:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Malta" data-away="Luxembourg">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malta</td><td class=away>Luxembourg</td><td class="time-cell" data-announced="2026-10-09T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Haiti" data-away="Japan">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Haiti</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-10-09T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Germany" data-away="Australia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Australia</td><td class="time-cell" data-announced="2026-10-09T18:30:00Z"><strong>2:30 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Morocco" data-away="Uzbekistan">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Uzbekistan</td><td class="time-cell" data-announced="2026-10-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Peru" data-away="Philippines">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-10-09T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Canada" data-away="Denmark">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Denmark</td><td class="time-cell" data-announced="2026-10-09T23:00:00Z"><strong>7:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Mexico" data-away="Jamaica">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>Jamaica</td><td class="time-cell" data-announced="2026-10-10T01:00:00Z"><strong>9:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="El Salvador" data-away="Paraguay">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>El Salvador</td><td class=away>Paraguay</td><td class="time-cell" data-announced="2026-10-10T01:30:00Z"><strong>9:30 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, October 10</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Liechtenstein" data-away="Gibraltar">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Liechtenstein</td><td class=away>Gibraltar</td><td class="time-cell" data-announced="2026-10-10T14:00:00Z"><strong>10:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Indonesia" data-away="Armenia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Indonesia</td><td class=away>Armenia</td><td class="time-cell" data-announced="2026-10-10T15:00:00Z"><strong>11:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="United States" data-away="Spain">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-10-10T18:30:00Z"><strong>2:30 PM ET</strong></td><td>TBS, Tele, Universo, HBO Max, Peacock</td>
+</tr>
+<tr class="game-row" data-home="France" data-away="Latvia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>France</td><td class=away>Latvia</td><td class="time-cell" data-announced="2026-10-10T19:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Brazil" data-away="Argentina">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Brazil</td><td class=away>Argentina</td><td class="time-cell" data-announced="2026-10-10T19:30:00Z"><strong>3:30 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Panama" data-away="New Zealand">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Panama</td><td class=away>New Zealand</td><td class="time-cell" data-announced="2026-10-10T21:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Venezuela" data-away="Colombia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Venezuela</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-10-10T21:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Sunday, October 11</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="India" data-away="Russia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>India</td><td class=away>Russia</td><td class="time-cell" data-announced="2026-10-11T12:30:00Z"><strong>8:30 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Chile" data-away="Bolivia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Chile</td><td class=away>Bolivia</td><td class="time-cell" data-announced="2026-10-11T21:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Monday, October 12</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Moldova" data-away="Georgia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Moldova</td><td class=away>Georgia</td><td class="time-cell" data-announced="2026-10-12T14:00:00Z"><strong>10:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Andorra" data-away="Faroe Islands">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Andorra</td><td class=away>Faroe Islands</td><td class="time-cell" data-announced="2026-10-12T15:00:00Z"><strong>11:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Morocco" data-away="Uzbekistan">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Uzbekistan</td><td class="time-cell" data-announced="2026-10-12T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Canada" data-away="Denmark">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Denmark</td><td class="time-cell" data-announced="2026-10-12T19:30:00Z"><strong>3:30 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="El Salvador" data-away="Paraguay">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>El Salvador</td><td class=away>Paraguay</td><td class="time-cell" data-announced="2026-10-13T02:00:00Z"><strong>10:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Tuesday, October 13</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Germany" data-away="Japan">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-10-13T15:45:00Z"><strong>11:45 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Peru" data-away="Philippines">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-10-13T16:00:00Z"><strong>12:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Luxembourg" data-away="Montenegro">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Luxembourg</td><td class=away>Montenegro</td><td class="time-cell" data-announced="2026-10-13T17:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Jordan" data-away="Indonesia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Jordan</td><td class=away>Indonesia</td><td class="time-cell" data-announced="2026-10-13T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Malaysia" data-away="Saudi Arabia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malaysia</td><td class=away>Saudi Arabia</td><td class="time-cell" data-announced="2026-10-13T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Haiti" data-away="Australia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Haiti</td><td class=away>Australia</td><td class="time-cell" data-announced="2026-10-13T19:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Chile" data-away="Bolivia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Chile</td><td class=away>Bolivia</td><td class="time-cell" data-announced="2026-10-13T20:00:00Z"><strong>4:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Venezuela" data-away="Colombia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Venezuela</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-10-13T21:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="United States" data-away="Spain">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-10-13T23:00:00Z"><strong>7:00 PM ET</strong></td><td>TNT, Universo, HBO Max, Peacock</td>
+</tr>
+<tr class="game-row" data-home="Brazil" data-away="Argentina">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Brazil</td><td class=away>Argentina</td><td class="time-cell" data-announced="2026-10-13T23:30:00Z"><strong>7:30 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Panama" data-away="New Zealand">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Panama</td><td class=away>New Zealand</td><td class="time-cell" data-announced="2026-10-14T00:30:00Z"><strong>8:30 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Mexico" data-away="Jamaica">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>Jamaica</td><td class="time-cell" data-announced="2026-10-14T01:00:00Z"><strong>9:00 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Friday, October 16</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
@@ -313,11 +505,92 @@ title: "Upcoming Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Friday, November 27</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Jamaica" data-away="Costa Rica">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>Jamaica</td><td class=away>Costa Rica</td><td class="time-cell" data-announced="2026-11-27T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="United States" data-away="El Salvador">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>United States</td><td class=away>El Salvador</td><td class="time-cell" data-announced="2026-11-28T01:30:00Z"><strong>8:30 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, November 28</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Australia" data-away="Colombia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Australia</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-11-28T08:35:00Z"><strong>3:35 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Canada" data-away="Panama">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Panama</td><td class="time-cell" data-announced="2026-11-28T18:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="San Marino" data-away="Liechtenstein">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>San Marino</td><td class=away>Liechtenstein</td><td class="time-cell" data-announced="2026-11-28T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Mexico" data-away="Haiti">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>Haiti</td><td class="time-cell" data-announced="2026-11-28T21:30:00Z"><strong>4:30 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Japan" data-away="Brazil">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Japan</td><td class=away>Brazil</td><td class="time-cell" data-announced="2026-11-29T04:55:00Z"><strong>11:55 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
 ```
 
 ## December 2026
 
 ```{=html}
+<div class="day-section"><h3>Tuesday, December 1</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="TBD Home" data-away="TBD Away">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="TBD Home" data-away="TBD Away">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T01:30:00Z"><strong>8:30 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Wednesday, December 2</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Australia" data-away="Colombia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Australia</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-12-02T08:35:00Z"><strong>3:35 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="TBD Home" data-away="TBD Away">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T18:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="TBD Home" data-away="TBD Away">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T21:30:00Z"><strong>4:30 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, December 5</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="Japan" data-away="Brazil">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Japan</td><td class=away>Brazil</td><td class="time-cell" data-announced="2026-12-05T06:00:00Z"><strong>1:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Denmark" data-away="Zambia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Denmark</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-12-05T13:00:00Z"><strong>8:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="San Marino" data-away="Gibraltar">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>San Marino</td><td class=away>Gibraltar</td><td class="time-cell" data-announced="2026-12-05T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="TBD Home" data-away="TBD Away">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-05T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="TBD Home" data-away="TBD Away">
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-05T23:30:00Z"><strong>6:30 PM ET</strong></td><td>TBD</td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Saturday, December 12</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>

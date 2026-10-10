@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Schedule updater for the NWSL, WAFCON, and the Arsenal/Chelsea women's fixtures
-in the WSL, UWCL, and the English domestic cups.
+Schedule updater for the NWSL, WAFCON, the Arsenal/Chelsea women's fixtures
+in the WSL, UWCL, and the English domestic cups, and women's international
+football (friendlies, World Cup, Olympics, and continental championships).
 - index.qmd: current week's games (next DAYS_AHEAD days), markdown tables
 - schedule.qmd: rolling MONTHS_AHEAD window, HTML tables with team filter
 Both look forward from today only — finished games are never included.
@@ -53,6 +54,18 @@ COMPETITIONS: dict[str, dict[str, str]] = {
     "UWCL":          {"label": "UWCL",          "class": "bg-orange"},
     "FA Cup":        {"label": "FA Cup",        "class": "bg-red"},
     "League Cup":    {"label": "League Cup",    "class": "bg-teal"},
+    # International (national team) competitions
+    "Friendly":      {"label": "Friendly",      "class": "bg-success"},
+    "World Cup":     {"label": "World Cup",     "class": "bg-warning"},
+    "WC Playoff":    {"label": "WC Playoff",    "class": "bg-warning"},
+    "Olympics":      {"label": "Olympics",      "class": "bg-info"},
+    "W Champs":      {"label": "W Champs",      "class": "bg-danger"},
+    "W Gold Cup":    {"label": "W Gold Cup",    "class": "bg-danger"},
+    "Euro":          {"label": "Euro",          "class": "bg-primary"},
+    "UWNL":          {"label": "UWNL",          "class": "bg-primary"},
+    "Copa América":  {"label": "Copa América",  "class": "bg-dark"},
+    "Asian Cup":     {"label": "Asian Cup",     "class": "bg-dark"},
+    "Finalissima":   {"label": "Finalissima",   "class": "bg-dark"},
 }
 
 NETWORK_BUFFERS: dict[str, int] = {
@@ -117,6 +130,18 @@ ESPN_SOURCES: list[tuple[str, str, frozenset[str] | None]] = [
     ("UWCL",          "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions/scoreboard",  TRACKED_CLUBS),
     ("FA Cup",        "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.w.fa/scoreboard",         TRACKED_CLUBS),
     ("League Cup",    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.w.league_cup/scoreboard", TRACKED_CLUBS),
+    # International women's football — every nation, no team filter.
+    ("Friendly",      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly.w/scoreboard",              None),
+    ("World Cup",     "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.wwc/scoreboard",                     None),
+    ("WC Playoff",    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.wwcq.ply/scoreboard",                None),
+    ("Olympics",      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.w.olympics/scoreboard",              None),
+    ("W Champs",      "https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.womens.championship/scoreboard", None),
+    ("W Gold Cup",    "https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.w.gold/scoreboard",              None),
+    ("Euro",          "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.weuro/scoreboard",                   None),
+    ("UWNL",          "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.w.nations/scoreboard",               None),
+    ("Copa América",  "https://site.api.espn.com/apis/site/v2/sports/soccer/conmebol.america.femenina/scoreboard",    None),
+    ("Asian Cup",     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.w.asian.cup/scoreboard",              None),
+    ("Finalissima",   "https://site.api.espn.com/apis/site/v2/sports/soccer/global.w.finalissima/scoreboard",         None),
 ]
 
 # ESPN no longer accepts a "YYYYMMDD-YYYYMMDD" range in `dates` — any range
@@ -225,8 +250,8 @@ def parse_game(event: dict) -> dict | None:
                 networks.append(name)
                 seen.add(name)
         return {
-            "home":        home["team"]["displayName"],
-            "away":        away["team"]["displayName"],
+            "home":        home["team"]["displayName"].strip(),
+            "away":        away["team"]["displayName"].strip(),
             "et_dt":       et_dt,
             "networks":    networks,
             "competition": event.get("_competition", ""),
