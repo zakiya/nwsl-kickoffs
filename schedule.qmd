@@ -31,7 +31,6 @@ title: "Upcoming Schedule"
     <option value="Andorra">Andorra</option>
     <option value="Angel City">Angel City</option>
     <option value="Argentina">Argentina</option>
-    <option value="Armenia">Armenia</option>
     <option value="Arsenal">Arsenal</option>
     <option value="Aston Villa">Aston Villa</option>
     <option value="Australia">Australia</option>
@@ -57,7 +56,6 @@ title: "Upcoming Schedule"
     <option value="El Salvador">El Salvador</option>
     <option value="Everton">Everton</option>
     <option value="Faroe Islands">Faroe Islands</option>
-    <option value="France">France</option>
     <option value="Georgia">Georgia</option>
     <option value="Germany">Germany</option>
     <option value="Gibraltar">Gibraltar</option>
@@ -70,7 +68,7 @@ title: "Upcoming Schedule"
     <option value="Japan">Japan</option>
     <option value="Jordan">Jordan</option>
     <option value="Kansas City">Kansas City</option>
-    <option value="Latvia">Latvia</option>
+    <option value="Lebanon">Lebanon</option>
     <option value="Liechtenstein">Liechtenstein</option>
     <option value="Liverpool">Liverpool</option>
     <option value="London City">London City</option>
@@ -89,8 +87,8 @@ title: "Upcoming Schedule"
     <option value="OH Leuven">OH Leuven</option>
     <option value="OL Lyonnes">OL Lyonnes</option>
     <option value="Orlando">Orlando</option>
-    <option value="PALESTINE">PALESTINE</option>
     <option value="PSG">PSG</option>
+    <option value="Palestine">Palestine</option>
     <option value="Panama">Panama</option>
     <option value="Paraguay">Paraguay</option>
     <option value="Peru">Peru</option>
@@ -121,36 +119,6 @@ title: "Upcoming Schedule"
 ## October 2026
 
 ```{=html}
-<div class="day-section"><h3>Saturday, October 10</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="TBD Home" data-away="PALESTINE">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>PALESTINE</td><td class="time-cell" data-announced="2026-10-10T11:00:00Z"><strong>7:00 AM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Liechtenstein" data-away="Gibraltar">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Liechtenstein</td><td class=away>Gibraltar</td><td class="time-cell" data-announced="2026-10-10T14:00:00Z"><strong>10:00 AM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Indonesia" data-away="Armenia">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Indonesia</td><td class=away>Armenia</td><td class="time-cell" data-announced="2026-10-10T15:00:00Z"><strong>11:00 AM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="United States" data-away="Spain">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-10-10T18:30:00Z"><strong>2:30 PM ET</strong></td><td>TBS, Tele, Universo, HBO Max, Peacock</td>
-</tr>
-<tr class="game-row" data-home="France" data-away="Latvia">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>France</td><td class=away>Latvia</td><td class="time-cell" data-announced="2026-10-10T19:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Brazil" data-away="Argentina">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Brazil</td><td class=away>Argentina</td><td class="time-cell" data-announced="2026-10-10T19:30:00Z"><strong>3:30 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Panama" data-away="New Zealand">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Panama</td><td class=away>New Zealand</td><td class="time-cell" data-announced="2026-10-10T21:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Venezuela" data-away="Colombia">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Venezuela</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-10-10T21:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Sunday, October 11</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
@@ -188,8 +156,8 @@ title: "Upcoming Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="TBD Home" data-away="PALESTINE">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>PALESTINE</td><td class="time-cell" data-announced="2026-10-13T11:00:00Z"><strong>7:00 AM ET</strong></td><td>TBD</td>
+<tr class="game-row" data-home="Lebanon" data-away="Palestine">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Lebanon</td><td class=away>Palestine</td><td class="time-cell" data-announced="2026-10-13T11:00:00Z"><strong>7:00 AM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Germany" data-away="Japan">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-10-13T15:45:00Z"><strong>11:45 AM ET</strong></td><td>TBD</td>
