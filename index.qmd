@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## October
 
-### Sunday, October 11
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>India</td><td class=away>Russia</td><td class="time-cell" data-announced="2026-10-11T12:30:00Z"><strong>8:30 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Chile</td><td class=away>Bolivia</td><td class="time-cell" data-announced="2026-10-11T21:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-</tbody></table>
-```
-
 ### Monday, October 12
 
 ```{=html}
@@ -64,6 +49,9 @@ title: "Kickoff Times and Streaming Info"
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Lebanon</td><td class=away>Palestine</td><td class="time-cell" data-announced="2026-10-13T11:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Jordan</td><td class=away>Indonesia</td><td class="time-cell" data-announced="2026-10-13T13:00:00Z"><strong>9:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-10-13T15:45:00Z"><strong>11:45 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
@@ -74,9 +62,6 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Luxembourg</td><td class=away>Montenegro</td><td class="time-cell" data-announced="2026-10-13T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Jordan</td><td class=away>Indonesia</td><td class="time-cell" data-announced="2026-10-13T18:00:00Z"><strong>2:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Haiti</td><td class=away>Australia</td><td class="time-cell" data-announced="2026-10-13T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
