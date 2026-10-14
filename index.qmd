@@ -15,54 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## October
 
-### Tuesday, October 13
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Lebanon</td><td class=away>Palestine</td><td class="time-cell" data-announced="2026-10-13T11:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Jordan</td><td class=away>Indonesia</td><td class="time-cell" data-announced="2026-10-13T15:00:00Z"><strong>11:00 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Japan</td><td class="time-cell" data-announced="2026-10-13T15:45:00Z"><strong>11:45 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-10-13T16:00:00Z"><strong>12:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Saudi Arabia</td><td class=away>Malaysia</td><td class="time-cell" data-announced="2026-10-13T16:00:00Z"><strong>12:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Luxembourg</td><td class=away>Montenegro</td><td class="time-cell" data-announced="2026-10-13T17:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Haiti</td><td class=away>Australia</td><td class="time-cell" data-announced="2026-10-13T19:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Chile</td><td class=away>Bolivia</td><td class="time-cell" data-announced="2026-10-13T20:00:00Z"><strong>4:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Venezuela</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-10-13T21:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Spain</td><td class="time-cell" data-announced="2026-10-13T23:00:00Z"><strong>7:00 PM ET</strong></td><td class=stream>TNT, Universo, HBO Max, Peacock</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Brazil</td><td class=away>Argentina</td><td class="time-cell" data-announced="2026-10-13T23:30:00Z"><strong>7:30 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Panama</td><td class=away>New Zealand</td><td class="time-cell" data-announced="2026-10-14T00:30:00Z"><strong>8:30 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>Jamaica</td><td class="time-cell" data-announced="2026-10-14T01:00:00Z"><strong>9:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-</tbody></table>
-```
-
 ### Friday, October 16
 
 ```{=html}
