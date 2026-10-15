@@ -269,12 +269,12 @@ title: "Upcoming Schedule"
 </tr>
 </tbody></table>
 </div>
-<div class="day-section"><h3>Wednesday, November 11</h3>
+<div class="day-section"><h3>Thursday, November 12</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="Barcelona" data-away="Arsenal">
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Barcelona</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-11T17:45:00Z"><strong>12:45 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Barcelona</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-12T17:45:00Z"><strong>12:45 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
