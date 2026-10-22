@@ -409,14 +409,8 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Everton" data-away="Arsenal">
   <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Everton</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-12-12T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, December 13</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
 <tr class="game-row" data-home="Chelsea" data-away="London City">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>London City</td><td class="time-cell" data-announced="2026-12-13T14:00:00Z"><strong>9:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>London City</td><td class="time-cell" data-announced="2026-12-12T12:45:00Z"><strong>7:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
