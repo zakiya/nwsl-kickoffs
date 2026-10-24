@@ -66,6 +66,8 @@ title: "Upcoming Schedule"
     <option value="Man City">Man City</option>
     <option value="Man United">Man United</option>
     <option value="Mexico">Mexico</option>
+    <option value="Moldova">Moldova</option>
+    <option value="Montenegro">Montenegro</option>
     <option value="Morocco">Morocco</option>
     <option value="NJ/NY">NJ/NY</option>
     <option value="New Zealand">New Zealand</option>
@@ -98,21 +100,6 @@ title: "Upcoming Schedule"
 ## October 2026
 
 ```{=html}
-<div class="day-section"><h3>Friday, October 23</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Chicago" data-away="Houston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Chicago</td><td class=away>Houston</td><td class="time-cell" data-announced="2026-10-24T00:00:00Z"><strong>8:00 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Utah Royals" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Utah Royals</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-10-24T01:30:00Z"><strong>9:30 PM ET</strong></td><td><a href="https://www.nwslsoccer.com/plus" target="_blank" rel="noopener">NWSL+</a></td>
-</tr>
-<tr class="game-row" data-home="Portland" data-away="North Carolina">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Portland</td><td class=away>North Carolina</td><td class="time-cell" data-announced="2026-10-24T02:00:00Z" data-approx="2026-10-24T02:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Saturday, October 24</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
@@ -364,6 +351,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="TBD Home" data-away="TBD Away">
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T18:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Montenegro" data-away="Moldova">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Montenegro</td><td class=away>Moldova</td><td class="time-cell" data-announced="2026-12-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="TBD Home" data-away="TBD Away">
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T21:30:00Z"><strong>4:30 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -387,6 +377,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Denmark" data-away="Zambia">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Denmark</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-12-05T13:00:00Z"><strong>8:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Montenegro" data-away="Moldova">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Montenegro</td><td class=away>Moldova</td><td class="time-cell" data-announced="2026-12-05T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="San Marino" data-away="Gibraltar">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>San Marino</td><td class=away>Gibraltar</td><td class="time-cell" data-announced="2026-12-05T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
