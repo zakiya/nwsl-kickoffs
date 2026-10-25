@@ -100,21 +100,6 @@ title: "Upcoming Schedule"
 ## October 2026
 
 ```{=html}
-<div class="day-section"><h3>Saturday, October 24</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Tottenham" data-away="Arsenal">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Tottenham</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-10-24T11:45:00Z"><strong>7:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Denver" data-away="Louisville">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Denver</td><td class=away>Louisville</td><td class="time-cell" data-announced="2026-10-24T22:30:00Z" data-approx="2026-10-24T22:34:00Z">6:30/<strong>6:34 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-<tr class="game-row" data-home="Angel City" data-away="Bay">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Bay</td><td class="time-cell" data-announced="2026-10-25T00:45:00Z" data-approx="2026-10-25T00:49:00Z">8:45/<strong>8:49 PM ET</strong></td><td><a href="https://www.ionnwsl.com/" target="_blank" rel="noopener">ION</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Sunday, October 25</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
