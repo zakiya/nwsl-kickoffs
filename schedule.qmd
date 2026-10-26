@@ -100,24 +100,6 @@ title: "Upcoming Schedule"
 ## October 2026
 
 ```{=html}
-<div class="day-section"><h3>Sunday, October 25</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Crystal Palace" data-away="Chelsea">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Crystal Palace</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-10-25T12:00:00Z"><strong>8:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Orlando" data-away="NJ/NY">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Orlando</td><td class=away>NJ/NY</td><td class="time-cell" data-announced="2026-10-25T19:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a></td>
-</tr>
-<tr class="game-row" data-home="Kansas City" data-away="Washington">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Washington</td><td class="time-cell" data-announced="2026-10-25T21:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-<tr class="game-row" data-home="San Diego" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-10-25T23:00:00Z"><strong>7:00 PM ET</strong></td><td>Roku</td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Wednesday, October 28</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
