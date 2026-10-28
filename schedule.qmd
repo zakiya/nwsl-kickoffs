@@ -128,28 +128,28 @@ title: "Upcoming Schedule"
   <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Charlton</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-01T14:30:00Z"><strong>9:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 <tr class="game-row" data-home="Angel City" data-away="Boston">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Angel City</td><td class=away>Boston</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
 </tr>
 <tr class="game-row" data-home="Bay" data-away="San Diego">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Bay</td><td class=away>San Diego</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
 </tr>
 <tr class="game-row" data-home="NJ/NY" data-away="Utah Royals">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN</a></td>
 </tr>
 <tr class="game-row" data-home="Houston" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Houston</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
 </tr>
 <tr class="game-row" data-home="North Carolina" data-away="Denver">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>North Carolina</td><td class=away>Denver</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
 </tr>
 <tr class="game-row" data-home="Louisville" data-away="Kansas City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Louisville</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
 </tr>
 <tr class="game-row" data-home="Seattle" data-away="Orlando">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Seattle</td><td class=away>Orlando</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
 </tr>
 <tr class="game-row" data-home="Washington" data-away="Chicago">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Chicago</td><td class="time-cell" data-announced="2026-11-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a></td>
 </tr>
 </tbody></table>
 </div>
@@ -176,7 +176,7 @@ title: "Upcoming Schedule"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="BK Häcken" data-away="Chelsea">
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>BK Häcken</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-10T17:45:00Z"><strong>12:45 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>BK Häcken</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-10T17:45:00Z"><strong>12:45 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
