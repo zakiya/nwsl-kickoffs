@@ -7,7 +7,6 @@ title: "Upcoming Schedule"
 ```{=html}
 <div class="d-flex flex-wrap gap-1 align-items-center mb-3 d-md-none">
   <span class="text-muted small fw-semibold me-1">Jump to:</span>
-  <a href="#october-2026" class="btn btn-sm btn-outline-secondary">October 2026</a>
   <a href="#november-2026" class="btn btn-sm btn-outline-secondary">November 2026</a>
   <a href="#december-2026" class="btn btn-sm btn-outline-secondary">December 2026</a>
   <a href="#january-2027" class="btn btn-sm btn-outline-secondary">January 2027</a>
@@ -35,7 +34,6 @@ title: "Upcoming Schedule"
     <option value="BK Häcken">BK Häcken</option>
     <option value="Barcelona">Barcelona</option>
     <option value="Bay">Bay</option>
-    <option value="Benfica">Benfica</option>
     <option value="Birmingham">Birmingham</option>
     <option value="Boston">Boston</option>
     <option value="Brazil">Brazil</option>
@@ -77,9 +75,9 @@ title: "Upcoming Schedule"
     <option value="Orlando">Orlando</option>
     <option value="PSG">PSG</option>
     <option value="Panama">Panama</option>
+    <option value="Peru">Peru</option>
     <option value="Philippines">Philippines</option>
     <option value="Portland">Portland</option>
-    <option value="Roma">Roma</option>
     <option value="San Diego">San Diego</option>
     <option value="San Marino">San Marino</option>
     <option value="Seattle">Seattle</option>
@@ -95,23 +93,6 @@ title: "Upcoming Schedule"
   </select>
 </div>
 <p id="no-results" style="display:none" class="text-muted">No games found for this team.</p>
-```
-
-## October 2026
-
-```{=html}
-<div class="day-section"><h3>Wednesday, October 28</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Chelsea" data-away="Roma">
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Roma</td><td class="time-cell" data-announced="2026-10-28T17:45:00Z"><strong>1:45 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Arsenal" data-away="Benfica">
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>Benfica</td><td class="time-cell" data-announced="2026-10-28T20:00:00Z"><strong>4:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-</tbody></table>
-</div>
 ```
 
 ## November 2026
@@ -247,6 +228,9 @@ title: "Upcoming Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Peru" data-away="TBD Away">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-27T16:00:00Z"><strong>11:00 AM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="France" data-away="Venezuela">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>France</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -285,6 +269,9 @@ title: "Upcoming Schedule"
 <tbody>
 <tr class="game-row" data-home="New Zealand" data-away="Philippines">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>New Zealand</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-11-29T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Peru" data-away="TBD Away">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-29T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 </tbody></table>
 </div>

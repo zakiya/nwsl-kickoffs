@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "watch.html",
+    "href": "watch.html",
+    "title": "How to Watch",
+    "section": "",
+    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
+  },
+  {
+    "objectID": "watch.html#nwsl",
+    "href": "watch.html#nwsl",
+    "title": "How to Watch",
+    "section": "",
+    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
+  },
+  {
+    "objectID": "watch.html#cbs",
+    "href": "watch.html#cbs",
+    "title": "How to Watch",
+    "section": "CBS",
+    "text": "CBS\nCBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on Paramount+ is only available on the Paramount+ with SHOWTIME (Premium) plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams.No matches are streaming-only on Paramount+. This is a change from prior seasons."
+  },
+  {
+    "objectID": "watch.html#cbs-sports-network-cbssn",
+    "href": "watch.html#cbs-sports-network-cbssn",
+    "title": "How to Watch",
+    "section": "CBS Sports Network (CBSSN)",
+    "text": "CBS Sports Network (CBSSN)\nYou typically need cable or streaming subscription to watch CBSSN. You can search for TV Providers by zipcode at the CBS Sports Network website."
+  },
+  {
+    "objectID": "watch.html#victory",
+    "href": "watch.html#victory",
+    "title": "How to Watch",
+    "section": "Victory+",
+    "text": "Victory+\nVictory+ is the newest streaming partner of the NWSL. It’s a free for live streaming and on-demand sports entertainment across major platforms.\nAfter you’ve created a Victory+ account, you can download the Victory+ app on your smart TV and pair your account.\nNational Women’s Soccer League’s Victory+ FAQ site."
+  },
+  {
+    "objectID": "watch.html#arsenal-and-chelsea",
+    "href": "watch.html#arsenal-and-chelsea",
+    "title": "How to Watch",
+    "section": "Arsenal and Chelsea",
+    "text": "Arsenal and Chelsea\nArsenal and Chelsea appear here for their WSL, UEFA Women’s Champions League, and English domestic cup fixtures. Most of these kick off in the late morning ET — use the GMT button on the schedule pages to see the local UK kickoff time.\nWSL and Champions League matches are listed on Paramount+, with some also on CBS Sports Network, ESPN+, or ESPN Deportes. The Stream column on each match row links to whichever service ESPN lists for that fixture.\nFA Cup and League Cup ties often show TBD — those rounds are frequently scheduled before a US broadcaster is announced, and the listing fills in once ESPN publishes one."
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Upcoming Schedule",
@@ -7,18 +49,11 @@
     "text": "*Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.\nNo games found for this team."
   },
   {
-    "objectID": "schedule.html#october-2026",
-    "href": "schedule.html#october-2026",
-    "title": "Upcoming Schedule",
-    "section": "October 2026",
-    "text": "October 2026\nWednesday, October 28\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nChelsea\nRoma\n1:45 PM ET\nESPN+, Paramount+\n\n\nUWCL\n\nArsenal\nBenfica\n4:00 PM ET\nESPN Deportes, Paramount+"
-  },
-  {
     "objectID": "schedule.html#november-2026",
     "href": "schedule.html#november-2026",
     "title": "Upcoming Schedule",
     "section": "November 2026",
-    "text": "November 2026\nSunday, November 1\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nArsenal\nAston Villa\n7:00 AM ET\nParamount+\n\n\nWSL\n\nCharlton\nChelsea\n9:30 AM ET\nParamount+\n\n\nNWSL\n\nAngel City\nBoston\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nBay\nSan Diego\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nNJ/NY\nUtah Royals\n5:00 PM ET\nESPN\n\n\nNWSL\n\nHouston\nPortland\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nNorth Carolina\nDenver\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nLouisville\nKansas City\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nSeattle\nOrlando\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nWashington\nChicago\n5:00 PM ET\nESPN+\n\n\n\n\n\nSaturday, November 7\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nEverton\n7:45 AM ET\nParamount+\n\n\n\n\n\nSunday, November 8\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nLiverpool\nArsenal\n7:00 AM ET\nParamount+\n\n\n\n\n\nTuesday, November 10\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nBK Häcken\nChelsea\n12:45 PM ET\nESPN+, Paramount+\n\n\n\n\n\nThursday, November 12\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nBarcelona\nArsenal\n12:45 PM ET\nParamount+\n\n\n\n\n\nSaturday, November 14\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nMan City\n8:30 AM ET\nParamount+\n\n\n\n\n\nSunday, November 15\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nArsenal\nLondon City\n11:30 AM ET\nParamount+\n\n\n\n\n\nWednesday, November 18\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nChelsea\nPSG\n3:00 PM ET\nParamount+\n\n\n\n\n\nThursday, November 19\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nArsenal\nOL Lyonnes\n3:00 PM ET\nParamount+\n\n\n\n\n\nSaturday, November 21\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nLiverpool\nChelsea\n7:45 AM ET\nParamount+\n\n\n\n\n\nSunday, November 22\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nArsenal\nWest Ham\n9:30 AM ET\nParamount+\n\n\n\n\n\nFriday, November 27\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nFriendly\n\nFrance\nVenezuela\n3:00 PM ET\nTBD\n\n\nW Champs\n\nJamaica\nCosta Rica\n5:00 PM ET\nParamount+\n\n\nW Champs\n\nUnited States\nEl Salvador\n8:30 PM ET\nParamount+\n\n\n\n\n\nSaturday, November 28\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nFriendly\n\nAustralia\nColombia\n3:35 AM ET\nTBD\n\n\nW Champs\n\nCanada\nPanama\n1:00 PM ET\nParamount+\n\n\nFriendly\n\nSan Marino\nLiechtenstein\n3:00 PM ET\nTBD\n\n\nW Champs\n\nMexico\nHaiti\n4:30 PM ET\nParamount+\n\n\nFriendly\n\nJapan\nBrazil\n11:55 PM ET\nTBD\n\n\n\n\n\nSunday, November 29\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nFriendly\n\nNew Zealand\nPhilippines\n3:00 PM ET\nTBD"
+    "text": "November 2026\nSunday, November 1\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nArsenal\nAston Villa\n7:00 AM ET\nParamount+\n\n\nWSL\n\nCharlton\nChelsea\n9:30 AM ET\nParamount+\n\n\nNWSL\n\nAngel City\nBoston\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nBay\nSan Diego\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nNJ/NY\nUtah Royals\n5:00 PM ET\nESPN\n\n\nNWSL\n\nHouston\nPortland\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nNorth Carolina\nDenver\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nLouisville\nKansas City\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nSeattle\nOrlando\n5:00 PM ET\nESPN+\n\n\nNWSL\n\nWashington\nChicago\n5:00 PM ET\nESPN+\n\n\n\n\n\nSaturday, November 7\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nEverton\n7:45 AM ET\nParamount+\n\n\n\n\n\nSunday, November 8\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nLiverpool\nArsenal\n7:00 AM ET\nParamount+\n\n\n\n\n\nTuesday, November 10\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nBK Häcken\nChelsea\n12:45 PM ET\nESPN+, Paramount+\n\n\n\n\n\nThursday, November 12\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nBarcelona\nArsenal\n12:45 PM ET\nParamount+\n\n\n\n\n\nSaturday, November 14\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nChelsea\nMan City\n8:30 AM ET\nParamount+\n\n\n\n\n\nSunday, November 15\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nArsenal\nLondon City\n11:30 AM ET\nParamount+\n\n\n\n\n\nWednesday, November 18\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nChelsea\nPSG\n3:00 PM ET\nParamount+\n\n\n\n\n\nThursday, November 19\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nArsenal\nOL Lyonnes\n3:00 PM ET\nParamount+\n\n\n\n\n\nSaturday, November 21\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nLiverpool\nChelsea\n7:45 AM ET\nParamount+\n\n\n\n\n\nSunday, November 22\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nWSL\n\nArsenal\nWest Ham\n9:30 AM ET\nParamount+\n\n\n\n\n\nFriday, November 27\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nFriendly\n\nPeru\nTBD Away\n11:00 AM ET\nTBD\n\n\nFriendly\n\nFrance\nVenezuela\n3:00 PM ET\nTBD\n\n\nW Champs\n\nJamaica\nCosta Rica\n5:00 PM ET\nParamount+\n\n\nW Champs\n\nUnited States\nEl Salvador\n8:30 PM ET\nParamount+\n\n\n\n\n\nSaturday, November 28\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nFriendly\n\nAustralia\nColombia\n3:35 AM ET\nTBD\n\n\nW Champs\n\nCanada\nPanama\n1:00 PM ET\nParamount+\n\n\nFriendly\n\nSan Marino\nLiechtenstein\n3:00 PM ET\nTBD\n\n\nW Champs\n\nMexico\nHaiti\n4:30 PM ET\nParamount+\n\n\nFriendly\n\nJapan\nBrazil\n11:55 PM ET\nTBD\n\n\n\n\n\nSunday, November 29\n\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nFriendly\n\nNew Zealand\nPhilippines\n3:00 PM ET\nTBD\n\n\nFriendly\n\nPeru\nTBD Away\n3:00 PM ET\nTBD"
   },
   {
     "objectID": "schedule.html#december-2026",
@@ -70,13 +105,6 @@
     "text": "Time zone:\n  ET\n  CT\n  MT\n  PT\n  GMT"
   },
   {
-    "objectID": "index.html#october",
-    "href": "index.html#october",
-    "title": "Kickoff Times and Streaming Info",
-    "section": "October",
-    "text": "October\n\nWednesday, October 28\n\n\n\nCompetition\n\nHome\nAway\nAnnounced/Approx. Kickoff Time\nStream\n\n\n\n\nUWCL\n\nChelsea\nRoma\n1:45 PM ET\nESPN+, Paramount+\n\n\nUWCL\n\nArsenal\nBenfica\n4:00 PM ET\nESPN Deportes, Paramount+"
-  },
-  {
     "objectID": "index.html#november",
     "href": "index.html#november",
     "title": "Kickoff Times and Streaming Info",
@@ -89,47 +117,5 @@
     "title": "Kickoff Times and Streaming Info",
     "section": "Credits",
     "text": "Credits\nThis site is a fork. Arianna D. Cascone (ariannacascone4@gmail.com) created the original. Visit nationalwomenssoccerleague.com to show your support.\n Favicon purchased with a Noun project subscription."
-  },
-  {
-    "objectID": "watch.html",
-    "href": "watch.html",
-    "title": "How to Watch",
-    "section": "",
-    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
-  },
-  {
-    "objectID": "watch.html#nwsl",
-    "href": "watch.html#nwsl",
-    "title": "How to Watch",
-    "section": "",
-    "text": "NWSL+ streams live NWSL games, match recaps, and highlights. It’s free online, and on the NWSL+ app on Apple TV, Fire TV, and Roku."
-  },
-  {
-    "objectID": "watch.html#cbs",
-    "href": "watch.html#cbs",
-    "title": "How to Watch",
-    "section": "CBS",
-    "text": "CBS\nCBS games can be watched on your local CBS affiliate (over-the-air or via cable/satellite). Streaming on Paramount+ is only available on the Paramount+ with SHOWTIME (Premium) plan. The cheaper Paramount+ Essentials plan does not include live local CBS streams.No matches are streaming-only on Paramount+. This is a change from prior seasons."
-  },
-  {
-    "objectID": "watch.html#cbs-sports-network-cbssn",
-    "href": "watch.html#cbs-sports-network-cbssn",
-    "title": "How to Watch",
-    "section": "CBS Sports Network (CBSSN)",
-    "text": "CBS Sports Network (CBSSN)\nYou typically need cable or streaming subscription to watch CBSSN. You can search for TV Providers by zipcode at the CBS Sports Network website."
-  },
-  {
-    "objectID": "watch.html#victory",
-    "href": "watch.html#victory",
-    "title": "How to Watch",
-    "section": "Victory+",
-    "text": "Victory+\nVictory+ is the newest streaming partner of the NWSL. It’s a free for live streaming and on-demand sports entertainment across major platforms.\nAfter you’ve created a Victory+ account, you can download the Victory+ app on your smart TV and pair your account.\nNational Women’s Soccer League’s Victory+ FAQ site."
-  },
-  {
-    "objectID": "watch.html#arsenal-and-chelsea",
-    "href": "watch.html#arsenal-and-chelsea",
-    "title": "How to Watch",
-    "section": "Arsenal and Chelsea",
-    "text": "Arsenal and Chelsea\nArsenal and Chelsea appear here for their WSL, UEFA Women’s Champions League, and English domestic cup fixtures. Most of these kick off in the late morning ET — use the GMT button on the schedule pages to see the local UK kickoff time.\nWSL and Champions League matches are listed on Paramount+, with some also on CBS Sports Network, ESPN+, or ESPN Deportes. The Stream column on each match row links to whichever service ESPN lists for that fixture.\nFA Cup and League Cup ties often show TBD — those rounds are frequently scheduled before a US broadcaster is announced, and the listing fills in once ESPN publishes one."
   }
 ]
