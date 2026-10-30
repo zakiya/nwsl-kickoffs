@@ -28,6 +28,7 @@ title: "Upcoming Schedule"
   <select id="team-select" class="form-select" style="max-width: 220px;" onchange="filterTeam(this.value)">
     <option value="all">All Teams</option>
     <option value="Angel City">Angel City</option>
+    <option value="Argentina">Argentina</option>
     <option value="Arsenal">Arsenal</option>
     <option value="Aston Villa">Aston Villa</option>
     <option value="Australia">Australia</option>
@@ -47,9 +48,11 @@ title: "Upcoming Schedule"
     <option value="Crystal Palace">Crystal Palace</option>
     <option value="Denmark">Denmark</option>
     <option value="Denver">Denver</option>
+    <option value="Dominican Republic">Dominican Republic</option>
     <option value="El Salvador">El Salvador</option>
     <option value="Everton">Everton</option>
     <option value="France">France</option>
+    <option value="Germany">Germany</option>
     <option value="Gibraltar">Gibraltar</option>
     <option value="Haiti">Haiti</option>
     <option value="Houston">Houston</option>
@@ -228,8 +231,8 @@ title: "Upcoming Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
-<tr class="game-row" data-home="Peru" data-away="TBD Away">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-27T16:00:00Z"><strong>11:00 AM ET</strong></td><td>TBD</td>
+<tr class="game-row" data-home="Peru" data-away="Dominican Republic">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Dominican Republic</td><td class="time-cell" data-announced="2026-11-27T16:00:00Z"><strong>11:00 AM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="France" data-away="Venezuela">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>France</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
@@ -270,8 +273,11 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="New Zealand" data-away="Philippines">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>New Zealand</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-11-29T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
-<tr class="game-row" data-home="Peru" data-away="TBD Away">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-29T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+<tr class="game-row" data-home="Peru" data-away="Dominican Republic">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Dominican Republic</td><td class="time-cell" data-announced="2026-11-29T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Argentina" data-away="Germany">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Germany</td><td class="time-cell" data-announced="2026-11-29T23:15:00Z"><strong>6:15 PM ET</strong></td><td>TBD</td>
 </tr>
 </tbody></table>
 </div>
@@ -320,6 +326,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="New Zealand" data-away="Philippines">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>New Zealand</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-12-04T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Germany" data-away="Peru">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Peru</td><td class="time-cell" data-announced="2026-12-04T21:15:00Z"><strong>4:15 PM ET</strong></td><td>TBD</td>
+</tr>
 </tbody></table>
 </div>
 <div class="day-section"><h3>Saturday, December 5</h3>
@@ -349,13 +358,19 @@ title: "Upcoming Schedule"
 </tr>
 </tbody></table>
 </div>
-<div class="day-section"><h3>Saturday, December 12</h3>
+<div class="day-section"><h3>Friday, December 11</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="Everton" data-away="Arsenal">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Everton</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-12-12T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Everton</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-12-11T19:00:00Z"><strong>2:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
+</tbody></table>
+</div>
+<div class="day-section"><h3>Saturday, December 12</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
 <tr class="game-row" data-home="Chelsea" data-away="London City">
   <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>London City</td><td class="time-cell" data-announced="2026-12-12T12:45:00Z"><strong>7:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
@@ -378,7 +393,7 @@ title: "Upcoming Schedule"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="Brighton" data-away="Chelsea">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Brighton</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-12-19T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Brighton</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-12-19T12:45:00Z"><strong>7:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
@@ -387,7 +402,7 @@ title: "Upcoming Schedule"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="Charlton" data-away="Arsenal">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Charlton</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-12-20T12:30:00Z"><strong>7:30 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Charlton</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-12-20T12:00:00Z"><strong>7:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 </div>
