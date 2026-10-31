@@ -43,16 +43,19 @@ title: "Upcoming Schedule"
     <option value="Charlton">Charlton</option>
     <option value="Chelsea">Chelsea</option>
     <option value="Chicago">Chicago</option>
+    <option value="Chinese Taipei">Chinese Taipei</option>
     <option value="Colombia">Colombia</option>
     <option value="Costa Rica">Costa Rica</option>
     <option value="Crystal Palace">Crystal Palace</option>
     <option value="Denmark">Denmark</option>
     <option value="Denver">Denver</option>
     <option value="Dominican Republic">Dominican Republic</option>
+    <option value="Ecuador">Ecuador</option>
     <option value="El Salvador">El Salvador</option>
     <option value="Everton">Everton</option>
     <option value="France">France</option>
     <option value="Germany">Germany</option>
+    <option value="Ghana">Ghana</option>
     <option value="Gibraltar">Gibraltar</option>
     <option value="Haiti">Haiti</option>
     <option value="Houston">Houston</option>
@@ -78,17 +81,20 @@ title: "Upcoming Schedule"
     <option value="Orlando">Orlando</option>
     <option value="PSG">PSG</option>
     <option value="Panama">Panama</option>
+    <option value="Papua New Guinea">Papua New Guinea</option>
     <option value="Peru">Peru</option>
     <option value="Philippines">Philippines</option>
     <option value="Portland">Portland</option>
     <option value="San Diego">San Diego</option>
     <option value="San Marino">San Marino</option>
     <option value="Seattle">Seattle</option>
+    <option value="South Africa">South Africa</option>
     <option value="TBD Away">TBD Away</option>
     <option value="TBD Home">TBD Home</option>
     <option value="Tottenham">Tottenham</option>
     <option value="United States">United States</option>
     <option value="Utah Royals">Utah Royals</option>
+    <option value="Uzbekistan">Uzbekistan</option>
     <option value="Venezuela">Venezuela</option>
     <option value="Washington">Washington</option>
     <option value="West Ham">West Ham</option>
@@ -252,8 +258,17 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Australia" data-away="Colombia">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Australia</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-11-28T08:35:00Z"><strong>3:35 AM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Chinese Taipei" data-away="South Africa">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Chinese Taipei</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-11-28T14:00:00Z"><strong>9:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Uzbekistan" data-away="Papua New Guinea">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Uzbekistan</td><td class=away>Papua New Guinea</td><td class="time-cell" data-announced="2026-11-28T16:30:00Z"><strong>11:30 AM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Canada" data-away="Panama">
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Panama</td><td class="time-cell" data-announced="2026-11-28T18:00:00Z"><strong>1:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr class="game-row" data-home="Ghana" data-away="Ecuador">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Ecuador</td><td class="time-cell" data-announced="2026-11-28T19:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="San Marino" data-away="Liechtenstein">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>San Marino</td><td class=away>Liechtenstein</td><td class="time-cell" data-announced="2026-11-28T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
@@ -290,6 +305,15 @@ title: "Upcoming Schedule"
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr class="game-row" data-home="Papua New Guinea" data-away="Chinese Taipei">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Papua New Guinea</td><td class=away>Chinese Taipei</td><td class="time-cell" data-announced="2026-12-01T14:00:00Z"><strong>9:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Uzbekistan" data-away="Ghana">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Uzbekistan</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-12-01T16:30:00Z"><strong>11:30 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="South Africa" data-away="Ecuador">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Ecuador</td><td class="time-cell" data-announced="2026-12-01T19:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Morocco" data-away="Venezuela">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -340,6 +364,15 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Denmark" data-away="Zambia">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Denmark</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-12-05T13:00:00Z"><strong>8:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Chinese Taipei" data-away="Ecuador">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Chinese Taipei</td><td class=away>Ecuador</td><td class="time-cell" data-announced="2026-12-05T17:00:00Z"><strong>12:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Papua New Guinea" data-away="Ghana">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Papua New Guinea</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-12-05T17:00:00Z"><strong>12:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="South Africa" data-away="Uzbekistan">
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Uzbekistan</td><td class="time-cell" data-announced="2026-12-05T17:00:00Z"><strong>12:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Montenegro" data-away="Moldova">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Montenegro</td><td class=away>Moldova</td><td class="time-cell" data-announced="2026-12-05T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>

@@ -54,6 +54,18 @@ title: "Kickoff Times and Streaming Info"
 </tbody></table>
 ```
 
+### Saturday, November 7
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Everton</td><td class="time-cell" data-announced="2026-11-07T12:45:00Z"><strong>7:45 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+```
+
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
 
 ## Credits
