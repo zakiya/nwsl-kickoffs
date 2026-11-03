@@ -81,6 +81,24 @@ title: "Kickoff Times and Streaming Info"
 </tbody></table>
 ```
 
+### Tuesday, November 10
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-10T10:00:00Z"><strong>5:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-10T12:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>BK Häcken</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-10T17:45:00Z"><strong>12:45 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+```
+
 *Kickoff times are approximate based on historical trends. On the national channels (i.e., ABC, CBS, etc.), there is always the risk of kickoff time shifting to accommodate previous programs running late.
 
 ## Credits

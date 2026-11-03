@@ -54,6 +54,7 @@ title: "Upcoming Schedule"
     <option value="Germany">Germany</option>
     <option value="Ghana">Ghana</option>
     <option value="Gibraltar">Gibraltar</option>
+    <option value="Greece">Greece</option>
     <option value="Haiti">Haiti</option>
     <option value="Inter">Inter</option>
     <option value="Jamaica">Jamaica</option>
@@ -71,6 +72,7 @@ title: "Upcoming Schedule"
     <option value="Morocco">Morocco</option>
     <option value="NJ/NY">NJ/NY</option>
     <option value="New Zealand">New Zealand</option>
+    <option value="Northern Ireland">Northern Ireland</option>
     <option value="OH Leuven">OH Leuven</option>
     <option value="OL Lyonnes">OL Lyonnes</option>
     <option value="PSG">PSG</option>
@@ -242,6 +244,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Peru" data-away="Dominican Republic">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Dominican Republic</td><td class="time-cell" data-announced="2026-11-27T16:00:00Z"><strong>11:00 AM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Northern Ireland" data-away="Greece">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Northern Ireland</td><td class=away>Greece</td><td class="time-cell" data-announced="2026-11-27T19:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="France" data-away="Venezuela">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>France</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -312,6 +317,9 @@ title: "Upcoming Schedule"
 <tbody>
 <tr class="game-row" data-home="Papua New Guinea" data-away="Chinese Taipei">
   <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Papua New Guinea</td><td class=away>Chinese Taipei</td><td class="time-cell" data-announced="2026-12-01T14:00:00Z"><strong>9:00 AM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Northern Ireland" data-away="Greece">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Northern Ireland</td><td class=away>Greece</td><td class="time-cell" data-announced="2026-12-01T16:00:00Z"><strong>11:00 AM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Uzbekistan" data-away="Ghana">
   <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Uzbekistan</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-12-01T16:30:00Z"><strong>11:30 AM ET</strong></td><td>TBD</td>
