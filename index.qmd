@@ -22,10 +22,10 @@ title: "Kickoff Times and Streaming Info"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-04T12:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>SAO TOME E PRINCIPE WOMEN</td><td class=away>Congo DR</td><td class="time-cell" data-announced="2026-11-04T12:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-04T15:00:00Z"><strong>10:00 AM ET</strong></td><td class=stream>TBD</td>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>CENTRAL AFRICAN REPUBLIC WOMEN</td><td class=away>CHAD WOMEN</td><td class="time-cell" data-announced="2026-11-04T15:00:00Z"><strong>10:00 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
 </tbody></table>
 ```
@@ -70,7 +70,7 @@ title: "Kickoff Times and Streaming Info"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr>
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-08T12:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-08T12:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-11-08T17:30:00Z"><strong>12:30 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ABC</a></td>
