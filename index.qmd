@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## November
 
-### Wednesday, November 4
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>SAO TOME E PRINCIPE WOMEN</td><td class=away>Congo DR</td><td class="time-cell" data-announced="2026-11-04T12:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>CENTRAL AFRICAN REPUBLIC WOMEN</td><td class=away>CHAD WOMEN</td><td class="time-cell" data-announced="2026-11-04T15:00:00Z"><strong>10:00 AM ET</strong></td><td class=stream>TBD</td>
-</tr>
-</tbody></table>
-```
-
 ### Friday, November 6
 
 ```{=html}
@@ -73,7 +58,7 @@ title: "Kickoff Times and Streaming Info"
   <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-08T12:00:00Z"><strong>7:00 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 <tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-11-08T17:30:00Z"><strong>12:30 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ABC</a></td>
+  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-11-08T17:30:00Z"><strong>12:30 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ABC</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-11-08T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ABC</a></td>
@@ -95,6 +80,18 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>BK Häcken</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-10T17:45:00Z"><strong>12:45 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+```
+
+### Thursday, November 12
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Barcelona</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-12T17:45:00Z"><strong>12:45 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 ```
