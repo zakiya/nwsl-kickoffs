@@ -15,18 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## November
 
-### Friday, November 6
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>San Diego</td><td class=away>Utah Royals</td><td class="time-cell" data-announced="2026-11-07T03:00:00Z" data-approx="2026-11-07T03:10:00Z">10:00/<strong>10:10 PM ET</strong></td><td class=stream><a href="http://www.amazon.com/nwsl" target="_blank" rel="noopener">Prime Video</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Saturday, November 7
 
 ```{=html}
@@ -92,6 +80,18 @@ title: "Kickoff Times and Streaming Info"
 <tbody>
 <tr>
   <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Barcelona</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-12T17:45:00Z"><strong>12:45 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+```
+
+### Saturday, November 14
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Man City</td><td class="time-cell" data-announced="2026-11-14T13:30:00Z"><strong>8:30 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 ```
