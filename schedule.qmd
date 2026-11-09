@@ -27,7 +27,6 @@ title: "Upcoming Schedule"
   <label for="team-select" class="fw-semibold text-nowrap mb-0">Filter by team:</label>
   <select id="team-select" class="form-select" style="max-width: 220px;" onchange="filterTeam(this.value)">
     <option value="all">All Teams</option>
-    <option value="Angel City">Angel City</option>
     <option value="Argentina">Argentina</option>
     <option value="Arsenal">Arsenal</option>
     <option value="Aston Villa">Aston Villa</option>
@@ -63,7 +62,6 @@ title: "Upcoming Schedule"
     <option value="Inter">Inter</option>
     <option value="Jamaica">Jamaica</option>
     <option value="Japan">Japan</option>
-    <option value="Kansas City">Kansas City</option>
     <option value="Lebanon">Lebanon</option>
     <option value="Liechtenstein">Liechtenstein</option>
     <option value="Liverpool">Liverpool</option>
@@ -74,7 +72,6 @@ title: "Upcoming Schedule"
     <option value="Moldova">Moldova</option>
     <option value="Montenegro">Montenegro</option>
     <option value="Morocco">Morocco</option>
-    <option value="NJ/NY">NJ/NY</option>
     <option value="New Zealand">New Zealand</option>
     <option value="Northern Ireland">Northern Ireland</option>
     <option value="OH Leuven">OH Leuven</option>
@@ -84,10 +81,7 @@ title: "Upcoming Schedule"
     <option value="Papua New Guinea">Papua New Guinea</option>
     <option value="Peru">Peru</option>
     <option value="Philippines">Philippines</option>
-    <option value="Portland">Portland</option>
     <option value="San Marino">San Marino</option>
-    <option value="Sao Tome E Principe">Sao Tome E Principe</option>
-    <option value="Seattle">Seattle</option>
     <option value="Singapore">Singapore</option>
     <option value="South Africa">South Africa</option>
     <option value="Spain">Spain</option>
@@ -97,7 +91,6 @@ title: "Upcoming Schedule"
     <option value="United States">United States</option>
     <option value="Uzbekistan">Uzbekistan</option>
     <option value="Venezuela">Venezuela</option>
-    <option value="Washington">Washington</option>
     <option value="West Ham">West Ham</option>
     <option value="Zambia">Zambia</option>
   </select>
@@ -108,39 +101,6 @@ title: "Upcoming Schedule"
 ## November 2026
 
 ```{=html}
-<div class="day-section"><h3>Saturday, November 7</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Gabon" data-away="Congo">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Gabon</td><td class=away>Congo</td><td class="time-cell" data-announced="2026-11-07T10:00:00Z"><strong>5:00 AM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Chelsea" data-away="Everton">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Chelsea</td><td class=away>Everton</td><td class="time-cell" data-announced="2026-11-07T12:45:00Z"><strong>7:45 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="Sao Tome E Principe" data-away="Central African Republic">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Sao Tome E Principe</td><td class=away>Central African Republic</td><td class="time-cell" data-announced="2026-11-07T15:00:00Z"><strong>10:00 AM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Kansas City" data-away="Angel City">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Kansas City</td><td class=away>Angel City</td><td class="time-cell" data-announced="2026-11-07T17:00:00Z"><strong>12:00 PM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a></td>
-</tr>
-</tbody></table>
-</div>
-<div class="day-section"><h3>Sunday, November 8</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Liverpool" data-away="Arsenal">
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Arsenal</td><td class="time-cell" data-announced="2026-11-08T12:00:00Z"><strong>7:00 AM ET</strong></td><td><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS Sports Network</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr class="game-row" data-home="NJ/NY" data-away="Seattle">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>NJ/NY</td><td class=away>Seattle</td><td class="time-cell" data-announced="2026-11-08T17:30:00Z"><strong>12:30 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ABC</a>, <a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN Deportes</a></td>
-</tr>
-<tr class="game-row" data-home="Washington" data-away="Portland">
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Portland</td><td class="time-cell" data-announced="2026-11-08T20:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ABC</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Tuesday, November 10</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
