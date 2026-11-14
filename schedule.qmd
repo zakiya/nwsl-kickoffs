@@ -75,6 +75,7 @@ title: "Upcoming Schedule"
     <option value="Kansas City">Kansas City</option>
     <option value="Kosovo">Kosovo</option>
     <option value="Latvia">Latvia</option>
+    <option value="Lebanon">Lebanon</option>
     <option value="Liechtenstein">Liechtenstein</option>
     <option value="Lithuania">Lithuania</option>
     <option value="Liverpool">Liverpool</option>
@@ -90,6 +91,7 @@ title: "Upcoming Schedule"
     <option value="Montenegro">Montenegro</option>
     <option value="Morocco">Morocco</option>
     <option value="NJ/NY">NJ/NY</option>
+    <option value="Netherlands">Netherlands</option>
     <option value="New Zealand">New Zealand</option>
     <option value="Nigeria">Nigeria</option>
     <option value="Northern Ireland">Northern Ireland</option>
@@ -104,12 +106,15 @@ title: "Upcoming Schedule"
     <option value="Republic of Ireland">Republic of Ireland</option>
     <option value="Romania">Romania</option>
     <option value="San Marino">San Marino</option>
+    <option value="Scotland">Scotland</option>
     <option value="Serbia">Serbia</option>
     <option value="Singapore">Singapore</option>
     <option value="Slovakia">Slovakia</option>
     <option value="Slovenia">Slovenia</option>
     <option value="South Africa">South Africa</option>
+    <option value="South Korea">South Korea</option>
     <option value="Spain">Spain</option>
+    <option value="Sweden">Sweden</option>
     <option value="Switzerland">Switzerland</option>
     <option value="TBD Away">TBD Away</option>
     <option value="TBD Home">TBD Home</option>
@@ -223,6 +228,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Australia" data-away="Colombia">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Australia</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-11-28T08:35:00Z"><strong>3:35 AM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="TBD Home" data-away="South Korea">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>South Korea</td><td class="time-cell" data-announced="2026-11-28T11:00:00Z"><strong>6:00 AM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="China" data-away="Thailand">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>China</td><td class=away>Thailand</td><td class="time-cell" data-announced="2026-11-28T11:35:00Z"><strong>6:35 AM ET</strong></td><td>TBD</td>
 </tr>
@@ -288,9 +296,6 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Thailand" data-away="Malawi">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Thailand</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-12-01T07:00:00Z"><strong>2:00 AM ET</strong></td><td>TBD</td>
 </tr>
-<tr class="game-row" data-home="Singapore" data-away="TBD Away">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Singapore</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-01T11:30:00Z"><strong>6:30 AM ET</strong></td><td>TBD</td>
-</tr>
 <tr class="game-row" data-home="China" data-away="Albania">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>China</td><td class=away>Albania</td><td class="time-cell" data-announced="2026-12-01T11:35:00Z"><strong>6:35 AM ET</strong></td><td>TBD</td>
 </tr>
@@ -311,6 +316,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="MYANMAR" data-away="Hong Kong">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>MYANMAR</td><td class=away>Hong Kong</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Singapore" data-away="Lebanon">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Singapore</td><td class=away>Lebanon</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Türkiye" data-away="Cameroon">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Türkiye</td><td class=away>Cameroon</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
@@ -335,6 +343,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Montenegro" data-away="Moldova">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Montenegro</td><td class=away>Moldova</td><td class="time-cell" data-announced="2026-12-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="South Korea" data-away="Belgium">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>South Korea</td><td class=away>Belgium</td><td class="time-cell" data-announced="2026-12-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="TBD Home" data-away="TBD Away">
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T21:30:00Z"><strong>4:30 PM ET</strong></td><td>TBD</td>
@@ -384,9 +395,6 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Japan" data-away="Brazil">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Japan</td><td class=away>Brazil</td><td class="time-cell" data-announced="2026-12-05T06:00:00Z"><strong>1:00 AM ET</strong></td><td>TBD</td>
 </tr>
-<tr class="game-row" data-home="Singapore" data-away="TBD Away">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Singapore</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-05T11:30:00Z"><strong>6:30 AM ET</strong></td><td>TBD</td>
-</tr>
 <tr class="game-row" data-home="Denmark" data-away="Zambia">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Denmark</td><td class=away>Zambia</td><td class="time-cell" data-announced="2026-12-05T13:00:00Z"><strong>8:00 AM ET</strong></td><td>TBD</td>
 </tr>
@@ -404,6 +412,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="San Marino" data-away="Gibraltar">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>San Marino</td><td class=away>Gibraltar</td><td class="time-cell" data-announced="2026-12-05T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Singapore" data-away="Lebanon">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Singapore</td><td class=away>Lebanon</td><td class="time-cell" data-announced="2026-12-05T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="TBD Home" data-away="TBD Away">
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-05T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
@@ -597,6 +608,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="San Marino" data-away="Estonia">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>San Marino</td><td class=away>Estonia</td><td class="time-cell" data-announced="2027-03-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Scotland" data-away="Netherlands">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Scotland</td><td class=away>Netherlands</td><td class="time-cell" data-announced="2027-03-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Serbia" data-away="Belgium">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Serbia</td><td class=away>Belgium</td><td class="time-cell" data-announced="2027-03-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -608,6 +622,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Spain" data-away="Norway">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Norway</td><td class="time-cell" data-announced="2027-03-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Sweden" data-away="Germany">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Sweden</td><td class=away>Germany</td><td class="time-cell" data-announced="2027-03-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Ukraine" data-away="Lithuania">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Ukraine</td><td class=away>Lithuania</td><td class="time-cell" data-announced="2027-03-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
@@ -639,6 +656,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Georgia" data-away="Azerbaijan">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Georgia</td><td class=away>Azerbaijan</td><td class="time-cell" data-announced="2027-03-06T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Germany" data-away="Scotland">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Scotland</td><td class="time-cell" data-announced="2027-03-06T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Greece" data-away="Lithuania">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Greece</td><td class=away>Lithuania</td><td class="time-cell" data-announced="2027-03-06T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -647,6 +667,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Liechtenstein" data-away="Latvia">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Liechtenstein</td><td class=away>Latvia</td><td class="time-cell" data-announced="2027-03-06T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Netherlands" data-away="Sweden">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Netherlands</td><td class=away>Sweden</td><td class="time-cell" data-announced="2027-03-06T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Republic of Ireland" data-away="Norway">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Republic of Ireland</td><td class=away>Norway</td><td class="time-cell" data-announced="2027-03-06T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
@@ -731,6 +754,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Czechia" data-away="Lithuania">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Czechia</td><td class=away>Lithuania</td><td class="time-cell" data-announced="2027-04-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Germany" data-away="Netherlands">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Netherlands</td><td class="time-cell" data-announced="2027-04-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Greece" data-away="Ukraine">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Greece</td><td class=away>Ukraine</td><td class="time-cell" data-announced="2027-04-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -760,6 +786,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Spain" data-away="Republic of Ireland">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Republic of Ireland</td><td class="time-cell" data-announced="2027-04-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Sweden" data-away="Scotland">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Sweden</td><td class=away>Scotland</td><td class="time-cell" data-announced="2027-04-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Türkiye" data-away="Hungary">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Türkiye</td><td class=away>Hungary</td><td class="time-cell" data-announced="2027-04-20T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
@@ -803,8 +832,14 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Malta" data-away="Cyprus">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Malta</td><td class=away>Cyprus</td><td class="time-cell" data-announced="2027-04-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Netherlands" data-away="Germany">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Netherlands</td><td class=away>Germany</td><td class="time-cell" data-announced="2027-04-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Norway" data-away="Spain">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Norway</td><td class=away>Spain</td><td class="time-cell" data-announced="2027-04-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Scotland" data-away="Sweden">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Scotland</td><td class=away>Sweden</td><td class="time-cell" data-announced="2027-04-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Serbia" data-away="Romania">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Serbia</td><td class=away>Romania</td><td class="time-cell" data-announced="2027-04-24T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
@@ -903,6 +938,12 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Romania" data-away="Serbia">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Romania</td><td class=away>Serbia</td><td class="time-cell" data-announced="2027-06-11T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Scotland" data-away="Germany">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Scotland</td><td class=away>Germany</td><td class="time-cell" data-announced="2027-06-11T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Sweden" data-away="Netherlands">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Sweden</td><td class=away>Netherlands</td><td class="time-cell" data-announced="2027-06-11T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Switzerland" data-away="Norway">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Switzerland</td><td class=away>Norway</td><td class="time-cell" data-announced="2027-06-11T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -924,6 +965,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Estonia" data-away="Luxembourg">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Estonia</td><td class=away>Luxembourg</td><td class="time-cell" data-announced="2027-06-15T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Germany" data-away="Sweden">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Sweden</td><td class="time-cell" data-announced="2027-06-15T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Gibraltar" data-away="Croatia">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Gibraltar</td><td class=away>Croatia</td><td class="time-cell" data-announced="2027-06-15T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -941,6 +985,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Malta" data-away="Moldova">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Malta</td><td class=away>Moldova</td><td class="time-cell" data-announced="2027-06-15T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Netherlands" data-away="Scotland">
+  <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Netherlands</td><td class=away>Scotland</td><td class="time-cell" data-announced="2027-06-15T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Norway" data-away="Republic of Ireland">
   <td class=competition><span class="badge bg-primary">UWNL</span></td><td class=spacer></td><td class=home>Norway</td><td class=away>Republic of Ireland</td><td class="time-cell" data-announced="2027-06-15T18:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
