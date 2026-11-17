@@ -470,6 +470,15 @@ title: "Upcoming Schedule"
 </tr>
 </tbody></table>
 </div>
+<div class="day-section"><h3>Tuesday, January 12</h3>
+<table class="table table-sm table-hover">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr class="game-row" data-home="United States" data-away="Panama">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Panama</td><td class="time-cell" data-announced="2027-01-13T03:00:00Z"><strong>10:00 PM ET</strong></td><td>TNT, truTV, HBO Max, Universo</td>
+</tr>
+</tbody></table>
+</div>
 <div class="day-section"><h3>Wednesday, January 20</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
