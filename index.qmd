@@ -15,18 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## November
 
-### Thursday, November 19
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>OL Lyonnes</td><td class="time-cell" data-announced="2026-11-19T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Saturday, November 21
 
 ```{=html}
@@ -50,6 +38,33 @@ title: "Kickoff Times and Streaming Info"
 <tbody>
 <tr>
   <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>West Ham</td><td class="time-cell" data-announced="2026-11-22T14:30:00Z"><strong>9:30 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+```
+
+### Friday, November 27
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Dominican Republic</td><td class="time-cell" data-announced="2026-11-27T16:00:00Z"><strong>11:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Northern Ireland</td><td class=away>Greece</td><td class="time-cell" data-announced="2026-11-27T19:00:00Z"><strong>2:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Bolivia</td><td class=away>Uruguay</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>France</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>Jamaica</td><td class=away>Costa Rica</td><td class="time-cell" data-announced="2026-11-27T22:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>United States</td><td class=away>El Salvador</td><td class="time-cell" data-announced="2026-11-28T01:30:00Z"><strong>8:30 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 </tbody></table>
 ```

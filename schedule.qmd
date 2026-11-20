@@ -41,6 +41,7 @@ title: "Upcoming Schedule"
     <option value="Belarus">Belarus</option>
     <option value="Belgium">Belgium</option>
     <option value="Birmingham">Birmingham</option>
+    <option value="Bolivia">Bolivia</option>
     <option value="Bosnia-Herzegovina">Bosnia-Herzegovina</option>
     <option value="Brazil">Brazil</option>
     <option value="Brighton">Brighton</option>
@@ -109,7 +110,6 @@ title: "Upcoming Schedule"
     <option value="Northern Ireland">Northern Ireland</option>
     <option value="Norway">Norway</option>
     <option value="OH Leuven">OH Leuven</option>
-    <option value="OL Lyonnes">OL Lyonnes</option>
     <option value="Panama">Panama</option>
     <option value="Papua New Guinea">Papua New Guinea</option>
     <option value="Peru">Peru</option>
@@ -136,6 +136,7 @@ title: "Upcoming Schedule"
     <option value="Türkiye">Türkiye</option>
     <option value="Ukraine">Ukraine</option>
     <option value="United States">United States</option>
+    <option value="Uruguay">Uruguay</option>
     <option value="Uzbekistan">Uzbekistan</option>
     <option value="Venezuela">Venezuela</option>
     <option value="Wales">Wales</option>
@@ -150,15 +151,6 @@ title: "Upcoming Schedule"
 ## November 2026
 
 ```{=html}
-<div class="day-section"><h3>Thursday, November 19</h3>
-<table class="table table-sm table-hover">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr class="game-row" data-home="Arsenal" data-away="OL Lyonnes">
-  <td class=competition><span class="badge bg-orange">UWCL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>OL Lyonnes</td><td class="time-cell" data-announced="2026-11-19T20:00:00Z"><strong>3:00 PM ET</strong></td><td><a href="https://plus.espn.com/" target="_blank" rel="noopener">ESPN+</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-</tbody></table>
-</div>
 <div class="day-section"><h3>Saturday, November 21</h3>
 <table class="table table-sm table-hover">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
@@ -189,6 +181,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Northern Ireland" data-away="Greece">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Northern Ireland</td><td class=away>Greece</td><td class="time-cell" data-announced="2026-11-27T19:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Bolivia" data-away="Uruguay">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Bolivia</td><td class=away>Uruguay</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="France" data-away="Venezuela">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>France</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
@@ -265,6 +260,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Algeria" data-away="Nigeria">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-11-30T17:00:00Z"><strong>12:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Bolivia" data-away="Uruguay">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Bolivia</td><td class=away>Uruguay</td><td class="time-cell" data-announced="2026-11-30T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
 </tbody></table>
 </div>
 ```
@@ -294,11 +292,11 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Uzbekistan" data-away="Ghana">
   <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Uzbekistan</td><td class=away>Ghana</td><td class="time-cell" data-announced="2026-12-01T16:30:00Z"><strong>11:30 AM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Morocco" data-away="Venezuela">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-12-01T19:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="South Africa" data-away="Ecuador">
   <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>South Africa</td><td class=away>Ecuador</td><td class="time-cell" data-announced="2026-12-01T19:00:00Z"><strong>2:00 PM ET</strong></td><td>TBD</td>
-</tr>
-<tr class="game-row" data-home="Morocco" data-away="Venezuela">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Morocco</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="Myanmar" data-away="Hong Kong">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Myanmar</td><td class=away>Hong Kong</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
@@ -368,6 +366,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="Germany" data-away="Peru">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Germany</td><td class=away>Peru</td><td class="time-cell" data-announced="2026-12-04T21:15:00Z"><strong>4:15 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="Argentina" data-away="Uruguay">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Uruguay</td><td class="time-cell" data-announced="2026-12-04T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
 </tr>
 </tbody></table>
 </div>
