@@ -55,16 +55,64 @@ title: "Kickoff Times and Streaming Info"
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Northern Ireland</td><td class=away>Greece</td><td class="time-cell" data-announced="2026-11-27T19:00:00Z"><strong>2:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Bolivia</td><td class=away>Uruguay</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>France</td><td class=away>Venezuela</td><td class="time-cell" data-announced="2026-11-27T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>Jamaica</td><td class=away>Costa Rica</td><td class="time-cell" data-announced="2026-11-27T22:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
 </tr>
 <tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Bolivia</td><td class=away>Uruguay</td><td class="time-cell" data-announced="2026-11-27T23:00:00Z"><strong>6:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>United States</td><td class=away>El Salvador</td><td class="time-cell" data-announced="2026-11-28T01:30:00Z"><strong>8:30 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+</tbody></table>
+```
+
+### Saturday, November 28
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malawi</td><td class=away>Albania</td><td class="time-cell" data-announced="2026-11-28T07:00:00Z"><strong>2:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Australia</td><td class=away>Colombia</td><td class="time-cell" data-announced="2026-11-28T08:35:00Z"><strong>3:35 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Catalunya</td><td class=away>South Korea</td><td class="time-cell" data-announced="2026-11-28T11:00:00Z"><strong>6:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>China</td><td class=away>Thailand</td><td class="time-cell" data-announced="2026-11-28T11:35:00Z"><strong>6:35 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Chinese Taipei</td><td class=away>South Africa</td><td class="time-cell" data-announced="2026-11-28T14:00:00Z"><strong>9:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>San Marino</td><td class=away>Liechtenstein</td><td class="time-cell" data-announced="2026-11-28T16:30:00Z"><strong>11:30 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Uzbekistan</td><td class=away>Papua New Guinea</td><td class="time-cell" data-announced="2026-11-28T16:30:00Z"><strong>11:30 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Spain</td><td class=away>Chile</td><td class="time-cell" data-announced="2026-11-28T17:00:00Z"><strong>12:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>Canada</td><td class=away>Panama</td><td class="time-cell" data-announced="2026-11-28T18:00:00Z"><strong>1:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-warning">WC Playoff</span></td><td class=spacer></td><td class=home>Ghana</td><td class=away>Ecuador</td><td class="time-cell" data-announced="2026-11-28T19:00:00Z"><strong>2:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>Mexico</td><td class=away>Haiti</td><td class="time-cell" data-announced="2026-11-28T21:30:00Z"><strong>4:30 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>New Zealand</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-11-29T03:00:00Z"><strong>10:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Japan</td><td class=away>Brazil</td><td class="time-cell" data-announced="2026-11-29T04:55:00Z"><strong>11:55 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 </tbody></table>
 ```
