@@ -15,21 +15,6 @@ title: "Kickoff Times and Streaming Info"
 
 ## November
 
-### Saturday, November 21
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Liverpool</td><td class=away>Chelsea</td><td class="time-cell" data-announced="2026-11-21T12:45:00Z"><strong>7:45 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-purple">NWSL</span></td><td class=spacer></td><td class=home>Washington</td><td class=away>Kansas City</td><td class="time-cell" data-announced="2026-11-22T01:00:00Z"><strong>8:00 PM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">CBS</a>, <a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Sunday, November 22
 
 ```{=html}
@@ -113,6 +98,21 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Japan</td><td class=away>Brazil</td><td class="time-cell" data-announced="2026-11-29T04:55:00Z"><strong>11:55 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+</tbody></table>
+```
+
+### Sunday, November 29
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Dominican Republic</td><td class="time-cell" data-announced="2026-11-29T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Germany</td><td class="time-cell" data-announced="2026-11-29T23:15:00Z"><strong>6:15 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 </tbody></table>
 ```
