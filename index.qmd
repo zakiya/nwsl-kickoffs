@@ -15,24 +15,15 @@ title: "Kickoff Times and Streaming Info"
 
 ## November
 
-### Sunday, November 22
-
-```{=html}
-<table class="table">
-<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
-<tbody>
-<tr>
-  <td class=competition><span class="badge bg-blue">WSL</span></td><td class=spacer></td><td class=home>Arsenal</td><td class=away>West Ham</td><td class="time-cell" data-announced="2026-11-22T14:30:00Z"><strong>9:30 AM ET</strong></td><td class=stream><a href="https://www.paramountplus.com/" target="_blank" rel="noopener">Paramount+</a></td>
-</tr>
-</tbody></table>
-```
-
 ### Friday, November 27
 
 ```{=html}
 <table class="table">
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Cyprus</td><td class=away>Luxembourg</td><td class="time-cell" data-announced="2026-11-27T09:00:00Z"><strong>4:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Peru</td><td class=away>Dominican Republic</td><td class="time-cell" data-announced="2026-11-27T16:00:00Z"><strong>11:00 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
@@ -113,6 +104,24 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Germany</td><td class="time-cell" data-announced="2026-11-29T23:15:00Z"><strong>6:15 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+</tbody></table>
+```
+
+### Monday, November 30
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Cyprus</td><td class=away>Luxembourg</td><td class="time-cell" data-announced="2026-11-30T09:00:00Z"><strong>4:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Algeria</td><td class=away>Nigeria</td><td class="time-cell" data-announced="2026-11-30T17:00:00Z"><strong>12:00 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Bolivia</td><td class=away>Uruguay</td><td class="time-cell" data-announced="2026-11-30T23:00:00Z"><strong>6:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 </tbody></table>
 ```
