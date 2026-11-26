@@ -25,6 +25,9 @@ title: "Kickoff Times and Streaming Info"
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Cyprus</td><td class=away>Luxembourg</td><td class="time-cell" data-announced="2026-11-27T09:00:00Z"><strong>4:00 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-11-27T16:00:00Z"><strong>11:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Northern Ireland</td><td class=away>Greece</td><td class="time-cell" data-announced="2026-11-27T19:00:00Z"><strong>2:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
@@ -144,6 +147,9 @@ title: "Kickoff Times and Streaming Info"
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Thailand</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-12-01T07:00:00Z"><strong>2:00 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Singapore</td><td class=away>Lebanon</td><td class="time-cell" data-announced="2026-12-01T11:30:00Z"><strong>6:30 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>China</td><td class=away>Albania</td><td class="time-cell" data-announced="2026-12-01T11:35:00Z"><strong>6:35 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
@@ -154,6 +160,9 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>South Korea</td><td class=away>Belgium</td><td class="time-cell" data-announced="2026-12-01T15:00:00Z"><strong>10:00 AM ET</strong></td><td class=stream>TBD</td>
+</tr>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Ivory Coast</td><td class=away>Senegal</td><td class="time-cell" data-announced="2026-12-01T16:00:00Z"><strong>11:00 AM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Northern Ireland</td><td class=away>Greece</td><td class="time-cell" data-announced="2026-12-01T16:00:00Z"><strong>11:00 AM ET</strong></td><td class=stream>TBD</td>
@@ -169,9 +178,6 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Myanmar</td><td class=away>Hong Kong</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
-</tr>
-<tr>
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Singapore</td><td class=away>Lebanon</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 <tr>
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td class=stream>TBD</td>
@@ -205,6 +211,18 @@ title: "Kickoff Times and Streaming Info"
 </tr>
 <tr>
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T21:30:00Z"><strong>4:30 PM ET</strong></td><td class=stream>TBD</td>
+</tr>
+</tbody></table>
+```
+
+### Thursday, December 3
+
+```{=html}
+<table class="table">
+<thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
+<tbody>
+<tr>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>New Zealand</td><td class=away>Philippines</td><td class="time-cell" data-announced="2026-12-04T04:00:00Z"><strong>11:00 PM ET</strong></td><td class=stream>TBD</td>
 </tr>
 </tbody></table>
 ```
