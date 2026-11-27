@@ -79,6 +79,7 @@ title: "Upcoming Schedule"
     <option value="Hong Kong">Hong Kong</option>
     <option value="Hungary">Hungary</option>
     <option value="Iceland">Iceland</option>
+    <option value="Indonesia">Indonesia</option>
     <option value="Inter">Inter</option>
     <option value="Israel">Israel</option>
     <option value="Italy">Italy</option>
@@ -239,6 +240,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Malta" data-away="Kosovo">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Malta</td><td class=away>Kosovo</td><td class="time-cell" data-announced="2026-11-29T18:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Indonesia" data-away="TBD Away">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Indonesia</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-11-29T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="Argentina" data-away="Germany">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Argentina</td><td class=away>Germany</td><td class="time-cell" data-announced="2026-11-29T23:15:00Z"><strong>6:15 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -274,9 +278,6 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Thailand" data-away="Malawi">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Thailand</td><td class=away>Malawi</td><td class="time-cell" data-announced="2026-12-01T07:00:00Z"><strong>2:00 AM ET</strong></td><td>TBD</td>
 </tr>
-<tr class="game-row" data-home="Singapore" data-away="Lebanon">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Singapore</td><td class=away>Lebanon</td><td class="time-cell" data-announced="2026-12-01T11:30:00Z"><strong>6:30 AM ET</strong></td><td>TBD</td>
-</tr>
 <tr class="game-row" data-home="China" data-away="Albania">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>China</td><td class=away>Albania</td><td class="time-cell" data-announced="2026-12-01T11:35:00Z"><strong>6:35 AM ET</strong></td><td>TBD</td>
 </tr>
@@ -307,6 +308,9 @@ title: "Upcoming Schedule"
 <tr class="game-row" data-home="Myanmar" data-away="Hong Kong">
   <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Myanmar</td><td class=away>Hong Kong</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
+<tr class="game-row" data-home="Singapore" data-away="Lebanon">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>Singapore</td><td class=away>Lebanon</td><td class="time-cell" data-announced="2026-12-01T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
+</tr>
 <tr class="game-row" data-home="TBD Home" data-away="TBD Away">
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-01T22:00:00Z"><strong>5:00 PM ET</strong></td><td>TBD</td>
 </tr>
@@ -333,6 +337,9 @@ title: "Upcoming Schedule"
 </tr>
 <tr class="game-row" data-home="TBD Home" data-away="TBD Away">
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T18:00:00Z"><strong>1:00 PM ET</strong></td><td>TBD</td>
+</tr>
+<tr class="game-row" data-home="TBD Home" data-away="Indonesia">
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>Indonesia</td><td class="time-cell" data-announced="2026-12-02T20:00:00Z"><strong>3:00 PM ET</strong></td><td>TBD</td>
 </tr>
 <tr class="game-row" data-home="TBD Home" data-away="TBD Away">
   <td class=competition><span class="badge bg-danger">W Champs</span></td><td class=spacer></td><td class=home>TBD Home</td><td class=away>TBD Away</td><td class="time-cell" data-announced="2026-12-02T21:30:00Z"><strong>4:30 PM ET</strong></td><td>TBD</td>
@@ -499,7 +506,7 @@ title: "Upcoming Schedule"
 <thead><tr><th>Competition</th><th></th><th>Home</th><th>Away</th><th>Announced/Approx. Kickoff Time</th><th>Stream</th></tr></thead>
 <tbody>
 <tr class="game-row" data-home="United States" data-away="Panama">
-  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Panama</td><td class="time-cell" data-announced="2027-01-13T03:00:00Z"><strong>10:00 PM ET</strong></td><td>TNT, truTV, HBO Max, Universo</td>
+  <td class=competition><span class="badge bg-success">Friendly</span></td><td class=spacer></td><td class=home>United States</td><td class=away>Panama</td><td class="time-cell" data-announced="2027-01-13T03:00:00Z"><strong>10:00 PM ET</strong></td><td>TNT, truTV, HBO Max, Universo, Peacock</td>
 </tr>
 </tbody></table>
 </div>
